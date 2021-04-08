@@ -192,26 +192,31 @@ FROM
 				(
 					owld.ICD9SID = icd9.ICD9SID
 				)
-WHERE
+-- <<<<!CANCER SELECTION ZONE START!>>>>
+WHERE											
 	(
 		(
-			--icd10.ICD10Code LIKE '%C18%'		-- COLORECTAL CANCER
+			icd10.ICD10Code LIKE '%C18%'		-- COLORECTAL CANCER
+			OR
+			icd10.ICD10Code LIKE '%C19%'		-- COLORECTAL CANCER
+			OR
+			icd10.ICD10Code LIKE '%C20%'		-- COLORECTAL CANCER
 			--OR
-			--icd10.ICD10Code LIKE '%C19%'		-- COLORECTAL CANCER
+			--icd10.ICD10Code LIKE '%C34%'		-- LUNG CANCER
 			--OR
-			--icd10.ICD10Code LIKE '%C20%'		-- COLORECTAL CANCER
-			--OR
-			icd10.ICD10Code LIKE '%C34%'		-- LUNG CANCER
+			--icd10.ICD10Code LIKE '%C61%'		-- PROSTATE CANCER
 		)
 		OR
 		(
-			--icd9.ICD9Code LIKE '%153%'		-- COLORECTAL CANCER
+			icd9.ICD9Code LIKE '153%'		-- COLORECTAL CANCER
+			OR
+			icd9.ICD9Code LIKE '154.0%'		-- COLORECTAL CANCER
+			OR
+			icd9.ICD9Code LIKE '154.1%'		-- COLORECTAL CANCER
 			--OR
-			--icd9.ICD9Code LIKE '%154.0%'		-- COLORECTAL CANCER
+			--icd9.ICD9Code LIKE '162%'			-- LUNG CANCER
 			--OR
-			--icd9.ICD9Code LIKE '%154.1%'		-- COLORECTAL CANCER
-			--OR
-			icd9.ICD9Code LIKE '162%'			-- LUNG CANCER
+			--icd9.ICD9Code LIKE '185%'			-- PROSTATE CANCER
 		)
 	)
 	AND
@@ -248,23 +253,27 @@ FROM
 WHERE
 	(
 		(
-			--icd10.ICD10Code LIKE '%C18%'		---- Only select for inpatient diagnoses of COLORECTAL CANCER
+			icd10.ICD10Code LIKE '%C18%'		-- COLORECTAL CANCER
+			OR
+			icd10.ICD10Code LIKE '%C19%'		-- COLORECTAL CANCER
+			OR
+			icd10.ICD10Code LIKE '%C20%'		-- COLORECTAL CANCER
 			--OR
-			--icd10.ICD10Code LIKE '%C19%'
+			--icd10.ICD10Code LIKE '%C34%'		-- LUNG CANCER
 			--OR
-			--icd10.ICD10Code LIKE '%C20%'
-			--OR
-			icd10.ICD10Code LIKE '%C34%'
+			--icd10.ICD10Code LIKE '%C61%'		-- PROSTATE CANCER
 		)
 		OR
 		(
-			--icd9.ICD9Code LIKE '%153%'		---- Only select for inpatient diagnoses of COLORECTAL CANCER
+			icd9.ICD9Code LIKE '153%'		-- COLORECTAL CANCER
+			OR
+			icd9.ICD9Code LIKE '154.0%'		-- COLORECTAL CANCER
+			OR
+			icd9.ICD9Code LIKE '154.1%'		-- COLORECTAL CANCER
 			--OR
-			--icd9.ICD9Code LIKE '%154.0%'
+			--icd9.ICD9Code LIKE '162%'			-- LUNG CANCER
 			--OR
-			--icd9.ICD9Code LIKE '%154.1%'
-			--OR
-			icd9.ICD9Code LIKE '162%'
+			--icd9.ICD9Code LIKE '185%'			-- PROSTATE CANCER
 		)
 	)
 	AND
@@ -293,29 +302,37 @@ WHERE
 		@STEP01_SearchEnd
 	AND
 	(
-		--(
-		--	reg.SitegpX LIKE 'COLO%' 
-		--	OR 
-		--	reg.ICDOSite LIKE 'COLO%' 
-		--	OR 
-		--	reg.PrimarysiteX LIKE 'COLO%'
-		--)
-		--OR
-		--(
-		--	reg.SitegpX LIKE 'RECT%' 
-		--	OR 
-		--	reg.ICDOSite LIKE 'RECT%' 
-		--	OR 
-		--	reg.PrimarysiteX LIKE 'RECT%'
-		--)
-		--OR
 		(
-			reg.SitegpX LIKE 'LUNG%' 
+			reg.SitegpX LIKE 'COLO%' 
 			OR 
-			reg.ICDOSite LIKE 'LUNG%' 
+			reg.ICDOSite LIKE 'COLO%' 
 			OR 
-			reg.PrimarysiteX LIKE 'LUNG%'
+			reg.PrimarysiteX LIKE 'COLO%'
 		)
+		OR
+		(
+			reg.SitegpX LIKE 'RECT%' 
+			OR 
+			reg.ICDOSite LIKE 'RECT%' 
+			OR 
+			reg.PrimarysiteX LIKE 'RECT%'
+		)
+		--OR
+		--(
+			--reg.SitegpX LIKE 'LUNG%' 
+			--OR 
+			--reg.ICDOSite LIKE 'LUNG%' 
+			--OR 
+			--reg.PrimarysiteX LIKE 'LUNG%'
+		--)
+		--OR
+		--(
+		--	reg.SitegpX LIKE 'PROSTATE%' 
+		--	OR 
+		--	reg.ICDOSite LIKE 'PROSTATE%' 
+		--	OR
+		--	reg.PrimarysiteX LIKE 'PROSTATE%'
+		--)
 	)
 
 
@@ -385,23 +402,27 @@ FROM
 WHERE
 	(
 		(
-			--icd10.ICD10Code LIKE '%C18%'		-- COLORECTAL CANCER
+			icd10.ICD10Code LIKE '%C18%'		-- COLORECTAL CANCER
+			OR
+			icd10.ICD10Code LIKE '%C19%'		-- COLORECTAL CANCER
+			OR
+			icd10.ICD10Code LIKE '%C20%'		-- COLORECTAL CANCER
 			--OR
-			--icd10.ICD10Code LIKE '%C19%'		-- COLORECTAL CANCER
+			--icd10.ICD10Code LIKE '%C34%'		-- LUNG CANCER
 			--OR
-			--icd10.ICD10Code LIKE '%C20%'		-- COLORECTAL CANCER
-			--OR
-			icd10.ICD10Code LIKE '%C34%'		-- LUNG CANCER
+			--icd10.ICD10Code LIKE '%C61%'		-- PROSTATE CANCER
 		)
 		OR
 		(
-			--icd9.ICD9Code LIKE '%153%'		-- COLORECTAL CANCER
+			icd9.ICD9Code LIKE '153%'		-- COLORECTAL CANCER
+			OR
+			icd9.ICD9Code LIKE '154.0%'		-- COLORECTAL CANCER
+			OR
+			icd9.ICD9Code LIKE '154.1%'		-- COLORECTAL CANCER
 			--OR
-			--icd9.ICD9Code LIKE '%154.0%'		-- COLORECTAL CANCER
+			--icd9.ICD9Code LIKE '162%'			-- LUNG CANCER
 			--OR
-			--icd9.ICD9Code LIKE '%154.1%'		-- COLORECTAL CANCER
-			--OR
-			icd9.ICD9Code LIKE '162%'			-- LUNG CANCER
+			--icd9.ICD9Code LIKE '185%'			-- PROSTATE CANCER
 		)
 	)
 	AND
@@ -438,23 +459,27 @@ FROM
 WHERE
 	(
 		(
-			--icd10.ICD10Code LIKE '%C18%'		---- Only select for inpatient diagnoses of COLORECTAL CANCER
+			icd10.ICD10Code LIKE '%C18%'		-- COLORECTAL CANCER
+			OR
+			icd10.ICD10Code LIKE '%C19%'		-- COLORECTAL CANCER
+			OR
+			icd10.ICD10Code LIKE '%C20%'		-- COLORECTAL CANCER
 			--OR
-			--icd10.ICD10Code LIKE '%C19%'
+			--icd10.ICD10Code LIKE '%C34%'		-- LUNG CANCER
 			--OR
-			--icd10.ICD10Code LIKE '%C20%'
-			--OR
-			icd10.ICD10Code LIKE '%C34%'
+			--icd10.ICD10Code LIKE '%C61%'		-- PROSTATE CANCER
 		)
 		OR
 		(
-			--icd9.ICD9Code LIKE '%153%'		---- Only select for inpatient diagnoses of COLORECTAL CANCER
+			icd9.ICD9Code LIKE '153%'		-- COLORECTAL CANCER
+			OR
+			icd9.ICD9Code LIKE '154.0%'		-- COLORECTAL CANCER
+			OR
+			icd9.ICD9Code LIKE '154.1%'		-- COLORECTAL CANCER
 			--OR
-			--icd9.ICD9Code LIKE '%154.0%'
+			--icd9.ICD9Code LIKE '162%'			-- LUNG CANCER
 			--OR
-			--icd9.ICD9Code LIKE '%154.1%'
-			--OR
-			icd9.ICD9Code LIKE '162%'
+			--icd9.ICD9Code LIKE '185%'			-- PROSTATE CANCER
 		)
 	)
 	AND
@@ -483,30 +508,39 @@ WHERE
 		@STEP02_ExcludeEnd
 	AND
 	(
-		--(
-		--	reg.SitegpX LIKE 'COLO%' 
-		--	OR 
-		--	reg.ICDOSite LIKE 'COLO%' 
-		--	OR 
-		--	reg.PrimarysiteX LIKE 'COLO%'
-		--)
-		--OR
-		--(
-		--	reg.SitegpX LIKE 'RECT%' 
-		--	OR 
-		--	reg.ICDOSite LIKE 'RECT%' 
-		--	OR 
-		--	reg.PrimarysiteX LIKE 'RECT%'
-		--)
-		--OR
 		(
-			reg.SitegpX LIKE 'LUNG%' 
+			reg.SitegpX LIKE 'COLO%' 
 			OR 
-			reg.ICDOSite LIKE 'LUNG%' 
+			reg.ICDOSite LIKE 'COLO%' 
 			OR 
-			reg.PrimarysiteX LIKE 'LUNG%'
+			reg.PrimarysiteX LIKE 'COLO%'
 		)
+		OR
+		(
+			reg.SitegpX LIKE 'RECT%' 
+			OR 
+			reg.ICDOSite LIKE 'RECT%' 
+			OR 
+			reg.PrimarysiteX LIKE 'RECT%'
+		)
+		--OR
+		--(
+		--	reg.SitegpX LIKE 'LUNG%' 
+		--	OR 
+		--	reg.ICDOSite LIKE 'LUNG%' 
+		--	OR 
+		--	reg.PrimarysiteX LIKE 'LUNG%'
+		--)
+		--OR
+		--(
+		--	reg.SitegpX LIKE 'PROSTATE%' 
+		--	OR 
+		--	reg.ICDOSite LIKE 'PROSTATE%' 
+		--	OR
+		--	reg.PrimarysiteX LIKE 'PROSTATE%'
+		--)
 	)
+-- <<<<!CANCER SELECTION ZONE END!>>>>
 
 
 GO
@@ -1287,6 +1321,59 @@ WHERE
 	fin.ECTypeOfEvent = 'INPATIENT'
 
 
+-- SAVE TABLE (PLEASE REPLACE "Dflt._pk_OUTPUT_TABLE" WITH THE NAME YOU WANT)
+-- ================================================================================================
+
+-- Create tables 
+IF (OBJECT_ID('Dflt._pk_OUTPUT_TABLE') IS NOT NULL)
+	BEGIN
+		DROP TABLE Dflt._pk_OUTPUT_TABLE
+	END
+
+CREATE TABLE Dflt._pk_OUTPUT_TABLE
+(
+	PatientSSN VARCHAR(100)
+	,DiagnosisEventDate DATE
+	,DiagnosisEventLocation VARCHAR(100)
+	,EmergencyEventDate DATE
+	,EmergencyEventLocation VARCHAR(100)
+)
+
+INSERT INTO Dflt._pk_OUTPUT_TABLE
+SELECT DISTINCT
+	CONCAT('''', fin.PatientSSN, '''')
+	,CAST(fin.DiagnosisEventDateTime AS DATE)
+	,CONCAT('''', reg.CitytownAtDX, ', ', '''', reg.StateatdXX)
+	,CAST(fin.ECEventDateTime AS DATE)
+	,CONCAT('''', st3.City, ', ', '''', sta.StateAbbrev)
+FROM
+	Dflt._pk_EXCLUSION_FINAL AS fin LEFT JOIN Src.Oncology_Oncology_Primary_165_5 AS reg ON 
+	(
+		fin.DiagnosisEventSID = reg.OncologyPrimaryIEN 
+		AND 
+		fin.DiagnosisEventDateTime = reg.DateDX
+		AND 
+		fin.PatientSID = reg.PatientSID 	
+	)
+		LEFT JOIN Src.Inpat_Inpatient AS inp ON
+		(
+			fin.ECEventSID = inp.InpatientSID
+		)
+			LEFT JOIN CDWWork.Dim.Sta3n AS st3 ON
+			(
+				inp.Sta3n = st3.Sta3n
+			)
+				LEFT JOIN CDWWork.Dim.[State] AS sta ON
+				(
+					st3.StateSID = sta.StateSID
+				)
+
+WHERE
+	fin.DiagnosisTypeOfEvent = 'REGISTRY ENTRY'
+	AND
+	fin.ECTypeOfEvent = 'INPATIENT'
+
+
 
 -- DELETE TABLES
 -- ================================================================================================
@@ -1395,4 +1482,9 @@ IF (OBJECT_ID('Dflt._pk_EXCLUSION_STEP01_Z') IS NOT NULL)
 IF (OBJECT_ID('Dflt._pk_EXCLUSION_STEP02_Z') IS NOT NULL)
 	BEGIN
 		DROP TABLE Dflt._pk_EXCLUSION_STEP02_Z
+	END
+
+IF (OBJECT_ID('Dflt._pk_EXCLUSION_FINAL') IS NOT NULL)
+	BEGIN
+		DROP TABLE Dflt._pk_EXCLUSION_FINAL
 	END
