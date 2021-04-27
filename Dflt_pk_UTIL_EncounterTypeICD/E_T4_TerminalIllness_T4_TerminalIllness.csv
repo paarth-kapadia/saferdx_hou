@@ -1,0 +1,161 @@
+﻿ICD-10-CM Code,ICD-10-CM Code Description,CCSR Category,CCSR Category Description,Default CCSR (Y/N/X),Rationale,Type of Terminal Illness
+C3400,Malignant neoplasm of unspecified main bronchus,NEO022,Respiratory cancers,Y,0 Not Applicable,Lung Cancer
+C3401,Malignant neoplasm of right main bronchus,NEO022,Respiratory cancers,Y,0 Not Applicable,Lung Cancer
+C3402,Malignant neoplasm of left main bronchus,NEO022,Respiratory cancers,Y,0 Not Applicable,Lung Cancer
+C3410,"Malignant neoplasm of upper lobe, unsp bronchus or lung",NEO022,Respiratory cancers,Y,0 Not Applicable,Lung Cancer
+C3411,"Malignant neoplasm of upper lobe, right bronchus or lung",NEO022,Respiratory cancers,Y,0 Not Applicable,Lung Cancer
+C3412,"Malignant neoplasm of upper lobe, left bronchus or lung",NEO022,Respiratory cancers,Y,0 Not Applicable,Lung Cancer
+C342,"Malignant neoplasm of middle lobe, bronchus or lung",NEO022,Respiratory cancers,Y,0 Not Applicable,Lung Cancer
+C3430,"Malignant neoplasm of lower lobe, unsp bronchus or lung",NEO022,Respiratory cancers,Y,0 Not Applicable,Lung Cancer
+C3431,"Malignant neoplasm of lower lobe, right bronchus or lung",NEO022,Respiratory cancers,Y,0 Not Applicable,Lung Cancer
+C3432,"Malignant neoplasm of lower lobe, left bronchus or lung",NEO022,Respiratory cancers,Y,0 Not Applicable,Lung Cancer
+C3480,Malignant neoplasm of ovrlp sites of unsp bronchus and lung,NEO022,Respiratory cancers,Y,0 Not Applicable,Lung Cancer
+C3481,Malignant neoplasm of ovrlp sites of right bronchus and lung,NEO022,Respiratory cancers,Y,0 Not Applicable,Lung Cancer
+C3482,Malignant neoplasm of ovrlp sites of left bronchus and lung,NEO022,Respiratory cancers,Y,0 Not Applicable,Lung Cancer
+C3490,Malignant neoplasm of unsp part of unsp bronchus or lung,NEO022,Respiratory cancers,Y,0 Not Applicable,Lung Cancer
+C3491,Malignant neoplasm of unsp part of right bronchus or lung,NEO022,Respiratory cancers,Y,0 Not Applicable,Lung Cancer
+C3492,Malignant neoplasm of unsp part of left bronchus or lung,NEO022,Respiratory cancers,Y,0 Not Applicable,Lung Cancer
+C250,Malignant neoplasm of head of pancreas,NEO051,Endocrine system cancers - pancreas,Y,0 Not Applicable,Pancreatic cancer
+C251,Malignant neoplasm of body of pancreas,NEO051,Endocrine system cancers - pancreas,Y,0 Not Applicable,Pancreatic cancer
+C252,Malignant neoplasm of tail of pancreas,NEO051,Endocrine system cancers - pancreas,Y,0 Not Applicable,Pancreatic cancer
+C253,Malignant neoplasm of pancreatic duct,NEO051,Endocrine system cancers - pancreas,Y,0 Not Applicable,Pancreatic cancer
+C254,Malignant neoplasm of endocrine pancreas,NEO051,Endocrine system cancers - pancreas,Y,0 Not Applicable,Pancreatic cancer
+C257,Malignant neoplasm of other parts of pancreas,NEO051,Endocrine system cancers - pancreas,Y,0 Not Applicable,Pancreatic cancer
+C258,Malignant neoplasm of overlapping sites of pancreas,NEO051,Endocrine system cancers - pancreas,Y,0 Not Applicable,Pancreatic cancer
+C259,"Malignant neoplasm of pancreas, unspecified",NEO051,Endocrine system cancers - pancreas,Y,0 Not Applicable,Pancreatic cancer
+C9200,"Acute myeloblastic leukemia, not having achieved remission",NEO060,Leukemia - acute myeloid leukemia (AML),Y,0 Not Applicable,Acute leukemia
+C9201,"Acute myeloblastic leukemia, in remission",NEO060,Leukemia - acute myeloid leukemia (AML),Y,0 Not Applicable,Acute leukemia
+C9202,"Acute myeloblastic leukemia, in relapse",NEO060,Leukemia - acute myeloid leukemia (AML),Y,0 Not Applicable,Acute leukemia
+C9240,"Acute promyelocytic leukemia, not having achieved remission",NEO060,Leukemia - acute myeloid leukemia (AML),Y,0 Not Applicable,Acute leukemia
+C9241,"Acute promyelocytic leukemia, in remission",NEO060,Leukemia - acute myeloid leukemia (AML),Y,0 Not Applicable,Acute leukemia
+C9242,"Acute promyelocytic leukemia, in relapse",NEO060,Leukemia - acute myeloid leukemia (AML),Y,0 Not Applicable,Acute leukemia
+C9250,"Acute myelomonocytic leukemia, not having achieved remission",NEO060,Leukemia - acute myeloid leukemia (AML),Y,0 Not Applicable,Acute leukemia
+C9251,"Acute myelomonocytic leukemia, in remission",NEO060,Leukemia - acute myeloid leukemia (AML),Y,0 Not Applicable,Acute leukemia
+C9252,"Acute myelomonocytic leukemia, in relapse",NEO060,Leukemia - acute myeloid leukemia (AML),Y,0 Not Applicable,Acute leukemia
+C9260,Acute myeloid leukemia w 11q23-abnormality not achieve remis,NEO060,Leukemia - acute myeloid leukemia (AML),Y,0 Not Applicable,Acute leukemia
+C9261,Acute myeloid leukemia with 11q23-abnormality in remission,NEO060,Leukemia - acute myeloid leukemia (AML),Y,0 Not Applicable,Acute leukemia
+C9262,Acute myeloid leukemia with 11q23-abnormality in relapse,NEO060,Leukemia - acute myeloid leukemia (AML),Y,0 Not Applicable,Acute leukemia
+C92A0,"Acute myeloid leuk w multilin dysplasia, not achieve remis",NEO060,Leukemia - acute myeloid leukemia (AML),Y,0 Not Applicable,Acute leukemia
+C92A1,"Acute myeloid leukemia w multilin dysplasia, in remission",NEO060,Leukemia - acute myeloid leukemia (AML),Y,0 Not Applicable,Acute leukemia
+C92A2,"Acute myeloid leukemia w multilineage dysplasia, in relapse",NEO060,Leukemia - acute myeloid leukemia (AML),Y,0 Not Applicable,Acute leukemia
+C9300,"Acute monoblastic/monocytic leukemia, not achieve remission",NEO060,Leukemia - acute myeloid leukemia (AML),Y,0 Not Applicable,Acute leukemia
+C9301,"Acute monoblastic/monocytic leukemia, in remission",NEO060,Leukemia - acute myeloid leukemia (AML),Y,0 Not Applicable,Acute leukemia
+C9302,"Acute monoblastic/monocytic leukemia, in relapse",NEO060,Leukemia - acute myeloid leukemia (AML),Y,0 Not Applicable,Acute leukemia
+C9400,"Acute erythroid leukemia, not having achieved remission",NEO060,Leukemia - acute myeloid leukemia (AML),Y,0 Not Applicable,Acute leukemia
+C9401,"Acute erythroid leukemia, in remission",NEO060,Leukemia - acute myeloid leukemia (AML),Y,0 Not Applicable,Acute leukemia
+C9402,"Acute erythroid leukemia, in relapse",NEO060,Leukemia - acute myeloid leukemia (AML),Y,0 Not Applicable,Acute leukemia
+C9420,Acute megakaryoblastic leukemia not achieve remission,NEO060,Leukemia - acute myeloid leukemia (AML),Y,0 Not Applicable,Acute leukemia
+C9421,"Acute megakaryoblastic leukemia, in remission",NEO060,Leukemia - acute myeloid leukemia (AML),Y,0 Not Applicable,Acute leukemia
+C9422,"Acute megakaryoblastic leukemia, in relapse",NEO060,Leukemia - acute myeloid leukemia (AML),Y,0 Not Applicable,Acute leukemia
+C9440,Acute panmyelosis w myelofibrosis not achieve remission,NEO064,Leukemia - all other types,Y,0 Not Applicable,Acute leukemia
+C9441,"Acute panmyelosis with myelofibrosis, in remission",NEO064,Leukemia - all other types,Y,0 Not Applicable,Acute leukemia
+C9442,"Acute panmyelosis with myelofibrosis, in relapse",NEO064,Leukemia - all other types,Y,0 Not Applicable,Acute leukemia
+C9500,Acute leukemia of unsp cell type not achieve remission,NEO064,Leukemia - all other types,Y,0 Not Applicable,Acute leukemia
+C9501,"Acute leukemia of unspecified cell type, in remission",NEO064,Leukemia - all other types,Y,0 Not Applicable,Acute leukemia
+C9502,"Acute leukemia of unspecified cell type, in relapse",NEO064,Leukemia - all other types,Y,0 Not Applicable,Acute leukemia
+C220,Liver cell carcinoma,NEO017,Gastrointestinal cancers - liver,Y,0 Not Applicable,Hepatocellular and intrahepatic bile duct cancer
+C221,Intrahepatic bile duct carcinoma,NEO018,Gastrointestinal cancers - bile duct,Y,0 Not Applicable,Hepatocellular and intrahepatic bile duct cancer
+C222,Hepatoblastoma,NEO017,Gastrointestinal cancers - liver,Y,0 Not Applicable,Hepatocellular and intrahepatic bile duct cancer
+C223,Angiosarcoma of liver,NEO017,Gastrointestinal cancers - liver,Y,0 Not Applicable,Hepatocellular and intrahepatic bile duct cancer
+C224,Other sarcomas of liver,NEO017,Gastrointestinal cancers - liver,Y,0 Not Applicable,Hepatocellular and intrahepatic bile duct cancer
+C227,Other specified carcinomas of liver,NEO017,Gastrointestinal cancers - liver,Y,0 Not Applicable,Hepatocellular and intrahepatic bile duct cancer
+C228,"Malignant neoplasm of liver, primary, unspecified as to type",NEO017,Gastrointestinal cancers - liver,Y,0 Not Applicable,Hepatocellular and intrahepatic bile duct cancer
+C229,"Malig neoplasm of liver, not specified as primary or sec",NEO017,Gastrointestinal cancers - liver,Y,0 Not Applicable,Hepatocellular and intrahepatic bile duct cancer
+C23,Malignant neoplasm of gallbladder,NEO019,Gastrointestinal cancers - gallbladder,Y,0 Not Applicable,Gallbladder and Biliary cancers
+C240,Malignant neoplasm of extrahepatic bile duct,NEO021,Gastrointestinal cancers - all other types,Y,0 Not Applicable,Gallbladder and Biliary cancers
+C241,Malignant neoplasm of ampulla of Vater,NEO021,Gastrointestinal cancers - all other types,Y,0 Not Applicable,Gallbladder and Biliary cancers
+C248,Malignant neoplasm of overlapping sites of biliary tract,NEO021,Gastrointestinal cancers - all other types,Y,0 Not Applicable,Gallbladder and Biliary cancers
+C249,"Malignant neoplasm of biliary tract, unspecified",NEO021,Gastrointestinal cancers - all other types,Y,0 Not Applicable,Gallbladder and Biliary cancers
+C153,Malignant neoplasm of upper third of esophagus,NEO012,Gastrointestinal cancers - esophagus,Y,0 Not Applicable,Esophageal cancer
+C154,Malignant neoplasm of middle third of esophagus,NEO012,Gastrointestinal cancers - esophagus,Y,0 Not Applicable,Esophageal cancer
+C155,Malignant neoplasm of lower third of esophagus,NEO012,Gastrointestinal cancers - esophagus,Y,0 Not Applicable,Esophageal cancer
+C158,Malignant neoplasm of overlapping sites of esophagus,NEO012,Gastrointestinal cancers - esophagus,Y,0 Not Applicable,Esophageal cancer
+C159,"Malignant neoplasm of esophagus, unspecified",NEO012,Gastrointestinal cancers - esophagus,Y,0 Not Applicable,Esophageal cancer
+C160,Malignant neoplasm of cardia,NEO013,Gastrointestinal cancers - stomach,Y,0 Not Applicable,Gatric cancer
+C161,Malignant neoplasm of fundus of stomach,NEO013,Gastrointestinal cancers - stomach,Y,0 Not Applicable,Gatric cancer
+C162,Malignant neoplasm of body of stomach,NEO013,Gastrointestinal cancers - stomach,Y,0 Not Applicable,Gatric cancer
+C163,Malignant neoplasm of pyloric antrum,NEO013,Gastrointestinal cancers - stomach,Y,0 Not Applicable,Gatric cancer
+C164,Malignant neoplasm of pylorus,NEO013,Gastrointestinal cancers - stomach,Y,0 Not Applicable,Gatric cancer
+C165,"Malignant neoplasm of lesser curvature of stomach, unsp",NEO013,Gastrointestinal cancers - stomach,Y,0 Not Applicable,Gatric cancer
+C166,"Malignant neoplasm of greater curvature of stomach, unsp",NEO013,Gastrointestinal cancers - stomach,Y,0 Not Applicable,Gatric cancer
+C168,Malignant neoplasm of overlapping sites of stomach,NEO013,Gastrointestinal cancers - stomach,Y,0 Not Applicable,Gatric cancer
+C169,"Malignant neoplasm of stomach, unspecified",NEO013,Gastrointestinal cancers - stomach,Y,0 Not Applicable,Gatric cancer
+C711,Malignant neoplasm of frontal lobe,NEO048,Nervous system cancers - brain,Y,0 Not Applicable,Brain Cancer
+C712,Malignant neoplasm of temporal lobe,NEO048,Nervous system cancers - brain,Y,0 Not Applicable,Brain Cancer
+C713,Malignant neoplasm of parietal lobe,NEO048,Nervous system cancers - brain,Y,0 Not Applicable,Brain Cancer
+C714,Malignant neoplasm of occipital lobe,NEO048,Nervous system cancers - brain,Y,0 Not Applicable,Brain Cancer
+C715,Malignant neoplasm of cerebral ventricle,NEO048,Nervous system cancers - brain,Y,0 Not Applicable,Brain Cancer
+C716,Malignant neoplasm of cerebellum,NEO048,Nervous system cancers - brain,Y,0 Not Applicable,Brain Cancer
+C717,Malignant neoplasm of brain stem,NEO048,Nervous system cancers - brain,Y,0 Not Applicable,Brain Cancer
+C718,Malignant neoplasm of overlapping sites of brain,NEO048,Nervous system cancers - brain,Y,0 Not Applicable,Brain Cancer
+C719,"Malignant neoplasm of brain, unspecified",NEO048,Nervous system cancers - brain,Y,0 Not Applicable,Brain Cancer
+C55,"Malignant neoplasm of uterus, part unspecified",NEO031,Female reproductive system cancers - uterus,Y,0 Not Applicable,Uterine cancer
+C561,Malignant neoplasm of right ovary,NEO033,Female reproductive system cancers - ovary,Y,0 Not Applicable,ovarian cancer
+C562,Malignant neoplasm of left ovary,NEO033,Female reproductive system cancers - ovary,Y,0 Not Applicable,ovarian cancer
+C569,Malignant neoplasm of unspecified ovary,NEO033,Female reproductive system cancers - ovary,Y,0 Not Applicable,ovarian cancer
+C384,Malignant neoplasm of pleura,NEO022,Respiratory cancers,Y,0 Not Applicable,neoplasm of pleura
+C450,Mesothelioma of pleura,NEO067,Mesothelioma,Y,0 Not Applicable,Mesothelioma
+C451,Mesothelioma of peritoneum,NEO067,Mesothelioma,Y,0 Not Applicable,Mesothelioma
+C452,Mesothelioma of pericardium,NEO067,Mesothelioma,Y,0 Not Applicable,Mesothelioma
+C457,Mesothelioma of other sites,NEO067,Mesothelioma,Y,0 Not Applicable,Mesothelioma
+C459,"Mesothelioma, unspecified",NEO067,Mesothelioma,Y,0 Not Applicable,Mesothelioma
+C481,Malignant neoplasm of specified parts of peritoneum,NEO020,Gastrointestinal cancers - peritoneum,Y,0 Not Applicable," neoplasm of peritoneum"
+C482,"Malignant neoplasm of peritoneum, unspecified",NEO020,Gastrointestinal cancers - peritoneum,Y,0 Not Applicable," neoplasm of peritoneum"
+C488,Malignant neoplasm of overlapping sites of retroperitoneum and peritoneum,NEO020,Gastrointestinal cancers - peritoneum,Y,12 More than one CCSR category matches the ICD-10-CM codebook chapter," neoplasm of peritoneum"
+C9000,Multiple myeloma not having achieved remission,NEO065,Multiple myeloma,Y,0 Not Applicable,Multiple myeloma
+C9001,Multiple myeloma in remission,NEO065,Multiple myeloma,Y,0 Not Applicable,Multiple myeloma
+C9002,Multiple myeloma in relapse,NEO065,Multiple myeloma,Y,0 Not Applicable,Multiple myeloma
+C9010,Plasma cell leukemia not having achieved remission,NEO065,Multiple myeloma,Y,0 Not Applicable,Multiple myeloma
+C9011,Plasma cell leukemia in remission,NEO065,Multiple myeloma,Y,0 Not Applicable,Multiple myeloma
+C9012,Plasma cell leukemia in relapse,NEO065,Multiple myeloma,Y,0 Not Applicable,Multiple myeloma
+C9020,Extramedullary plasmacytoma not having achieved remission,NEO065,Multiple myeloma,Y,0 Not Applicable,Multiple myeloma
+C9021,Extramedullary plasmacytoma in remission,NEO065,Multiple myeloma,Y,0 Not Applicable,Multiple myeloma
+C9022,Extramedullary plasmacytoma in relapse,NEO065,Multiple myeloma,Y,0 Not Applicable,Multiple myeloma
+C9030,Solitary plasmacytoma not having achieved remission,NEO065,Multiple myeloma,Y,0 Not Applicable,Multiple myeloma
+C9031,Solitary plasmacytoma in remission,NEO065,Multiple myeloma,Y,0 Not Applicable,Multiple myeloma
+C9032,Solitary plasmacytoma in relapse,NEO065,Multiple myeloma,Y,0 Not Applicable,Multiple myeloma
+D47Z9,"Oth neoplm of uncrt behav of lymphoid, hematpoetc & rel tiss",NEO072,Neoplasms of unspecified nature or uncertain behavior,Y,0 Not Applicable,Multiple myeloma
+C33,Malignant neoplasm of trachea,NEO022,Respiratory cancers,Y,0 Not Applicable,Tracheal Cancer
+C770,"Sec and unsp malig neoplasm of nodes of head, face and neck",NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C771,Secondary and unsp malignant neoplasm of intrathorac nodes,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C772,Secondary and unsp malignant neoplasm of intra-abd nodes,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C773,Sec and unsp malig neoplasm of axilla and upper limb nodes,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C774,Sec and unsp malig neoplasm of inguinal and lower limb nodes,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C775,Secondary and unsp malignant neoplasm of intrapelv nodes,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C778,Sec and unsp malig neoplasm of nodes of multiple regions,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C779,"Secondary and unsp malignant neoplasm of lymph node, unsp",NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7800,Secondary malignant neoplasm of unspecified lung,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7801,Secondary malignant neoplasm of right lung,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7802,Secondary malignant neoplasm of left lung,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C781,Secondary malignant neoplasm of mediastinum,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C782,Secondary malignant neoplasm of pleura,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7830,Secondary malignant neoplasm of unsp respiratory organ,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7839,Secondary malignant neoplasm of other respiratory organs,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C784,Secondary malignant neoplasm of small intestine,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C785,Secondary malignant neoplasm of large intestine and rectum,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C786,Secondary malignant neoplasm of retroperiton and peritoneum,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C787,Secondary malig neoplasm of liver and intrahepatic bile duct,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7880,Secondary malignant neoplasm of unspecified digestive organ,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7889,Secondary malignant neoplasm of other digestive organs,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7900,Secondary malignant neoplasm of unsp kidney and renal pelvis,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7901,Secondary malignant neoplasm of r kidney and renal pelvis,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7902,Secondary malignant neoplasm of left kidney and renal pelvis,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7910,Secondary malignant neoplasm of unspecified urinary organs,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7911,Secondary malignant neoplasm of bladder,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7919,Secondary malignant neoplasm of other urinary organs,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7931,Secondary malignant neoplasm of brain,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7932,Secondary malignant neoplasm of cerebral meninges,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7940,Secondary malignant neoplasm of unsp part of nervous system,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7949,Secondary malignant neoplasm of oth parts of nervous system,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7951,Secondary malignant neoplasm of bone,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7952,Secondary malignant neoplasm of bone marrow,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7960,Secondary malignant neoplasm of unspecified ovary,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7961,Secondary malignant neoplasm of right ovary,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7962,Secondary malignant neoplasm of left ovary,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7970,Secondary malignant neoplasm of unspecified adrenal gland,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7971,Secondary malignant neoplasm of right adrenal gland,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7972,Secondary malignant neoplasm of left adrenal gland,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7981,Secondary malignant neoplasm of breast,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7982,Secondary malignant neoplasm of genital organs,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C7989,Secondary malignant neoplasm of other specified sites,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
+C799,Secondary malignant neoplasm of unspecified site,NEO070,Secondary malignancies,Y,0 Not Applicable,Secondary malignancies
