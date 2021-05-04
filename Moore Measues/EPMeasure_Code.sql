@@ -1,4 +1,4 @@
-OA-- Title: Emergency Cancer Diagnosis eMeasure
+-- Title: Emergency Cancer Diagnosis eMeasure
 -- Author: Paarth Kapadia
 
 USE ORD_Singh_202001030D
