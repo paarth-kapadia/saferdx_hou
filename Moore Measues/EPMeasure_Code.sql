@@ -402,11 +402,8 @@ CREATE TABLE Dflt._pk_INCLUSION_STEP03_A
 -- Get SSNs of patients in the search period that had cancer records in the exclusion period
 INSERT INTO Dflt._pk_INCLUSION_STEP03_A
 SELECT DISTINCT srch.PatientSSN
-FROM
-	Dflt._pk_INCLUSION_STEP01_Z AS srch INNER JOIN Dflt._pk_INCLUSION_STEP02_Z AS exc ON
-	(
-		srch.PatientSSN = exc.PatientSSN
-	)
+FROM Dflt._pk_INCLUSION_STEP01_Z AS srch
+INNER JOIN Dflt._pk_INCLUSION_STEP02_Z AS exc ON (srch.PatientSSN = exc.PatientSSN)
 
 
 
