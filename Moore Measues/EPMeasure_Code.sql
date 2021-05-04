@@ -1,32 +1,11 @@
--- ////////////////////////////////////////////////////////////////////////////////////////////////
--- ////////////////////////////////////////////////////////////////////////////////////////////////
 -- Title: Emergency Cancer Diagnosis eMeasure
 -- Author: Paarth Kapadia
 -- Last Updated: 2020-12-29
--- ////////////////////////////////////////////////////////////////////////////////////////////////
--- ////////////////////////////////////////////////////////////////////////////////////////////////
 
-
-
--- ************************************************************************************************
--- SET-UP
--- ************************************************************************************************
-
-
--- CONFIG
--- ================================================================================================
-
-
--- Set Database
 USE ORD_Singh_202001030D
-
-
 GO
 
-
--- PARAMETER TABLE
--- ================================================================================================
-
+-- PARAMETER TABLE ================================================================================
 
 -- Declare Parameter Variables
 DECLARE @Search_Start DATETIME2
@@ -35,14 +14,12 @@ DECLARE @Exclude_Length_Years INT
 DECLARE @Lookback_Length_Days INT
 DECLARE @CareHx_Length_Months INT
 
-
 -- Set Parameter Variables
 SET @Search_Start = '2019-01-01'
 SET @Search_Length_Months = 12
 SET @Exclude_Length_Years = -50
 SET @Lookback_Length_Days = -30
 SET @CareHx_Length_Months = 24
-
 
 -- Create Parameter Table
 IF (OBJECT_ID('Dflt._pk_ParameterTable') IS NOT NULL)
@@ -58,7 +35,6 @@ CREATE TABLE Dflt._pk_ParameterTable
 	,Lookback_Length_Days INT
 	,CareHx_Length_Months INT
 )
-
 
 -- Insert Variables into Parameter Table
 INSERT INTO Dflt._pk_ParameterTable
@@ -77,16 +53,13 @@ VALUES
 	,@Lookback_Length_Days
 	,@CareHx_Length_Months
 )
-
-
 GO
 
 
--- PLANNED HOSPITALIZATION ICD-10-CM + ICD-10-PCS CODES TABLES
--- ================================================================================================
 
 
--- Create tables
+-- PLANNED HOSPITALIZATION ICD-10-CM + ICD-10-PCS CODES TABLES ====================================
+
 IF (OBJECT_ID('Dflt._pk_SETUP_PlannedHospitalization_ICD10CMCodes') IS NOT NULL)
 	BEGIN
 		DROP TABLE Dflt._pk_SETUP_PlannedHospitalization_ICD10CMCodes
@@ -107,7 +80,6 @@ CREATE TABLE Dflt._pk_SETUP_PlannedHospitalization_ICD10PCSCodes
 	ICD10PCSCode VARCHAR(50)
 )
 
-
 -- Compile codes
 INSERT INTO Dflt._pk_SETUP_PlannedHospitalization_ICD10CMCodes
 SELECT ex.[ICD-10-CM Code]
@@ -122,8 +94,8 @@ INSERT INTO Dflt._pk_SETUP_PlannedHospitalization_ICD10PCSCodes
 SELECT ex.[ICD-10-PCS CODE]
 FROM Dflt._pk_UTIL_EncounterTypeICD_T1_Plan_T1_SometimesPlannedProcedures AS ex
 
-
 GO
+
 
 
 
@@ -131,14 +103,7 @@ GO
 -- INCLUSION
 -- ************************************************************************************************
 
-
--- STEP 01
--- ================================================================================================ 
-
-
--- PART A (z)
--- ------------------------------------------------------------------------------------------------ 
-
+-- I.01.A ---------------------------------------------------------------------------------------- 
 
 -- Set the search period
 DECLARE @STEP01_SearchStart DATETIME2
@@ -150,8 +115,6 @@ SET @STEP01_SearchEnd = DATEADD(MONTH, (SELECT params.Search_Length_Months FROM 
 PRINT CHAR(13) + CHAR(10) + 'Step 01 - Search Period Start: ' + CAST(@STEP01_SearchStart AS VARCHAR)
 PRINT 'Step 01 - Search Period End: ' + CAST(@STEP01_SearchEnd AS VARCHAR)
 
-
--- Create tables 
 IF (OBJECT_ID('Dflt._pk_INCLUSION_STEP01_Z') IS NOT NULL)
 	BEGIN
 		DROP TABLE Dflt._pk_INCLUSION_STEP01_Z
@@ -165,7 +128,6 @@ CREATE TABLE Dflt._pk_INCLUSION_STEP01_Z
 	,DiagnosisEventDateTime DATETIME2
 	,TypeOfEvent VARCHAR(50)
 )
-
 
 -- Get outpatient encounters with a diagnostic code associated with the cancer of study
 INSERT INTO Dflt._pk_INCLUSION_STEP01_Z
@@ -334,18 +296,12 @@ WHERE
 		--	reg.PrimarysiteX LIKE 'PROSTATE%'
 		--)
 	)
-
-
 GO
 
 
--- STEP 02
--- ================================================================================================
 
 
--- PART A (z)
--- ------------------------------------------------------------------------------------------------ 
-
+-- I.02.A ---------------------------------------------------------------------------------------- 
 
 -- Set the exclusion period 
 DECLARE @STEP02_ExcludeStart DATETIME2
@@ -357,8 +313,6 @@ SET @STEP02_ExcludeEnd = (SELECT params.Search_Start FROM Dflt._pk_ParameterTabl
 PRINT CHAR(13) + CHAR(10) + 'Step 02 - Exclusion Period Start: ' + CAST(@STEP02_ExcludeStart AS VARCHAR)
 PRINT 'Step 02 - Exclusion Period End: ' + CAST(@STEP02_ExcludeEnd AS VARCHAR)
 
-
--- Create tables 
 IF (OBJECT_ID('Dflt._pk_INCLUSION_STEP02_Z') IS NOT NULL)
 	BEGIN
 		DROP TABLE Dflt._pk_INCLUSION_STEP02_Z
@@ -372,7 +326,6 @@ CREATE TABLE Dflt._pk_INCLUSION_STEP02_Z
 	,DiagnosisEventDateTime DATETIME2
 	,TypeOfEvent VARCHAR(50)
 )
-
 
 -- Get outpatient encounters with a diagnostic code associated with the cancer of study
 INSERT INTO Dflt._pk_INCLUSION_STEP02_Z
@@ -541,20 +494,13 @@ WHERE
 		--)
 	)
 -- <<<<!CANCER SELECTION ZONE END!>>>>
-
-
 GO
 
 
--- STEP 03
--- ================================================================================================
 
 
--- PART A
--- ------------------------------------------------------------------------------------------------ 
+-- I.03.A ----------------------------------------------------------------------------------------
 
-
--- Create tables 
 IF (OBJECT_ID('Dflt._pk_INCLUSION_STEP03_A') IS NOT NULL)
 	BEGIN
 		DROP TABLE Dflt._pk_INCLUSION_STEP03_A
@@ -564,7 +510,6 @@ CREATE TABLE Dflt._pk_INCLUSION_STEP03_A
 (
 	PatientSSN VARCHAR(10)
 )
-
 
 -- Get SSNs of patients in the search period that had cancer records in the exclusion period
 INSERT INTO Dflt._pk_INCLUSION_STEP03_A
@@ -576,11 +521,10 @@ FROM
 	)
 
 
--- PART B (z)
--- ------------------------------------------------------------------------------------------------ 
 
 
--- Create tables 
+-- I.03.B ---------------------------------------------------------------------------------------- 
+
 IF (OBJECT_ID('Dflt._pk_INCLUSION_STEP03_Z') IS NOT NULL)
 	BEGIN
 		DROP TABLE Dflt._pk_INCLUSION_STEP03_Z
@@ -596,7 +540,8 @@ CREATE TABLE Dflt._pk_INCLUSION_STEP03_Z
 )
 
 
--- Get cancer records from search period that don't belong to the list of patients identified in iSTEP 03 PART A
+/* Get cancer records from search period that don't belong to the list
+of patients identified in iSTEP 03 PART A */
 INSERT INTO Dflt._pk_INCLUSION_STEP03_Z
 SELECT DISTINCT
 	srch.PatientSSN
@@ -613,19 +558,13 @@ WHERE
 		FROM Dflt._pk_INCLUSION_STEP03_A AS t
 	)
 
-
 GO
 
 
--- STEP 04
--- ================================================================================================
 
 
--- PART A
--- ------------------------------------------------------------------------------------------------ 
+-- I.04.A ---------------------------------------------------------------------------------------- 
 
-
--- Create tables 
 IF (OBJECT_ID('Dflt._pk_INCLUSION_STEP04_A') IS NOT NULL)
 	BEGIN
 		DROP TABLE Dflt._pk_INCLUSION_STEP04_A
@@ -640,7 +579,6 @@ CREATE TABLE Dflt._pk_INCLUSION_STEP04_A
 	,TypeOfEvent VARCHAR(50)
 )
 
-
 -- Get all registry diagnosis events from iSTEP 03 PART Z
 INSERT INTO Dflt._pk_INCLUSION_STEP04_A
 SELECT DISTINCT
@@ -654,11 +592,10 @@ FROM
 WHERE dx.TypeOfEvent = 'REGISTRY ENTRY'
 
 
--- PART B
--- ------------------------------------------------------------------------------------------------ 
 
 
--- Create tables 
+-- I.04.B ----------------------------------------------------------------------------------------
+
 IF (OBJECT_ID('Dflt._pk_INCLUSION_STEP04_B') IS NOT NULL)
 	BEGIN
 		DROP TABLE Dflt._pk_INCLUSION_STEP04_B
@@ -673,8 +610,8 @@ CREATE TABLE Dflt._pk_INCLUSION_STEP04_B
 	,TypeOfEvent VARCHAR(50)
 )
 
-
--- Get all first-time ICD occurence diagnosis events from iSTEP 03 PART Z for patients not in iSTEP 04 PART A
+/* Get all first-time ICD occurence diagnosis events from iSTEP 03
+PART Z for patients not in iSTEP 04 PART A */
 INSERT INTO Dflt._pk_INCLUSION_STEP04_B
 SELECT DISTINCT
 	dx.PatientSSN
@@ -692,11 +629,10 @@ WHERE
 	)
 
 
--- PART C (z)
--- ------------------------------------------------------------------------------------------------ 
 
 
--- Create tables 
+-- I.04.C ----------------------------------------------------------------------------------------
+
 IF (OBJECT_ID('Dflt._pk_INCLUSION_STEP04_Z') IS NOT NULL)
 	BEGIN
 		DROP TABLE Dflt._pk_INCLUSION_STEP04_Z
@@ -710,7 +646,6 @@ CREATE TABLE Dflt._pk_INCLUSION_STEP04_Z
 	,DiagnosisEventDateTime DATETIME2
 	,TypeOfEvent VARCHAR(50)
 )
-
 
 -- For each patient, get the earliest diagnosis event from STEP 04 PART A
 INSERT INTO Dflt._pk_INCLUSION_STEP04_Z
@@ -731,7 +666,6 @@ WHERE
 		ORDER BY t.DiagnosisEventDateTime ASC
 	)
 
-
 -- For each patient, get the earliest diagnosis event from STEP 04 PART B
 INSERT INTO Dflt._pk_INCLUSION_STEP04_Z
 SELECT DISTINCT
@@ -751,17 +685,12 @@ WHERE
 		ORDER BY t.DiagnosisEventDateTime ASC
 	)
 
-
 GO
 
 
--- STEP 05
--- ================================================================================================
 
 
--- PART A
--- ------------------------------------------------------------------------------------------------ 
-
+-- I.05.A ----------------------------------------------------------------------------------------
 
 -- Set the emergency care (EC) search period 
 DECLARE @STEP05_SearchStart DATETIME2
@@ -773,8 +702,6 @@ SET @STEP05_SearchEnd = DATEADD(MONTH, (SELECT params.Search_Length_Months FROM 
 PRINT CHAR(13) + CHAR(10) + 'Step 05 - Emergency Care Search Period Start: ' + CAST(@STEP05_SearchStart AS VARCHAR)
 PRINT 'Step 05 - Emergency Care Search Period End: ' + CAST(@STEP05_SearchEnd AS VARCHAR)
 
-
--- Create tables 
 IF (OBJECT_ID('Dflt._pk_INCLUSION_STEP05_A') IS NOT NULL)
 	BEGIN
 		DROP TABLE Dflt._pk_INCLUSION_STEP05_A
@@ -788,7 +715,6 @@ CREATE TABLE Dflt._pk_INCLUSION_STEP05_A
 	,ECEventDateTime DATETIME2
 	,TypeOfEvent VARCHAR(50)
 )
-
 
 -- Get all inpatient visits that fall under the Emergency Care (EC) search period
 INSERT INTO Dflt._pk_INCLUSION_STEP05_A
@@ -816,11 +742,10 @@ WHERE
 	)
 
 
--- PART B
--- ------------------------------------------------------------------------------------------------ 
 
 
--- Create tables 
+-- I.05.B ----------------------------------------------------------------------------------------
+
 IF (OBJECT_ID('Dflt._pk_INCLUSION_STEP05_B') IS NOT NULL)
 	BEGIN
 		DROP TABLE Dflt._pk_INCLUSION_STEP05_B
@@ -831,7 +756,6 @@ CREATE TABLE Dflt._pk_INCLUSION_STEP05_B
 	PatientSSN VARCHAR(10)
 	,ECEventSID BIGINT
 )
-
 
 -- Select all Emergency Care events with a ICD-10-CM code implying planned admission
 INSERT INTO Dflt._pk_INCLUSION_STEP05_B
@@ -852,7 +776,6 @@ WHERE
 			SELECT t.ICD10CMCode
 			FROM Dflt._pk_SETUP_PlannedHospitalization_ICD10CMCodes AS t
 		)
-
 
 -- Select all Emergency Care events with a ICD-10-PCS code implying planned admission
 INSERT INTO Dflt._pk_INCLUSION_STEP05_B
@@ -875,10 +798,10 @@ WHERE
 		)
 
 
--- PART C (z)
--- ------------------------------------------------------------------------------------------------ 
 
--- Create tables 
+
+-- I.05.C ----------------------------------------------------------------------------------------
+
 IF (OBJECT_ID('Dflt._pk_INCLUSION_STEP05_Z') IS NOT NULL)
 	BEGIN
 		DROP TABLE Dflt._pk_INCLUSION_STEP05_Z
@@ -893,8 +816,8 @@ CREATE TABLE Dflt._pk_INCLUSION_STEP05_Z
 	,TypeOfEvent VARCHAR(50)
 )
 
-
--- Select all Emergency Care events in iSTEP 05 PART A that were not identified as being planned in iSTEP 05 PART B
+/* Select all Emergency Care events in iSTEP 05 PART A that were not
+identified as being planned in iSTEP 05 PART B */
 INSERT INTO Dflt._pk_INCLUSION_STEP05_Z
 SELECT DISTINCT
 	ec.PatientSSN
@@ -911,18 +834,13 @@ WHERE
 		FROM Dflt._pk_INCLUSION_STEP05_B AS pec
 	)
 
-
 GO
 
 
--- STEP 06
--- ================================================================================================
 
 
--- PART A
--- ------------------------------------------------------------------------------------------------ 
+-- I.06.A ----------------------------------------------------------------------------------------
 
--- Create tables 
 IF (OBJECT_ID('Dflt._pk_INCLUSION_STEP06_A') IS NOT NULL)
 	BEGIN
 		DROP TABLE Dflt._pk_INCLUSION_STEP06_A
@@ -940,9 +858,9 @@ CREATE TABLE Dflt._pk_INCLUSION_STEP06_A
 	,ECTypeOfEvent VARCHAR(50)
 )
 
-
--- Select dyads of Emergency Care events and Diagnosis Events such that the Emergency Care precedes the Diagnosis Event
--- by at most 30 days (and by at least 0 days; i.e., on the day of).
+/* Select dyads of Emergency Care events and Diagnosis Events such
+that the Emergency Care precedes the Diagnosis Event by at most 30
+days (and by at least 0 days; i.e., on the day of). */
 INSERT INTO Dflt._pk_INCLUSION_STEP06_A
 SELECT DISTINCT
 	dx.PatientSSN
@@ -965,10 +883,10 @@ FROM
 	)
 
 
--- PART B (z)
--- ------------------------------------------------------------------------------------------------ 
 
--- Create tables 
+
+-- I.06.B ----------------------------------------------------------------------------------------
+
 IF (OBJECT_ID('Dflt._pk_INCLUSION_STEP06_Z') IS NOT NULL)
 	BEGIN
 		DROP TABLE Dflt._pk_INCLUSION_STEP06_Z
@@ -985,7 +903,6 @@ CREATE TABLE Dflt._pk_INCLUSION_STEP06_Z
 	,ECEventDateTime DATETIME2
 	,ECTypeOfEvent VARCHAR(50)
 )
-
 
 -- For each patient, select the dyad with the latest emergency care event from iSTEP 06 PART A
 INSERT INTO Dflt._pk_INCLUSION_STEP06_Z
@@ -1009,14 +926,13 @@ WHERE
 		ORDER BY t.ECEventDateTime DESC
 	)
 
-
 GO
 
 
--- STEP FINALIZE
--- ================================================================================================
 
--- Create tables 
+
+-- I.07 ----------------------------------------------------------------------------------------
+
 IF (OBJECT_ID('Dflt._pk_INCLUSION_FINAL') IS NOT NULL)
 	BEGIN
 		DROP TABLE Dflt._pk_INCLUSION_FINAL
@@ -1034,7 +950,6 @@ CREATE TABLE Dflt._pk_INCLUSION_FINAL
 	,ECTypeOfEvent VARCHAR(50)
 )
 
-
 -- Save records after the inclusion steps
 INSERT INTO Dflt._pk_INCLUSION_FINAL
 SELECT DISTINCT
@@ -1049,8 +964,8 @@ SELECT DISTINCT
 FROM
 	Dflt._pk_INCLUSION_STEP06_Z AS prev
 
-
 GO
+
 
 
 
@@ -1058,15 +973,8 @@ GO
 -- EXCLUSION
 -- ************************************************************************************************
 
+-- II.01.A ----------------------------------------------------------------------------------------
 
--- STEP 01
--- ================================================================================================
-
-
--- PART A
--- ------------------------------------------------------------------------------------------------ 
-
--- Create tables 
 IF (OBJECT_ID('Dflt._pk_EXCLUSION_STEP01_A') IS NOT NULL)
 	BEGIN
 		DROP TABLE Dflt._pk_EXCLUSION_STEP01_A
@@ -1083,7 +991,6 @@ CREATE TABLE Dflt._pk_EXCLUSION_STEP01_A
 	,HistoricalEventDateTime DATETIME2
 	,HistoricalTypeOfEvent VARCHAR(50)
 )
-
 
 -- Get all historical inpatient records for patients
 INSERT INTO Dflt._pk_EXCLUSION_STEP01_A
@@ -1109,7 +1016,6 @@ FROM
 			AND
 			inp.PatientSID != -1
 		)
-
 
 -- Get all historical outpatient records for patients
 INSERT INTO Dflt._pk_EXCLUSION_STEP01_A
@@ -1137,10 +1043,10 @@ FROM
 		)
 
 
--- PART B (z)
--- ------------------------------------------------------------------------------------------------ 
 
--- Create tables 
+
+-- II.01.B ----------------------------------------------------------------------------------------
+
 IF (OBJECT_ID('Dflt._pk_EXCLUSION_STEP01_Z') IS NOT NULL)
 	BEGIN
 		DROP TABLE Dflt._pk_EXCLUSION_STEP01_Z
@@ -1159,7 +1065,6 @@ CREATE TABLE Dflt._pk_EXCLUSION_STEP01_Z
 	,DxHxDelta INT
 )
 
-
 -- For each patient, get the earliest historical event from eSTEP 01 PART A
 INSERT INTO Dflt._pk_EXCLUSION_STEP01_Z
 SELECT DISTINCT
@@ -1176,16 +1081,12 @@ WHERE
 		ORDER BY t.HistoricalEventDateTime ASC
 	)
 
-
 GO
 
 
--- STEP 02
--- ================================================================================================
 
 
--- PART A (z)
--- ------------------------------------------------------------------------------------------------ 
+-- II.02.A ----------------------------------------------------------------------------------------
 
 -- Set the emergency care (EC) search period 
 DECLARE @STEP02_CareHxThreshold INT
@@ -1194,8 +1095,6 @@ SET @STEP02_CareHxThreshold = (SELECT params.CareHx_Length_Months FROM Dflt._pk_
 
 PRINT CHAR(13) + CHAR(10) + 'eStep 02 - Minimum Care History Threshold: ' + CAST(@STEP02_CareHxThreshold AS VARCHAR)
 
-
--- Create tables 
 IF (OBJECT_ID('Dflt._pk_EXCLUSION_STEP02_Z') IS NOT NULL)
 	BEGIN
 		DROP TABLE Dflt._pk_EXCLUSION_STEP02_Z
@@ -1213,8 +1112,8 @@ CREATE TABLE Dflt._pk_EXCLUSION_STEP02_Z
 	,ECTypeOfEvent VARCHAR(50)
 )
 
-
--- Select records from the Inclusion steps that have their earliest histoical encounter > the threshold ago.
+/* Select records from the Inclusion steps that have their earliest
+histoical encounter > the threshold ago. */
 INSERT INTO Dflt._pk_EXCLUSION_STEP02_Z
 SELECT DISTINCT
 	prev.PatientSSN
@@ -1239,10 +1138,10 @@ FROM
 GO
 
 
--- STEP FINAL
--- ================================================================================================
 
--- Create tables 
+
+-- II.03 ----------------------------------------------------------------------------------------
+
 IF (OBJECT_ID('Dflt._pk_EXCLUSION_FINAL') IS NOT NULL)
 	BEGIN
 		DROP TABLE Dflt._pk_EXCLUSION_FINAL
@@ -1260,7 +1159,6 @@ CREATE TABLE Dflt._pk_EXCLUSION_FINAL
 	,ECTypeOfEvent VARCHAR(50)
 )
 
-
 -- Save records after exclusion steps
 INSERT INTO Dflt._pk_EXCLUSION_FINAL
 SELECT DISTINCT
@@ -1274,15 +1172,14 @@ SELECT DISTINCT
 	,exc.ECTypeOfEvent
 FROM Dflt._pk_EXCLUSION_STEP02_Z AS exc
 
-
 GO
+
 
 
 
 -- ************************************************************************************************
 -- CONCLUSION
 -- ************************************************************************************************
-
 
 -- PRINT
 -- ================================================================================================
@@ -1321,10 +1218,11 @@ WHERE
 	fin.ECTypeOfEvent = 'INPATIENT'
 
 
+
+
 -- SAVE TABLE (PLEASE REPLACE "Dflt._pk_OUTPUT_TABLE" WITH THE NAME YOU WANT)
 -- ================================================================================================
 
--- Create tables 
 IF (OBJECT_ID('Dflt._pk_OUTPUT_TABLE') IS NOT NULL)
 	BEGIN
 		DROP TABLE Dflt._pk_OUTPUT_TABLE
@@ -1375,12 +1273,8 @@ WHERE
 
 
 
--- DELETE TABLES
--- ================================================================================================
 
-
--- SET-UP
--- ------------------------------------------------------------------------------------------------
+-- DELETE TABLES ==================================================================================
 
 IF (OBJECT_ID('Dflt._pk_ParameterTable') IS NOT NULL)
 	BEGIN
@@ -1396,10 +1290,6 @@ IF (OBJECT_ID('Dflt._pk_SETUP_PlannedHospitalization_ICD10PCSCodes') IS NOT NULL
 	BEGIN
 		DROP TABLE Dflt._pk_SETUP_PlannedHospitalization_ICD10PCSCodes
 	END
-
-
--- INCLUSION
--- ------------------------------------------------------------------------------------------------
 
 IF (OBJECT_ID('Dflt._pk_INCLUSION_STEP01_Z') IS NOT NULL)
 	BEGIN
@@ -1465,9 +1355,6 @@ IF (OBJECT_ID('Dflt._pk_INCLUSION_FINAL') IS NOT NULL)
 	BEGIN
 		DROP TABLE Dflt._pk_INCLUSION_FINAL
 	END
-
--- EXCLUSION
--- ------------------------------------------------------------------------------------------------
 
 IF (OBJECT_ID('Dflt._pk_EXCLUSION_STEP01_A') IS NOT NULL)
 	BEGIN
