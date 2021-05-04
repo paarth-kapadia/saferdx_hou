@@ -1,6 +1,5 @@
 -- Title: Emergency Cancer Diagnosis eMeasure
 -- Author: Paarth Kapadia
--- Last Updated: 2020-12-29
 
 USE ORD_Singh_202001030D
 GO
