@@ -130,61 +130,31 @@ CREATE TABLE Dflt._pk_INCLUSION_STEP01_Z
 
 -- Get outpatient encounters with a diagnostic code associated with the cancer of study
 INSERT INTO Dflt._pk_INCLUSION_STEP01_Z
-SELECT DISTINCT
-	sp.PatientSSN
-	,owl.PatientSID
-	,owl.VisitSID
-	,owl.VisitDateTime
-	,'OUTPATIENT ENCOUNTER'
-FROM 
-	Src.Outpat_Workload AS owl INNER JOIN Src.Outpat_WorkloadVDiagnosis AS owld ON
-	(
-		owl.VisitSID = owld.VisitSID
-	)
-		INNER JOIN Src.SPatient_SPatient AS sp ON
-		(	
-			owl.PatientSID = sp.PatientSID
-		)
-			LEFT JOIN CDWWork.Dim.ICD10 AS icd10 ON
-			(
-				owld.ICD10SID = icd10.ICD10SID
-			)
-				LEFT JOIN CDWWork.Dim.ICD9 AS icd9 ON
-				(
-					owld.ICD9SID = icd9.ICD9SID
-				)
+SELECT DISTINCT sp.PatientSSN
+    ,owl.PatientSID
+    ,owl.VisitSID
+    ,owl.VisitDateTime
+    ,'OUTPATIENT ENCOUNTER'
+FROM Src.Outpat_Workload AS owl
+INNER JOIN Src.Outpat_WorkloadVDiagnosis AS owld ON (owl.VisitSID = owld.VisitSID)
+INNER JOIN Src.SPatient_SPatient AS sp ON (owl.PatientSID = sp.PatientSID)
+LEFT JOIN CDWWork.Dim.ICD10 AS icd10 ON (owld.ICD10SID = icd10.ICD10SID)
+LEFT JOIN CDWWork.Dim.ICD9 AS icd9 ON (owld.ICD9SID = icd9.ICD9SID)
 -- <<<<!CANCER SELECTION ZONE START!>>>>
-WHERE											
-	(
-		(
-			icd10.ICD10Code LIKE '%C18%'		-- COLORECTAL CANCER
-			OR
-			icd10.ICD10Code LIKE '%C19%'		-- COLORECTAL CANCER
-			OR
-			icd10.ICD10Code LIKE '%C20%'		-- COLORECTAL CANCER
-			--OR
-			--icd10.ICD10Code LIKE '%C34%'		-- LUNG CANCER
-			--OR
-			--icd10.ICD10Code LIKE '%C61%'		-- PROSTATE CANCER
-		)
-		OR
-		(
-			icd9.ICD9Code LIKE '153%'		-- COLORECTAL CANCER
-			OR
-			icd9.ICD9Code LIKE '154.0%'		-- COLORECTAL CANCER
-			OR
-			icd9.ICD9Code LIKE '154.1%'		-- COLORECTAL CANCER
-			--OR
-			--icd9.ICD9Code LIKE '162%'			-- LUNG CANCER
-			--OR
-			--icd9.ICD9Code LIKE '185%'			-- PROSTATE CANCER
-		)
-	)
-	AND
-	owl.VisitDateTime BETWEEN
-		@STEP01_SearchStart
-		AND
-		@STEP01_SearchEnd
+WHERE (
+        (
+            icd10.ICD10Code LIKE '%C18%' OR icd10.ICD10Code LIKE '%C19%' OR icd10.ICD10Code LIKE '%C20%' -- COLORECTAL CANCER
+            --icd10.ICD10Code LIKE '%C34%'		-- LUNG CANCER
+            --icd10.ICD10Code LIKE '%C61%'		-- PROSTATE CANCER
+            )
+        OR (
+            icd9.ICD9Code LIKE '153%' OR icd9.ICD9Code LIKE '154.0%' OR icd9.ICD9Code LIKE '154.1%' -- COLORECTAL CANCER
+            --icd9.ICD9Code LIKE '162%'			-- LUNG CANCER
+            --icd9.ICD9Code LIKE '185%'			-- PROSTATE CANCER
+            )
+        )
+    AND owl.VisitDateTime BETWEEN @STEP01_SearchStart
+        AND @STEP01_SearchEnd
 
 -- Get inpatient encounters with a diagnostic code associated with the cancer of study
 INSERT INTO Dflt._pk_INCLUSION_STEP01_Z
