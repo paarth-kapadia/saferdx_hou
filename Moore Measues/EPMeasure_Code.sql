@@ -156,115 +156,91 @@ WHERE (
     AND owl.VisitDateTime BETWEEN @STEP01_SearchStart
         AND @STEP01_SearchEnd
 
+
+
+
+
+
+
+
+
+
+
+
 -- Get inpatient encounters with a diagnostic code associated with the cancer of study
 INSERT INTO Dflt._pk_INCLUSION_STEP01_Z
-SELECT DISTINCT
-	sp.PatientSSN	
-	,inp.PatientSID
-	,inp.InpatientSID
-	,inp.AdmitDateTime
-	,'INPATIENT ENCOUNTER'
-FROM 
-	Src.Inpat_Inpatient AS inp INNER JOIN Src.Inpat_InpatientDiagnosis AS inpd ON
-	(
-		inp.InpatientSID = inpd.InpatientSID
-	)
-		INNER JOIN Src.SPatient_SPatient AS sp ON
-		(	
-			inp.PatientSID = sp.PatientSID
-		)
-			LEFT JOIN CDWWork.Dim.ICD10 AS icd10 ON
-			(
-				inpd.ICD10SID = icd10.ICD10SID
-			)
-				LEFT JOIN CDWWork.Dim.ICD9 AS icd9 ON
-				(
-					inpd.ICD9SID = icd9.ICD9SID
-				)
-WHERE
-	(
-		(
-			icd10.ICD10Code LIKE '%C18%'		-- COLORECTAL CANCER
-			OR
-			icd10.ICD10Code LIKE '%C19%'		-- COLORECTAL CANCER
-			OR
-			icd10.ICD10Code LIKE '%C20%'		-- COLORECTAL CANCER
-			--OR
-			--icd10.ICD10Code LIKE '%C34%'		-- LUNG CANCER
-			--OR
-			--icd10.ICD10Code LIKE '%C61%'		-- PROSTATE CANCER
-		)
-		OR
-		(
-			icd9.ICD9Code LIKE '153%'		-- COLORECTAL CANCER
-			OR
-			icd9.ICD9Code LIKE '154.0%'		-- COLORECTAL CANCER
-			OR
-			icd9.ICD9Code LIKE '154.1%'		-- COLORECTAL CANCER
-			--OR
-			--icd9.ICD9Code LIKE '162%'			-- LUNG CANCER
-			--OR
-			--icd9.ICD9Code LIKE '185%'			-- PROSTATE CANCER
-		)
-	)
-	AND
-	inp.AdmitDateTime BETWEEN
-		@STEP01_SearchStart
-		AND
-		@STEP01_SearchEnd
+SELECT DISTINCT sp.PatientSSN
+    ,inp.PatientSID
+    ,inp.InpatientSID
+    ,inp.AdmitDateTime
+    ,'INPATIENT ENCOUNTER'
+FROM Src.Inpat_Inpatient AS inp
+INNER JOIN Src.Inpat_InpatientDiagnosis AS inpd ON (inp.InpatientSID = inpd.InpatientSID)
+INNER JOIN Src.SPatient_SPatient AS sp ON (inp.PatientSID = sp.PatientSID)
+LEFT JOIN CDWWork.Dim.ICD10 AS icd10 ON (inpd.ICD10SID = icd10.ICD10SID)
+LEFT JOIN CDWWork.Dim.ICD9 AS icd9 ON (inpd.ICD9SID = icd9.ICD9SID)
+WHERE (
+        (
+            icd10.ICD10Code LIKE '%C18%' -- COLORECTAL CANCER
+            OR icd10.ICD10Code LIKE '%C19%' -- COLORECTAL CANCER
+            OR icd10.ICD10Code LIKE '%C20%' -- COLORECTAL CANCER
+            --OR
+            --icd10.ICD10Code LIKE '%C34%'		-- LUNG CANCER
+            --OR
+            --icd10.ICD10Code LIKE '%C61%'		-- PROSTATE CANCER
+            )
+        OR (
+            icd9.ICD9Code LIKE '153%' -- COLORECTAL CANCER
+            OR icd9.ICD9Code LIKE '154.0%' -- COLORECTAL CANCER
+            OR icd9.ICD9Code LIKE '154.1%' -- COLORECTAL CANCER
+            --OR
+            --icd9.ICD9Code LIKE '162%'			-- LUNG CANCER
+            --OR
+            --icd9.ICD9Code LIKE '185%'			-- PROSTATE CANCER
+            )
+        )
+    AND inp.AdmitDateTime BETWEEN @STEP01_SearchStart
+        AND @STEP01_SearchEnd
 
 -- Get cancer registry entries associated with the cancer of study
 INSERT INTO Dflt._pk_INCLUSION_STEP01_Z
-SELECT DISTINCT
-	sp.PatientSSN
-	,reg.PatientSID
-	,reg.OncologyPrimaryIEN
-	,reg.DateDX
-	,'REGISTRY ENTRY'
-FROM 
-	Src.Oncology_Oncology_Primary_165_5 AS reg INNER JOIN Src.SPatient_SPatient AS sp ON
-	(	
-		reg.PatientSID = sp.PatientSID
-	)
-WHERE
-	reg.DateDX BETWEEN 
-		@STEP01_SearchStart
-		AND
-		@STEP01_SearchEnd
-	AND
-	(
-		(
-			reg.SitegpX LIKE 'COLO%' 
-			OR 
-			reg.ICDOSite LIKE 'COLO%' 
-			OR 
-			reg.PrimarysiteX LIKE 'COLO%'
-		)
-		OR
-		(
-			reg.SitegpX LIKE 'RECT%' 
-			OR 
-			reg.ICDOSite LIKE 'RECT%' 
-			OR 
-			reg.PrimarysiteX LIKE 'RECT%'
-		)
-		--OR
-		--(
-			--reg.SitegpX LIKE 'LUNG%' 
-			--OR 
-			--reg.ICDOSite LIKE 'LUNG%' 
-			--OR 
-			--reg.PrimarysiteX LIKE 'LUNG%'
-		--)
-		--OR
-		--(
-		--	reg.SitegpX LIKE 'PROSTATE%' 
-		--	OR 
-		--	reg.ICDOSite LIKE 'PROSTATE%' 
-		--	OR
-		--	reg.PrimarysiteX LIKE 'PROSTATE%'
-		--)
-	)
+SELECT DISTINCT sp.PatientSSN
+    ,reg.PatientSID
+    ,reg.OncologyPrimaryIEN
+    ,reg.DateDX
+    ,'REGISTRY ENTRY'
+FROM Src.Oncology_Oncology_Primary_165_5 AS reg
+INNER JOIN Src.SPatient_SPatient AS sp ON (reg.PatientSID = sp.PatientSID)
+WHERE reg.DateDX BETWEEN @STEP01_SearchStart
+        AND @STEP01_SearchEnd
+    AND (
+        (
+            reg.SitegpX LIKE 'COLO%'
+            OR reg.ICDOSite LIKE 'COLO%'
+            OR reg.PrimarysiteX LIKE 'COLO%'
+            )
+        OR (
+            reg.SitegpX LIKE 'RECT%'
+            OR reg.ICDOSite LIKE 'RECT%'
+            OR reg.PrimarysiteX LIKE 'RECT%'
+            )
+        --OR
+        --(
+        --reg.SitegpX LIKE 'LUNG%'
+        --OR
+        --reg.ICDOSite LIKE 'LUNG%'
+        --OR
+        --reg.PrimarysiteX LIKE 'LUNG%'
+        --)
+        --OR
+        --(
+        --	reg.SitegpX LIKE 'PROSTATE%'
+        --	OR
+        --	reg.ICDOSite LIKE 'PROSTATE%'
+        --	OR
+        --	reg.PrimarysiteX LIKE 'PROSTATE%'
+        --)
+        )
 GO
 
 
