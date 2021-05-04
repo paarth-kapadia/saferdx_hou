@@ -965,26 +965,20 @@ CREATE TABLE Dflt._pk_EXCLUSION_STEP02_Z
 /* Select records from the Inclusion steps that have their earliest
 histoical encounter > the threshold ago. */
 INSERT INTO Dflt._pk_EXCLUSION_STEP02_Z
-SELECT DISTINCT
-	prev.PatientSSN
-	,prev.PatientSID
-	,prev.DiagnosisEventSID
-	,prev.DiagnosisEventDateTime
-	,prev.DiagnosisTypeOfEvent
-	,prev.ECEventSID
-	,prev.ECEventDateTime
-	,prev.ECTypeOfEvent
-FROM
-	Dflt._pk_INCLUSION_FINAL AS prev INNER JOIN Dflt._pk_EXCLUSION_STEP01_Z AS ehx ON
-	(
-		prev.PatientSSN = ehx.PatientSSN
-		AND
-		prev.DiagnosisEventSID = ehx.DiagnosisEventSID
-		AND
-		ehx.DxHxDelta > @STEP02_CareHxThreshold
-	)
-
-
+SELECT DISTINCT prev.PatientSSN
+    ,prev.PatientSID
+    ,prev.DiagnosisEventSID
+    ,prev.DiagnosisEventDateTime
+    ,prev.DiagnosisTypeOfEvent
+    ,prev.ECEventSID
+    ,prev.ECEventDateTime
+    ,prev.ECTypeOfEvent
+FROM Dflt._pk_INCLUSION_FINAL AS prev
+INNER JOIN Dflt._pk_EXCLUSION_STEP01_Z AS ehx ON (
+        prev.PatientSSN = ehx.PatientSSN
+        AND prev.DiagnosisEventSID = ehx.DiagnosisEventSID
+        AND ehx.DxHxDelta > @STEP02_CareHxThreshold
+        )
 GO
 
 
