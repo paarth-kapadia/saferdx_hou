@@ -635,43 +635,27 @@ CREATE TABLE Dflt._pk_INCLUSION_STEP05_B
 
 -- Select all Emergency Care events with a ICD-10-CM code implying planned admission
 INSERT INTO Dflt._pk_INCLUSION_STEP05_B
-SELECT DISTINCT
-	ec.PatientSSN
-	,ec.ECEventSID
-FROM Dflt._pk_INCLUSION_STEP05_A AS ec INNER JOIN Src.Inpat_InpatientDiagnosis AS inpd ON 
-	(
-		ec.ECEventSID = inpd.InpatientSID
-	)
-		INNER JOIN CDWWork.Dim.ICD10 AS icd10 ON
-		(
-			inpd.ICD10SID = icd10.ICD10SID
-		)
-WHERE
-	REPLACE(icd10.ICD10Code, '.', '') IN 
-		(
-			SELECT t.ICD10CMCode
-			FROM Dflt._pk_SETUP_PlannedHospitalization_ICD10CMCodes AS t
-		)
+SELECT DISTINCT ec.PatientSSN
+    ,ec.ECEventSID
+FROM Dflt._pk_INCLUSION_STEP05_A AS ec
+INNER JOIN Src.Inpat_InpatientDiagnosis AS inpd ON (ec.ECEventSID = inpd.InpatientSID)
+INNER JOIN CDWWork.Dim.ICD10 AS icd10 ON (inpd.ICD10SID = icd10.ICD10SID)
+WHERE REPLACE(icd10.ICD10Code, '.', '') IN (
+        SELECT t.ICD10CMCode
+        FROM Dflt._pk_SETUP_PlannedHospitalization_ICD10CMCodes AS t
+        )
 
 -- Select all Emergency Care events with a ICD-10-PCS code implying planned admission
 INSERT INTO Dflt._pk_INCLUSION_STEP05_B
-SELECT DISTINCT
-	ec.PatientSSN
-	,ec.ECEventSID
-FROM Dflt._pk_INCLUSION_STEP05_A AS ec INNER JOIN Src.Inpat_InpatientICDProcedure AS inpip ON 
-	(
-		ec.ECEventSID = inpip.InpatientSID
-	)
-		INNER JOIN CDWWork.Dim.ICD10Procedure AS icd10p ON
-		(
-			inpip.ICD10ProcedureSID = icd10p.ICD10ProcedureSID
-		)
-WHERE
-	REPLACE(icd10p.ICD10ProcedureCode, '.', '') IN 
-		(
-			SELECT t.ICD10PCSCode
-			FROM Dflt._pk_SETUP_PlannedHospitalization_ICD10PCSCodes AS t
-		)
+SELECT DISTINCT ec.PatientSSN
+    ,ec.ECEventSID
+FROM Dflt._pk_INCLUSION_STEP05_A AS ec
+INNER JOIN Src.Inpat_InpatientICDProcedure AS inpip ON (ec.ECEventSID = inpip.InpatientSID)
+INNER JOIN CDWWork.Dim.ICD10Procedure AS icd10p ON (inpip.ICD10ProcedureSID = icd10p.ICD10ProcedureSID)
+WHERE REPLACE(icd10p.ICD10ProcedureCode, '.', '') IN (
+        SELECT t.ICD10PCSCode
+        FROM Dflt._pk_SETUP_PlannedHospitalization_ICD10PCSCodes AS t
+        )
 
 
 
