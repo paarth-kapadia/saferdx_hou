@@ -274,171 +274,114 @@ CREATE TABLE Dflt._pk_INCLUSION_STEP02_Z
 
 -- Get outpatient encounters with a diagnostic code associated with the cancer of study
 INSERT INTO Dflt._pk_INCLUSION_STEP02_Z
-SELECT DISTINCT
-	sp.PatientSSN
-	,owl.PatientSID
-	,owl.VisitSID
-	,owl.VisitDateTime
-	,'OUTPATIENT ENCOUNTER'
-FROM 
-	Src.Outpat_Workload AS owl INNER JOIN Src.Outpat_WorkloadVDiagnosis AS owld ON
-	(
-		owl.VisitSID = owld.VisitSID
-	)
-		INNER JOIN Src.SPatient_SPatient AS sp ON
-		(	
-			owl.PatientSID = sp.PatientSID
-		)
-			LEFT JOIN CDWWork.Dim.ICD10 AS icd10 ON
-			(
-				owld.ICD10SID = icd10.ICD10SID
-			)
-				LEFT JOIN CDWWork.Dim.ICD9 AS icd9 ON
-				(
-					owld.ICD9SID = icd9.ICD9SID
-				)
-WHERE
-	(
-		(
-			icd10.ICD10Code LIKE '%C18%'		-- COLORECTAL CANCER
-			OR
-			icd10.ICD10Code LIKE '%C19%'		-- COLORECTAL CANCER
-			OR
-			icd10.ICD10Code LIKE '%C20%'		-- COLORECTAL CANCER
-			--OR
-			--icd10.ICD10Code LIKE '%C34%'		-- LUNG CANCER
-			--OR
-			--icd10.ICD10Code LIKE '%C61%'		-- PROSTATE CANCER
-		)
-		OR
-		(
-			icd9.ICD9Code LIKE '153%'		-- COLORECTAL CANCER
-			OR
-			icd9.ICD9Code LIKE '154.0%'		-- COLORECTAL CANCER
-			OR
-			icd9.ICD9Code LIKE '154.1%'		-- COLORECTAL CANCER
-			--OR
-			--icd9.ICD9Code LIKE '162%'			-- LUNG CANCER
-			--OR
-			--icd9.ICD9Code LIKE '185%'			-- PROSTATE CANCER
-		)
-	)
-	AND
-	owl.VisitDateTime BETWEEN
-		@STEP02_ExcludeStart
-		AND
-		@STEP02_ExcludeEnd
+SELECT DISTINCT sp.PatientSSN
+    ,owl.PatientSID
+    ,owl.VisitSID
+    ,owl.VisitDateTime
+    ,'OUTPATIENT ENCOUNTER'
+FROM Src.Outpat_Workload AS owl
+INNER JOIN Src.Outpat_WorkloadVDiagnosis AS owld ON (owl.VisitSID = owld.VisitSID)
+INNER JOIN Src.SPatient_SPatient AS sp ON (owl.PatientSID = sp.PatientSID)
+LEFT JOIN CDWWork.Dim.ICD10 AS icd10 ON (owld.ICD10SID = icd10.ICD10SID)
+LEFT JOIN CDWWork.Dim.ICD9 AS icd9 ON (owld.ICD9SID = icd9.ICD9SID)
+WHERE (
+        (
+            icd10.ICD10Code LIKE '%C18%' -- COLORECTAL CANCER
+            OR icd10.ICD10Code LIKE '%C19%' -- COLORECTAL CANCER
+            OR icd10.ICD10Code LIKE '%C20%' -- COLORECTAL CANCER
+            --OR
+            --icd10.ICD10Code LIKE '%C34%'		-- LUNG CANCER
+            --OR
+            --icd10.ICD10Code LIKE '%C61%'		-- PROSTATE CANCER
+            )
+        OR (
+            icd9.ICD9Code LIKE '153%' -- COLORECTAL CANCER
+            OR icd9.ICD9Code LIKE '154.0%' -- COLORECTAL CANCER
+            OR icd9.ICD9Code LIKE '154.1%' -- COLORECTAL CANCER
+            --OR
+            --icd9.ICD9Code LIKE '162%'			-- LUNG CANCER
+            --OR
+            --icd9.ICD9Code LIKE '185%'			-- PROSTATE CANCER
+            )
+        )
+    AND owl.VisitDateTime BETWEEN @STEP02_ExcludeStart
+        AND @STEP02_ExcludeEnd
 
 -- Get inpatient encounters with a diagnostic code associated with the cancer of study
 INSERT INTO Dflt._pk_INCLUSION_STEP02_Z
-SELECT DISTINCT
-	sp.PatientSSN	
-	,inp.PatientSID
-	,inp.InpatientSID
-	,inp.AdmitDateTime
-	,'INPATIENT ENCOUNTER'
-FROM 
-	Src.Inpat_Inpatient AS inp INNER JOIN Src.Inpat_InpatientDiagnosis AS inpd ON
-	(
-		inp.InpatientSID = inpd.InpatientSID
-	)
-		INNER JOIN Src.SPatient_SPatient AS sp ON
-		(	
-			inp.PatientSID = sp.PatientSID
-		)
-			LEFT JOIN CDWWork.Dim.ICD10 AS icd10 ON
-			(
-				inpd.ICD10SID = icd10.ICD10SID
-			)
-				LEFT JOIN CDWWork.Dim.ICD9 AS icd9 ON
-				(
-					inpd.ICD9SID = icd9.ICD9SID
-				)
-WHERE
-	(
-		(
-			icd10.ICD10Code LIKE '%C18%'		-- COLORECTAL CANCER
-			OR
-			icd10.ICD10Code LIKE '%C19%'		-- COLORECTAL CANCER
-			OR
-			icd10.ICD10Code LIKE '%C20%'		-- COLORECTAL CANCER
-			--OR
-			--icd10.ICD10Code LIKE '%C34%'		-- LUNG CANCER
-			--OR
-			--icd10.ICD10Code LIKE '%C61%'		-- PROSTATE CANCER
-		)
-		OR
-		(
-			icd9.ICD9Code LIKE '153%'		-- COLORECTAL CANCER
-			OR
-			icd9.ICD9Code LIKE '154.0%'		-- COLORECTAL CANCER
-			OR
-			icd9.ICD9Code LIKE '154.1%'		-- COLORECTAL CANCER
-			--OR
-			--icd9.ICD9Code LIKE '162%'			-- LUNG CANCER
-			--OR
-			--icd9.ICD9Code LIKE '185%'			-- PROSTATE CANCER
-		)
-	)
-	AND
-	inp.AdmitDateTime BETWEEN
-		@STEP02_ExcludeStart
-		AND
-		@STEP02_ExcludeEnd
+SELECT DISTINCT sp.PatientSSN
+    ,inp.PatientSID
+    ,inp.InpatientSID
+    ,inp.AdmitDateTime
+    ,'INPATIENT ENCOUNTER'
+FROM Src.Inpat_Inpatient AS inp
+INNER JOIN Src.Inpat_InpatientDiagnosis AS inpd ON (inp.InpatientSID = inpd.InpatientSID)
+INNER JOIN Src.SPatient_SPatient AS sp ON (inp.PatientSID = sp.PatientSID)
+LEFT JOIN CDWWork.Dim.ICD10 AS icd10 ON (inpd.ICD10SID = icd10.ICD10SID)
+LEFT JOIN CDWWork.Dim.ICD9 AS icd9 ON (inpd.ICD9SID = icd9.ICD9SID)
+WHERE (
+        (
+            icd10.ICD10Code LIKE '%C18%' -- COLORECTAL CANCER
+            OR icd10.ICD10Code LIKE '%C19%' -- COLORECTAL CANCER
+            OR icd10.ICD10Code LIKE '%C20%' -- COLORECTAL CANCER
+            --OR
+            --icd10.ICD10Code LIKE '%C34%'		-- LUNG CANCER
+            --OR
+            --icd10.ICD10Code LIKE '%C61%'		-- PROSTATE CANCER
+            )
+        OR (
+            icd9.ICD9Code LIKE '153%' -- COLORECTAL CANCER
+            OR icd9.ICD9Code LIKE '154.0%' -- COLORECTAL CANCER
+            OR icd9.ICD9Code LIKE '154.1%' -- COLORECTAL CANCER
+            --OR
+            --icd9.ICD9Code LIKE '162%'			-- LUNG CANCER
+            --OR
+            --icd9.ICD9Code LIKE '185%'			-- PROSTATE CANCER
+            )
+        )
+    AND inp.AdmitDateTime BETWEEN @STEP02_ExcludeStart
+        AND @STEP02_ExcludeEnd
 
 -- Get cancer registry entries with the cancer of study
 INSERT INTO Dflt._pk_INCLUSION_STEP02_Z
-SELECT DISTINCT
-	sp.PatientSSN
-	,reg.PatientSID
-	,reg.OncologyPrimaryIEN
-	,reg.DateDX
-	,'REGISTRY ENTRY'
-FROM 
-	Src.Oncology_Oncology_Primary_165_5 AS reg INNER JOIN Src.SPatient_SPatient AS sp ON
-	(	
-		reg.PatientSID = sp.PatientSID
-	)
-WHERE
-	reg.DateDX BETWEEN 
-		@STEP02_ExcludeStart
-		AND
-		@STEP02_ExcludeEnd
-	AND
-	(
-		(
-			reg.SitegpX LIKE 'COLO%' 
-			OR 
-			reg.ICDOSite LIKE 'COLO%' 
-			OR 
-			reg.PrimarysiteX LIKE 'COLO%'
-		)
-		OR
-		(
-			reg.SitegpX LIKE 'RECT%' 
-			OR 
-			reg.ICDOSite LIKE 'RECT%' 
-			OR 
-			reg.PrimarysiteX LIKE 'RECT%'
-		)
-		--OR
-		--(
-		--	reg.SitegpX LIKE 'LUNG%' 
-		--	OR 
-		--	reg.ICDOSite LIKE 'LUNG%' 
-		--	OR 
-		--	reg.PrimarysiteX LIKE 'LUNG%'
-		--)
-		--OR
-		--(
-		--	reg.SitegpX LIKE 'PROSTATE%' 
-		--	OR 
-		--	reg.ICDOSite LIKE 'PROSTATE%' 
-		--	OR
-		--	reg.PrimarysiteX LIKE 'PROSTATE%'
-		--)
-	)
--- <<<<!CANCER SELECTION ZONE END!>>>>
+SELECT DISTINCT sp.PatientSSN
+    ,reg.PatientSID
+    ,reg.OncologyPrimaryIEN
+    ,reg.DateDX
+    ,'REGISTRY ENTRY'
+FROM Src.Oncology_Oncology_Primary_165_5 AS reg
+INNER JOIN Src.SPatient_SPatient AS sp ON (reg.PatientSID = sp.PatientSID)
+WHERE reg.DateDX BETWEEN @STEP02_ExcludeStart
+        AND @STEP02_ExcludeEnd
+    AND (
+        (
+            reg.SitegpX LIKE 'COLO%'
+            OR reg.ICDOSite LIKE 'COLO%'
+            OR reg.PrimarysiteX LIKE 'COLO%'
+            )
+        OR (
+            reg.SitegpX LIKE 'RECT%'
+            OR reg.ICDOSite LIKE 'RECT%'
+            OR reg.PrimarysiteX LIKE 'RECT%'
+            )
+        --OR
+        --(
+        --	reg.SitegpX LIKE 'LUNG%' 
+        --	OR 
+        --	reg.ICDOSite LIKE 'LUNG%' 
+        --	OR 
+        --	reg.PrimarysiteX LIKE 'LUNG%'
+        --)
+        --OR
+        --(
+        --	reg.SitegpX LIKE 'PROSTATE%' 
+        --	OR 
+        --	reg.ICDOSite LIKE 'PROSTATE%' 
+        --	OR
+        --	reg.PrimarysiteX LIKE 'PROSTATE%'
+        --)
+        )
+    -- <<<<!CANCER SELECTION ZONE END!>>>>
 GO
 
 
