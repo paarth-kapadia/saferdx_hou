@@ -41,7 +41,7 @@ SET @Search_Start = '2019-01-01'
 SET @Search_Length_Months = 12
 SET @Exclude_Length_Years = -50
 SET @Lookback_Length_Days = -30
-SET @CareHx_Length_Months = 12
+SET @CareHx_Length_Months = 24
 
 
 -- Create Parameter Table
