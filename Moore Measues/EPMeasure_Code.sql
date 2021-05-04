@@ -143,14 +143,14 @@ LEFT JOIN CDWWork.Dim.ICD9 AS icd9 ON (owld.ICD9SID = icd9.ICD9SID)
 -- <<<<!CANCER SELECTION ZONE START!>>>>
 WHERE (
         (
-            icd10.ICD10Code LIKE '%C18%' OR icd10.ICD10Code LIKE '%C19%' OR icd10.ICD10Code LIKE '%C20%' -- COLORECTAL CANCER
-            --icd10.ICD10Code LIKE '%C34%' -- LUNG CANCER
-            --icd10.ICD10Code LIKE '%C61%' -- PROSTATE CANCER
+            icd10.ICD10Code LIKE '%C18%' OR icd10.ICD10Code LIKE '%C19%' OR icd10.ICD10Code LIKE '%C20%' -- COLORECTAL
+            --icd10.ICD10Code LIKE '%C34%' -- LUNG
+            --icd10.ICD10Code LIKE '%C61%' -- PROSTATE
             )
         OR (
-            icd9.ICD9Code LIKE '153%' OR icd9.ICD9Code LIKE '154.0%' OR icd9.ICD9Code LIKE '154.1%' -- COLORECTAL CANCER
-            --icd9.ICD9Code LIKE '162%' -- LUNG CANCER
-            --icd9.ICD9Code LIKE '185%' -- PROSTATE CANCER
+            icd9.ICD9Code LIKE '153%' OR icd9.ICD9Code LIKE '154.0%' OR icd9.ICD9Code LIKE '154.1%' -- COLORECTAL
+            --icd9.ICD9Code LIKE '162%' -- LUNG
+            --icd9.ICD9Code LIKE '185%' -- PROSTATE
             )
         )
     AND owl.VisitDateTime BETWEEN @STEP01_SearchStart
@@ -170,14 +170,14 @@ LEFT JOIN CDWWork.Dim.ICD10 AS icd10 ON (inpd.ICD10SID = icd10.ICD10SID)
 LEFT JOIN CDWWork.Dim.ICD9 AS icd9 ON (inpd.ICD9SID = icd9.ICD9SID)
 WHERE (
         (
-            icd10.ICD10Code LIKE '%C18%'            OR icd10.ICD10Code LIKE '%C19%'            OR icd10.ICD10Code LIKE '%C20%' -- COLORECTAL CANCER
-            --icd10.ICD10Code LIKE '%C34%'		-- LUNG CANCER
-            --icd10.ICD10Code LIKE '%C61%'		-- PROSTATE CANCER
+            icd10.ICD10Code LIKE '%C18%' OR icd10.ICD10Code LIKE '%C19%' OR icd10.ICD10Code LIKE '%C20%' -- COLORECTAL
+            --icd10.ICD10Code LIKE '%C34%' -- LUNG
+            --icd10.ICD10Code LIKE '%C61%' -- PROSTATE
             )
         OR (
-            icd9.ICD9Code LIKE '153%'            OR icd9.ICD9Code LIKE '154.0%'            OR icd9.ICD9Code LIKE '154.1%' -- COLORECTAL CANCER
-            --icd9.ICD9Code LIKE '162%'			-- LUNG CANCER
-            --icd9.ICD9Code LIKE '185%'			-- PROSTATE CANCER
+            icd9.ICD9Code LIKE '153%' OR icd9.ICD9Code LIKE '154.0%' OR icd9.ICD9Code LIKE '154.1%' -- COLORECTAL
+            --icd9.ICD9Code LIKE '162%' -- LUNG
+            --icd9.ICD9Code LIKE '185%' -- PROSTATE
             )
         )
     AND inp.AdmitDateTime BETWEEN @STEP01_SearchStart
@@ -244,14 +244,14 @@ LEFT JOIN CDWWork.Dim.ICD10 AS icd10 ON (owld.ICD10SID = icd10.ICD10SID)
 LEFT JOIN CDWWork.Dim.ICD9 AS icd9 ON (owld.ICD9SID = icd9.ICD9SID)
 WHERE (
         (
-            icd10.ICD10Code LIKE '%C18%' OR icd10.ICD10Code LIKE '%C19%' OR icd10.ICD10Code LIKE '%C20%' -- COLORECTAL CANCER
-            --icd10.ICD10Code LIKE '%C34%'		-- LUNG CANCER
-            --icd10.ICD10Code LIKE '%C61%'		-- PROSTATE CANCER
+            icd10.ICD10Code LIKE '%C18%' OR icd10.ICD10Code LIKE '%C19%' OR icd10.ICD10Code LIKE '%C20%' -- COLORECTAL
+            --icd10.ICD10Code LIKE '%C34%' -- LUNG
+            --icd10.ICD10Code LIKE '%C61%' -- PROSTATE
             )
         OR (
-            icd9.ICD9Code LIKE '153%'            OR icd9.ICD9Code LIKE '154.0%'            OR icd9.ICD9Code LIKE '154.1%' -- COLORECTAL CANCER
-            --icd9.ICD9Code LIKE '162%'			-- LUNG CANCER
-            --icd9.ICD9Code LIKE '185%'			-- PROSTATE CANCER
+            icd9.ICD9Code LIKE '153%' OR icd9.ICD9Code LIKE '154.0%' OR icd9.ICD9Code LIKE '154.1%' -- COLORECTAL
+            --icd9.ICD9Code LIKE '162%' -- LUNG
+            --icd9.ICD9Code LIKE '185%' -- PROSTATE
             )
         )
     AND owl.VisitDateTime BETWEEN @STEP02_ExcludeStart
@@ -271,14 +271,14 @@ LEFT JOIN CDWWork.Dim.ICD10 AS icd10 ON (inpd.ICD10SID = icd10.ICD10SID)
 LEFT JOIN CDWWork.Dim.ICD9 AS icd9 ON (inpd.ICD9SID = icd9.ICD9SID)
 WHERE (
         (
-            icd10.ICD10Code LIKE '%C18%'            OR icd10.ICD10Code LIKE '%C19%'            OR icd10.ICD10Code LIKE '%C20%' -- COLORECTAL CANCER
-            --icd10.ICD10Code LIKE '%C34%'		-- LUNG CANCER
-            --icd10.ICD10Code LIKE '%C61%'		-- PROSTATE CANCER
+            icd10.ICD10Code LIKE '%C18%' OR icd10.ICD10Code LIKE '%C19%' OR icd10.ICD10Code LIKE '%C20%' -- COLORECTAL
+            --icd10.ICD10Code LIKE '%C34%' -- LUNG
+            --icd10.ICD10Code LIKE '%C61%' -- PROSTATE
             )
         OR (
-            icd9.ICD9Code LIKE '153%'            OR icd9.ICD9Code LIKE '154.0%'            OR icd9.ICD9Code LIKE '154.1%' -- COLORECTAL CANCER
-            --icd9.ICD9Code LIKE '162%'			-- LUNG CANCER
-            --icd9.ICD9Code LIKE '185%'			-- PROSTATE CANCER
+            icd9.ICD9Code LIKE '153%' OR icd9.ICD9Code LIKE '154.0%' OR icd9.ICD9Code LIKE '154.1%' -- COLORECTAL
+            --icd9.ICD9Code LIKE '162%' -- LUNG
+            --icd9.ICD9Code LIKE '185%' -- PROSTATE
             )
         )
     AND inp.AdmitDateTime BETWEEN @STEP02_ExcludeStart
