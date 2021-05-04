@@ -1015,29 +1015,6 @@ GO
 -- CONCLUSION
 -- ************************************************************************************************
 
--- PRINT ==========================================================================================
-
-SELECT DISTINCT
-	CONCAT('''', fin.PatientSSN, '''')
-	,CAST(fin.DiagnosisEventDateTime AS DATE)
-	,CONCAT('''', reg.CitytownAtDX, ', ', '''', reg.StateatdXX)
-	,CAST(fin.ECEventDateTime AS DATE)
-	,CONCAT('''', st3.City, ', ', '''', sta.StateAbbrev)
-FROM Dflt._pk_EXCLUSION_FINAL AS fin
-LEFT JOIN Src.Oncology_Oncology_Primary_165_5 AS reg ON (
-        fin.DiagnosisEventSID = reg.OncologyPrimaryIEN
-        AND fin.DiagnosisEventDateTime = reg.DateDX
-        AND fin.PatientSID = reg.PatientSID
-        )
-LEFT JOIN Src.Inpat_Inpatient AS inp ON (fin.ECEventSID = inp.InpatientSID)
-LEFT JOIN CDWWork.Dim.Sta3n AS st3 ON (inp.Sta3n = st3.Sta3n)
-LEFT JOIN CDWWork.Dim.[State] AS sta ON (st3.StateSID = sta.StateSID)
-WHERE fin.DiagnosisTypeOfEvent = 'REGISTRY ENTRY'
-    AND fin.ECTypeOfEvent = 'INPATIENT'
-
-
-
-
 -- SAVE TABLE (PLEASE REPLACE "Dflt._pk_OUTPUT_TABLE" WITH THE NAME YOU WANT) =====================
 
 IF (OBJECT_ID('Dflt._pk_OUTPUT_TABLE') IS NOT NULL)
@@ -1061,32 +1038,17 @@ SELECT DISTINCT
 	,CONCAT('''', reg.CitytownAtDX, ', ', '''', reg.StateatdXX)
 	,CAST(fin.ECEventDateTime AS DATE)
 	,CONCAT('''', st3.City, ', ', '''', sta.StateAbbrev)
-FROM
-	Dflt._pk_EXCLUSION_FINAL AS fin LEFT JOIN Src.Oncology_Oncology_Primary_165_5 AS reg ON 
-	(
-		fin.DiagnosisEventSID = reg.OncologyPrimaryIEN 
-		AND 
-		fin.DiagnosisEventDateTime = reg.DateDX
-		AND 
-		fin.PatientSID = reg.PatientSID 	
-	)
-		LEFT JOIN Src.Inpat_Inpatient AS inp ON
-		(
-			fin.ECEventSID = inp.InpatientSID
-		)
-			LEFT JOIN CDWWork.Dim.Sta3n AS st3 ON
-			(
-				inp.Sta3n = st3.Sta3n
-			)
-				LEFT JOIN CDWWork.Dim.[State] AS sta ON
-				(
-					st3.StateSID = sta.StateSID
-				)
-
-WHERE
-	fin.DiagnosisTypeOfEvent = 'REGISTRY ENTRY'
-	AND
-	fin.ECTypeOfEvent = 'INPATIENT'
+FROM Dflt._pk_EXCLUSION_FINAL AS fin
+LEFT JOIN Src.Oncology_Oncology_Primary_165_5 AS reg ON (
+        fin.DiagnosisEventSID = reg.OncologyPrimaryIEN
+        AND fin.DiagnosisEventDateTime = reg.DateDX
+        AND fin.PatientSID = reg.PatientSID
+        )
+LEFT JOIN Src.Inpat_Inpatient AS inp ON (fin.ECEventSID = inp.InpatientSID)
+LEFT JOIN CDWWork.Dim.Sta3n AS st3 ON (inp.Sta3n = st3.Sta3n)
+LEFT JOIN CDWWork.Dim.[State] AS sta ON (st3.StateSID = sta.StateSID)
+WHERE fin.DiagnosisTypeOfEvent = 'REGISTRY ENTRY'
+    AND fin.ECTypeOfEvent = 'INPATIENT'
 
 
 
