@@ -721,26 +721,26 @@ CREATE TABLE Dflt._pk_INCLUSION_STEP06_A
 /* Select dyads of Emergency Care events and Diagnosis Events such
 that the Emergency Care precedes the Diagnosis Event by at most 30
 days (and by at least 0 days; i.e., on the day of). */
+
+
 INSERT INTO Dflt._pk_INCLUSION_STEP06_A
-SELECT DISTINCT
-	dx.PatientSSN
-	,dx.PatientSID
-	,dx.DiagnosisEventSID
-	,dx.DiagnosisEventDateTime
-	,dx.TypeOfEvent
-	,ec.ECEventSID
-	,ec.ECEventDateTime
-	,ec.TypeOfEvent
-FROM
-	Dflt._pk_INCLUSION_STEP04_Z AS dx INNER JOIN Dflt._pk_INCLUSION_STEP05_Z AS ec ON
-	(
-		dx.PatientSSN = ec.PatientSSN
-		AND
-		dx.DiagnosisEventDateTime BETWEEN
-			DATEADD(DAY, (SELECT params.Lookback_Length_Days FROM Dflt._pk_ParameterTable AS params), ec.ECEventDateTime)
-			AND
-			ec.ECEventDateTime
-	)
+SELECT DISTINCT dx.PatientSSN
+    ,dx.PatientSID
+    ,dx.DiagnosisEventSID
+    ,dx.DiagnosisEventDateTime
+    ,dx.TypeOfEvent
+    ,ec.ECEventSID
+    ,ec.ECEventDateTime
+    ,ec.TypeOfEvent
+FROM Dflt._pk_INCLUSION_STEP04_Z AS dx
+INNER JOIN Dflt._pk_INCLUSION_STEP05_Z AS ec ON (
+        dx.PatientSSN = ec.PatientSSN
+        AND dx.DiagnosisEventDateTime BETWEEN DATEADD(DAY, (
+                        SELECT params.Lookback_Length_Days
+                        FROM Dflt._pk_ParameterTable AS params
+                        ), ec.ECEventDateTime)
+            AND ec.ECEventDateTime
+        )
 
 
 
