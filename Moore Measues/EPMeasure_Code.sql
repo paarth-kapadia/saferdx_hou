@@ -603,28 +603,19 @@ CREATE TABLE Dflt._pk_INCLUSION_STEP05_A
 
 -- Get all inpatient visits that fall under the Emergency Care (EC) search period
 INSERT INTO Dflt._pk_INCLUSION_STEP05_A
-SELECT DISTINCT
-	sp.PatientSSN
-	,inp.PatientSID
-	,inp.InpatientSID
-	,inp.AdmitDateTime
-	,'INPATIENT'
-FROM
-	Src.Inpat_Inpatient AS inp INNER JOIN Src.SPatient_SPatient AS sp ON
-	(
-		inp.PatientSID = sp.PatientSID
-	)
-WHERE
-	inp.AdmitDateTime BETWEEN
-		@STEP05_SearchStart
-		AND
-		@STEP05_SearchEnd
-	AND
-	sp.PatientSSN IN
-	(
-		SELECT t.PatientSSN
-		FROM Dflt._pk_INCLUSION_STEP04_Z AS t
-	)
+SELECT DISTINCT sp.PatientSSN
+    ,inp.PatientSID
+    ,inp.InpatientSID
+    ,inp.AdmitDateTime
+    ,'INPATIENT'
+FROM Src.Inpat_Inpatient AS inp
+INNER JOIN Src.SPatient_SPatient AS sp ON (inp.PatientSID = sp.PatientSID)
+WHERE inp.AdmitDateTime BETWEEN @STEP05_SearchStart
+        AND @STEP05_SearchEnd
+    AND sp.PatientSSN IN (
+        SELECT t.PatientSSN
+        FROM Dflt._pk_INCLUSION_STEP04_Z AS t
+        )
 
 
 
