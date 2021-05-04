@@ -854,53 +854,43 @@ CREATE TABLE Dflt._pk_EXCLUSION_STEP01_A
 
 -- Get all historical inpatient records for patients
 INSERT INTO Dflt._pk_EXCLUSION_STEP01_A
-SELECT DISTINCT
-	inc.PatientSSN
-	,inc.PatientSID
-	,inc.DiagnosisEventSID
-	,inc.DiagnosisEventDateTime
-	,inc.DiagnosisTypeOfEvent
-	,inp.InpatientSID
-	,inp.AdmitDateTime
-	,'INPATIENT'
-FROM
-	Dflt._pk_INCLUSION_FINAL AS inc INNER JOIN Src.SPatient_SPatient AS sp ON
-	(
-		inc.PatientSSN = sp.PatientSSN
-		AND
-		sp.PatientSID != -1
-	)
-		INNER JOIN Src.Inpat_Inpatient AS inp ON
-		(
-			sp.PatientSID = inp.PatientSID
-			AND
-			inp.PatientSID != -1
-		)
+SELECT DISTINCT inc.PatientSSN
+    ,inc.PatientSID
+    ,inc.DiagnosisEventSID
+    ,inc.DiagnosisEventDateTime
+    ,inc.DiagnosisTypeOfEvent
+    ,inp.InpatientSID
+    ,inp.AdmitDateTime
+    ,'INPATIENT'
+FROM Dflt._pk_INCLUSION_FINAL AS inc
+INNER JOIN Src.SPatient_SPatient AS sp ON (
+        inc.PatientSSN = sp.PatientSSN
+        AND sp.PatientSID != - 1
+        )
+INNER JOIN Src.Inpat_Inpatient AS inp ON (
+        sp.PatientSID = inp.PatientSID
+        AND inp.PatientSID != - 1
+        )
 
 -- Get all historical outpatient records for patients
 INSERT INTO Dflt._pk_EXCLUSION_STEP01_A
-SELECT DISTINCT
-	inc.PatientSSN
-	,inc.PatientSID
-	,inc.DiagnosisEventSID
-	,inc.DiagnosisEventDateTime
-	,inc.DiagnosisTypeOfEvent
-	,owl.VisitSID
-	,owl.VisitDateTime
-	,'OUTPATIENT'
-FROM
-	Dflt._pk_INCLUSION_FINAL AS inc INNER JOIN Src.SPatient_SPatient AS sp ON
-	(
-		inc.PatientSSN = sp.PatientSSN
-		AND
-		sp.PatientSID != -1
-	)
-		INNER JOIN Src.Outpat_Workload AS owl ON
-		(
-			sp.PatientSID = owl.PatientSID
-			AND
-			owl.PatientSID != -1
-		)
+SELECT DISTINCT inc.PatientSSN
+    ,inc.PatientSID
+    ,inc.DiagnosisEventSID
+    ,inc.DiagnosisEventDateTime
+    ,inc.DiagnosisTypeOfEvent
+    ,owl.VisitSID
+    ,owl.VisitDateTime
+    ,'OUTPATIENT'
+FROM Dflt._pk_INCLUSION_FINAL AS inc
+INNER JOIN Src.SPatient_SPatient AS sp ON (
+        inc.PatientSSN = sp.PatientSSN
+        AND sp.PatientSID != - 1
+        )
+INNER JOIN Src.Outpat_Workload AS owl ON (
+        sp.PatientSID = owl.PatientSID
+        AND owl.PatientSID != - 1
+        )
 
 
 
