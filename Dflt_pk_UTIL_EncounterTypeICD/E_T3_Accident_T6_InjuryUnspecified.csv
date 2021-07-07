@@ -1,0 +1,247 @@
+﻿ICD-10-CM Code,ICD-10-CM Code Description,CCSR Category,CCSR Category Description,Default CCSR (Y/N/X),Rationale
+M978XXA,"Periprosth fracture around other internal prosth joint, init",INJ026,Other specified injury,Y,0 Not Applicable
+M979XXA,"Periprosth fracture around unsp internal prosth joint, init",INJ026,Other specified injury,Y,0 Not Applicable
+S058X1A,"Other injuries of right eye and orbit, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S058X2A,"Other injuries of left eye and orbit, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S058X9A,"Other injuries of unspecified eye and orbit, init encntr",INJ026,Other specified injury,Y,0 Not Applicable
+S09311A,"Primary blast injury of right ear, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S09312A,"Primary blast injury of left ear, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S09313A,"Primary blast injury of ear, bilateral, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S09319A,"Primary blast injury of unspecified ear, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S09391A,"Oth injury of right middle and inner ear, init encntr",INJ026,Other specified injury,Y,0 Not Applicable
+S09392A,"Oth injury of left middle and inner ear, init encntr",INJ026,Other specified injury,Y,0 Not Applicable
+S09399A,"Oth injury of unspecified middle and inner ear, init encntr",INJ026,Other specified injury,Y,0 Not Applicable
+S098XXA,"Other specified injuries of head, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S1980XA,"Oth injuries of unspecified part of neck, init encntr",INJ026,Other specified injury,Y,0 Not Applicable
+S1981XA,"Other specified injuries of larynx, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S1982XA,"Other specified injuries of cervical trachea, init encntr",INJ026,Other specified injury,Y,0 Not Applicable
+S1983XA,"Other specified injuries of vocal cord, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S1984XA,"Other specified injuries of thyroid gland, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S1985XA,"Oth injuries of pharynx and cervical esophagus, init encntr",INJ026,Other specified injury,Y,0 Not Applicable
+S1989XA,"Oth injuries of other specified part of neck, init encntr",INJ026,Other specified injury,Y,0 Not Applicable
+S298XXA,"Other specified injuries of thorax, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S3981XA,"Other specified injuries of abdomen, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S3982XA,"Other specified injuries of lower back, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S3983XA,"Other specified injuries of pelvis, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S39840A,"Fracture of corpus cavernosum penis, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S39848A,"Other specified injuries of external genitals, init encntr",INJ026,Other specified injury,Y,0 Not Applicable
+S4980XA,"Oth injuries of shoulder and upper arm, unsp arm, init",INJ026,Other specified injury,Y,0 Not Applicable
+S4981XA,"Oth injuries of right shoulder and upper arm, init encntr",INJ026,Other specified injury,Y,0 Not Applicable
+S4982XA,"Oth injuries of left shoulder and upper arm, init encntr",INJ026,Other specified injury,Y,0 Not Applicable
+S59801A,"Other specified injuries of right elbow, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S59802A,"Other specified injuries of left elbow, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S59809A,"Other specified injuries of unspecified elbow, init encntr",INJ026,Other specified injury,Y,0 Not Applicable
+S59811A,"Other specified injuries right forearm, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S59812A,"Other specified injuries left forearm, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S59819A,"Other specified injuries unspecified forearm, init encntr",INJ026,Other specified injury,Y,0 Not Applicable
+S6980XA,"Oth injuries of unsp wrist, hand and finger(s), init encntr",INJ026,Other specified injury,Y,0 Not Applicable
+S6981XA,"Oth injuries of right wrist, hand and finger(s), init encntr",INJ026,Other specified injury,Y,0 Not Applicable
+S6982XA,"Oth injuries of left wrist, hand and finger(s), init encntr",INJ026,Other specified injury,Y,0 Not Applicable
+S79811A,"Other specified injuries of right hip, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S79812A,"Other specified injuries of left hip, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S79819A,"Other specified injuries of unspecified hip, init encntr",INJ026,Other specified injury,Y,0 Not Applicable
+S79821A,"Other specified injuries of right thigh, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S79822A,"Other specified injuries of left thigh, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S79829A,"Other specified injuries of unspecified thigh, init encntr",INJ026,Other specified injury,Y,0 Not Applicable
+S8980XA,"Oth injuries of unspecified lower leg, init encntr",INJ026,Other specified injury,Y,0 Not Applicable
+S8981XA,"Other specified injuries of right lower leg, init encntr",INJ026,Other specified injury,Y,0 Not Applicable
+S8982XA,"Other specified injuries of left lower leg, init encntr",INJ026,Other specified injury,Y,0 Not Applicable
+S99811A,"Other specified injuries of right ankle, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S99812A,"Other specified injuries of left ankle, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S99819A,"Other specified injuries of unspecified ankle, init encntr",INJ026,Other specified injury,Y,0 Not Applicable
+S99821A,"Other specified injuries of right foot, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S99822A,"Other specified injuries of left foot, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+S99829A,"Other specified injuries of unspecified foot, init encntr",INJ026,Other specified injury,Y,0 Not Applicable
+T790XXA,"Air embolism (traumatic), initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+T791XXA,"Fat embolism (traumatic), initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+T792XXA,"Traumatic secondary and recurrent hemor and seroma, init",INJ026,Other specified injury,Y,0 Not Applicable
+T794XXA,"Traumatic shock, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+T795XXA,"Traumatic anuria, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+T796XXA,"Traumatic ischemia of muscle, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+T797XXA,"Traumatic subcutaneous emphysema, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+T798XXA,"Other early complications of trauma, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+T799XXA,"Unspecified early complication of trauma, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+T79A0XA,"Compartment syndrome, unspecified, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+T79A11A,"Traumatic compartment syndrome of r up extrem, init",INJ026,Other specified injury,Y,0 Not Applicable
+T79A12A,"Traumatic compartment syndrome of left upper extremity, init",INJ026,Other specified injury,Y,0 Not Applicable
+T79A19A,"Traumatic compartment syndrome of unsp upper extremity, init",INJ026,Other specified injury,Y,0 Not Applicable
+T79A21A,"Traumatic compartment syndrome of r low extrem, init",INJ026,Other specified injury,Y,0 Not Applicable
+T79A22A,"Traumatic compartment syndrome of left lower extremity, init",INJ026,Other specified injury,Y,0 Not Applicable
+T79A29A,"Traumatic compartment syndrome of unsp lower extremity, init",INJ026,Other specified injury,Y,0 Not Applicable
+T79A3XA,"Traumatic compartment syndrome of abdomen, initial encounter",INJ026,Other specified injury,Y,0 Not Applicable
+T79A9XA,"Traumatic compartment syndrome of other sites, init encntr",INJ026,Other specified injury,Y,0 Not Applicable
+O9A211,"Injury, poisoning and certain other consequences of external causes complicating pregnancy, first trimester",INJ027,Other unspecified injury,N,"03 Pregnancy, perinatal, and congenital malformation"
+O9A212,"Injury, poisoning and certain other consequences of external causes complicating pregnancy, second trimester",INJ027,Other unspecified injury,N,"03 Pregnancy, perinatal, and congenital malformation"
+O9A213,"Injury, poisoning and certain other consequences of external causes complicating pregnancy, third trimester",INJ027,Other unspecified injury,N,"03 Pregnancy, perinatal, and congenital malformation"
+O9A219,"Injury, poisoning and certain other consequences of external causes complicating pregnancy, unspecified trimester",INJ027,Other unspecified injury,N,"03 Pregnancy, perinatal, and congenital malformation"
+O9A22,"Injury, poisoning and certain other consequences of external causes complicating childbirth",INJ027,Other unspecified injury,N,"03 Pregnancy, perinatal, and congenital malformation"
+O9A23,"Injury, poisoning and certain other consequences of external causes complicating the puerperium",INJ027,Other unspecified injury,N,"03 Pregnancy, perinatal, and congenital malformation"
+S0590XA,"Unspecified injury of unspecified eye and orbit, init encntr",INJ027,Other unspecified injury,Y,0 Not Applicable
+S0591XA,"Unspecified injury of right eye and orbit, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S0592XA,"Unspecified injury of left eye and orbit, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S09301A,"Unsp injury of right middle and inner ear, init encntr",INJ027,Other unspecified injury,Y,0 Not Applicable
+S09302A,"Unspecified injury of left middle and inner ear, init encntr",INJ027,Other unspecified injury,Y,0 Not Applicable
+S09309A,"Unsp injury of unspecified middle and inner ear, init encntr",INJ027,Other unspecified injury,Y,0 Not Applicable
+S0990XA,"Unspecified injury of head, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S0991XA,"Unspecified injury of ear, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S0992XA,"Unspecified injury of nose, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S0993XA,"Unspecified injury of face, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S199XXA,"Unspecified injury of neck, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S299XXA,"Unspecified injury of thorax, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S3991XA,"Unspecified injury of abdomen, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S3992XA,"Unspecified injury of lower back, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S3993XA,"Unspecified injury of pelvis, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S3994XA,"Unspecified injury of external genitals, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S4990XA,"Unsp injury of shoulder and upper arm, unsp arm, init encntr",INJ027,Other unspecified injury,Y,0 Not Applicable
+S4991XA,"Unsp injury of right shoulder and upper arm, init encntr",INJ027,Other unspecified injury,Y,0 Not Applicable
+S4992XA,"Unsp injury of left shoulder and upper arm, init encntr",INJ027,Other unspecified injury,Y,0 Not Applicable
+S59901A,"Unspecified injury of right elbow, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S59902A,"Unspecified injury of left elbow, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S59909A,"Unspecified injury of unspecified elbow, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S59911A,"Unspecified injury of right forearm, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S59912A,"Unspecified injury of left forearm, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S59919A,"Unspecified injury of unspecified forearm, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S6990XA,"Unsp injury of unsp wrist, hand and finger(s), init encntr",INJ027,Other unspecified injury,Y,0 Not Applicable
+S6991XA,"Unsp injury of right wrist, hand and finger(s), init encntr",INJ027,Other unspecified injury,Y,0 Not Applicable
+S6992XA,"Unsp injury of left wrist, hand and finger(s), init encntr",INJ027,Other unspecified injury,Y,0 Not Applicable
+S79911A,"Unspecified injury of right hip, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S79912A,"Unspecified injury of left hip, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S79919A,"Unspecified injury of unspecified hip, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S79921A,"Unspecified injury of right thigh, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S79922A,"Unspecified injury of left thigh, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S79929A,"Unspecified injury of unspecified thigh, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S8990XA,"Unspecified injury of unspecified lower leg, init encntr",INJ027,Other unspecified injury,Y,0 Not Applicable
+S8991XA,"Unspecified injury of right lower leg, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S8992XA,"Unspecified injury of left lower leg, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S99911A,"Unspecified injury of right ankle, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S99912A,"Unspecified injury of left ankle, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S99919A,"Unspecified injury of unspecified ankle, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S99921A,"Unspecified injury of right foot, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S99922A,"Unspecified injury of left foot, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+S99929A,"Unspecified injury of unspecified foot, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+T07,Unspecified multiple injuries,INJ027,Other unspecified injury,Y,0 Not Applicable
+T07XXXA,"Unspecified multiple injuries, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+T148,Other injury of unspecified body region,INJ027,Other unspecified injury,Y,0 Not Applicable
+T148XXA,"Other injury of unspecified body region, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+T1490,Injury unspecified,INJ027,Other unspecified injury,Y,0 Not Applicable
+T1490XA,"Injury, unspecified, initial encounter",INJ027,Other unspecified injury,Y,0 Not Applicable
+T1491,Suicide attempt,INJ027,Other unspecified injury,N,08 Suicidal ideation/attempt/intentional self-harm
+T1491XA,"Suicide attempt, initial encounter",INJ027,Other unspecified injury,N,08 Suicidal ideation/attempt/intentional self-harm
+M978XXD,"Periprosth fracture around other internal prosth joint, subs",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+M979XXD,"Periprosth fracture around unsp internal prosth joint, subs",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S058X1D,"Other injuries of right eye and orbit, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S058X2D,"Other injuries of left eye and orbit, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S058X9D,"Other injuries of unspecified eye and orbit, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S09311D,"Primary blast injury of right ear, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S09312D,"Primary blast injury of left ear, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S09313D,"Primary blast injury of ear, bilateral, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S09319D,"Primary blast injury of unspecified ear, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S09391D,"Oth injury of right middle and inner ear, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S09392D,"Oth injury of left middle and inner ear, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S09399D,"Oth injury of unspecified middle and inner ear, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S098XXD,"Other specified injuries of head, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S1980XD,"Oth injuries of unspecified part of neck, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S1981XD,"Other specified injuries of larynx, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S1982XD,"Other specified injuries of cervical trachea, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S1983XD,"Other specified injuries of vocal cord, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S1984XD,"Other specified injuries of thyroid gland, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S1985XD,"Oth injuries of pharynx and cervical esophagus, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S1989XD,"Oth injuries of other specified part of neck, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S298XXD,"Other specified injuries of thorax, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S3981XD,"Other specified injuries of abdomen, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S3982XD,"Other specified injuries of lower back, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S3983XD,"Other specified injuries of pelvis, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S39840D,"Fracture of corpus cavernosum penis, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S39848D,"Other specified injuries of external genitals, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S4980XD,"Oth injuries of shoulder and upper arm, unsp arm, subs",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S4981XD,"Oth injuries of right shoulder and upper arm, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S4982XD,"Oth injuries of left shoulder and upper arm, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S59801D,"Other specified injuries of right elbow, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S59802D,"Other specified injuries of left elbow, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S59809D,"Other specified injuries of unspecified elbow, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S59811D,"Other specified injuries right forearm, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S59812D,"Other specified injuries left forearm, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S59819D,"Other specified injuries unspecified forearm, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S6980XD,"Oth injuries of unsp wrist, hand and finger(s), subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S6981XD,"Oth injuries of right wrist, hand and finger(s), subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S6982XD,"Oth injuries of left wrist, hand and finger(s), subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S79811D,"Other specified injuries of right hip, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S79812D,"Other specified injuries of left hip, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S79819D,"Other specified injuries of unspecified hip, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S79821D,"Other specified injuries of right thigh, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S79822D,"Other specified injuries of left thigh, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S79829D,"Other specified injuries of unspecified thigh, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S8980XD,"Oth injuries of unspecified lower leg, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S8981XD,"Other specified injuries of right lower leg, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S8982XD,"Other specified injuries of left lower leg, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S99811D,"Other specified injuries of right ankle, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S99812D,"Other specified injuries of left ankle, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S99819D,"Other specified injuries of unspecified ankle, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S99821D,"Other specified injuries of right foot, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S99822D,"Other specified injuries of left foot, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S99829D,"Other specified injuries of unspecified foot, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+T790XXD,"Air embolism (traumatic), subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+T791XXD,"Fat embolism (traumatic), subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+T792XXD,"Traumatic secondary and recurrent hemor and seroma, subs",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+T794XXD,"Traumatic shock, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+T795XXD,"Traumatic anuria, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+T796XXD,"Traumatic ischemia of muscle, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+T797XXD,"Traumatic subcutaneous emphysema, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+T798XXD,"Other early complications of trauma, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+T799XXD,"Unspecified early complication of trauma, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+T79A0XD,"Compartment syndrome, unspecified, subsequent encounter",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+T79A11D,"Traumatic compartment syndrome of r up extrem, subs",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+T79A12D,"Traumatic compartment syndrome of left upper extremity, subs",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+T79A19D,"Traumatic compartment syndrome of unsp upper extremity, subs",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+T79A21D,"Traumatic compartment syndrome of r low extrem, subs",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+T79A22D,"Traumatic compartment syndrome of left lower extremity, subs",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+T79A29D,"Traumatic compartment syndrome of unsp lower extremity, subs",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+T79A3XD,"Traumatic compartment syndrome of abdomen, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+T79A9XD,"Traumatic compartment syndrome of other sites, subs encntr",INJ063,"Other specified injury, subsequent encounter",Y,0 Not Applicable
+S0590XD,"Unspecified injury of unspecified eye and orbit, subs encntr",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S0591XD,"Unspecified injury of right eye and orbit, subs encntr",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S0592XD,"Unspecified injury of left eye and orbit, subs encntr",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S09301D,"Unsp injury of right middle and inner ear, subs encntr",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S09302D,"Unspecified injury of left middle and inner ear, subs encntr",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S09309D,"Unsp injury of unspecified middle and inner ear, subs encntr",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S0990XD,"Unspecified injury of head, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S0991XD,"Unspecified injury of ear, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S0992XD,"Unspecified injury of nose, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S0993XD,"Unspecified injury of face, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S199XXD,"Unspecified injury of neck, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S299XXD,"Unspecified injury of thorax, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S3991XD,"Unspecified injury of abdomen, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S3992XD,"Unspecified injury of lower back, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S3993XD,"Unspecified injury of pelvis, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S3994XD,"Unspecified injury of external genitals, subs encntr",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S4990XD,"Unsp injury of shoulder and upper arm, unsp arm, subs encntr",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S4991XD,"Unsp injury of right shoulder and upper arm, subs encntr",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S4992XD,"Unsp injury of left shoulder and upper arm, subs encntr",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S59901D,"Unspecified injury of right elbow, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S59902D,"Unspecified injury of left elbow, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S59909D,"Unspecified injury of unspecified elbow, subs encntr",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S59911D,"Unspecified injury of right forearm, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S59912D,"Unspecified injury of left forearm, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S59919D,"Unspecified injury of unspecified forearm, subs encntr",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S6990XD,"Unsp injury of unsp wrist, hand and finger(s), subs encntr",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S6991XD,"Unsp injury of right wrist, hand and finger(s), subs encntr",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S6992XD,"Unsp injury of left wrist, hand and finger(s), subs encntr",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S79911D,"Unspecified injury of right hip, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S79912D,"Unspecified injury of left hip, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S79919D,"Unspecified injury of unspecified hip, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S79921D,"Unspecified injury of right thigh, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S79922D,"Unspecified injury of left thigh, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S79929D,"Unspecified injury of unspecified thigh, subs encntr",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S8990XD,"Unspecified injury of unspecified lower leg, subs encntr",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S8991XD,"Unspecified injury of right lower leg, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S8992XD,"Unspecified injury of left lower leg, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S99911D,"Unspecified injury of right ankle, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S99912D,"Unspecified injury of left ankle, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S99919D,"Unspecified injury of unspecified ankle, subs encntr",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S99921D,"Unspecified injury of right foot, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S99922D,"Unspecified injury of left foot, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+S99929D,"Unspecified injury of unspecified foot, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+T07XXXD,"Unspecified multiple injuries, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+T148XXD,"Other injury of unspecified body region, subs",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+T1490XD,"Injury, unspecified, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",Y,0 Not Applicable
+T1491XD,"Suicide attempt, subsequent encounter",INJ064,"Other unspecified injuries, subsequent encounter",N,08 Suicidal ideation/attempt/intentional self-harm

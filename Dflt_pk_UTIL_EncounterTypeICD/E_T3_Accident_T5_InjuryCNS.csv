@@ -1,0 +1,591 @@
+﻿ICD-10-CM Code,ICD-10-CM Code Description,CCSR Category,CCSR Category Description,Default CCSR (Y/N/X),Rationale
+S140XXA,"Concussion and edema of cervical spinal cord, init encntr",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14101A,"Unsp injury at C1 level of cervical spinal cord, init encntr",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14102A,"Unsp injury at C2 level of cervical spinal cord, init encntr",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14103A,"Unsp injury at C3 level of cervical spinal cord, init encntr",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14104A,"Unsp injury at C4 level of cervical spinal cord, init encntr",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14105A,"Unsp injury at C5 level of cervical spinal cord, init encntr",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14106A,"Unsp injury at C6 level of cervical spinal cord, init encntr",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14107A,"Unsp injury at C7 level of cervical spinal cord, init encntr",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14108A,"Unsp injury at C8 level of cervical spinal cord, init encntr",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14109A,"Unsp injury at unsp level of cervical spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14111A,"Complete lesion at C1 level of cervical spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14112A,"Complete lesion at C2 level of cervical spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14113A,"Complete lesion at C3 level of cervical spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14114A,"Complete lesion at C4 level of cervical spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14115A,"Complete lesion at C5 level of cervical spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14116A,"Complete lesion at C6 level of cervical spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14117A,"Complete lesion at C7 level of cervical spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14118A,"Complete lesion at C8 level of cervical spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14119A,"Complete lesion at unsp level of cervical spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14121A,"Central cord syndrome at C1, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14122A,"Central cord syndrome at C2, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14123A,"Central cord syndrome at C3, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14124A,"Central cord syndrome at C4, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14125A,"Central cord syndrome at C5, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14126A,"Central cord syndrome at C6, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14127A,"Central cord syndrome at C7, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14128A,"Central cord syndrome at C8, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14129A,"Central cord synd at unsp level of cerv spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14131A,"Anterior cord syndrome at C1, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14132A,"Anterior cord syndrome at C2, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14133A,"Anterior cord syndrome at C3, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14134A,"Anterior cord syndrome at C4, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14135A,"Anterior cord syndrome at C5, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14136A,"Anterior cord syndrome at C6, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14137A,"Anterior cord syndrome at C7, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14138A,"Anterior cord syndrome at C8, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14139A,"Ant cord syndrome at unsp level of cerv spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14141A,"Brown-Sequard syndrome at C1, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14142A,"Brown-Sequard syndrome at C2, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14143A,"Brown-Sequard syndrome at C3, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14144A,"Brown-Sequard syndrome at C4, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14145A,"Brown-Sequard syndrome at C5, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14146A,"Brown-Sequard syndrome at C6, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14147A,"Brown-Sequard syndrome at C7, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14148A,"Brown-Sequard syndrome at C8, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14149A,"Brown-Sequard synd at unsp level of cerv spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14151A,"Oth incomplete lesion at C1, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14152A,"Oth incomplete lesion at C2, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14153A,"Oth incomplete lesion at C3, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14154A,"Oth incomplete lesion at C4, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14155A,"Oth incomplete lesion at C5, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14156A,"Oth incomplete lesion at C6, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14157A,"Oth incomplete lesion at C7, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14158A,"Oth incomplete lesion at C8, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S14159A,"Oth incmpl lesion at unsp level of cerv spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S240XXA,"Concussion and edema of thoracic spinal cord, init encntr",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S24101A,"Unsp injury at T1 level of thoracic spinal cord, init encntr",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S24102A,"Unsp injury at T2-T6 level of thoracic spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S24103A,"Unsp injury at T7-T10 level of thoracic spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S24104A,"Unsp injury at T11-T12 level of thoracic spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S24109A,"Unsp injury at unsp level of thoracic spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S24111A,"Complete lesion at T1 level of thoracic spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S24112A,"Complete lesion at T2-T6 level of thoracic spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S24113A,"Complete lesion at T7-T10, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S24114A,"Complete lesion at T11-T12, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S24119A,"Complete lesion at unsp level of thoracic spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S24131A,"Anterior cord syndrome at T1, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S24132A,"Anterior cord syndrome at T2-T6, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S24133A,"Anterior cord syndrome at T7-T10, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S24134A,"Anterior cord syndrome at T11-T12, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S24139A,"Ant cord syndrome at unsp level of thor spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S24141A,"Brown-Sequard syndrome at T1, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S24142A,"Brown-Sequard syndrome at T2-T6, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S24143A,"Brown-Sequard syndrome at T7-T10, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S24144A,"Brown-Sequard syndrome at T11-T12, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S24149A,"Brown-Sequard synd at unsp level of thor spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S24151A,"Oth incomplete lesion at T1, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S24152A,"Oth incomplete lesion at T2-T6, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S24153A,"Oth incomplete lesion at T7-T10, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S24154A,"Oth incomplete lesion at T11-T12, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S24159A,"Oth incmpl lesion at unsp level of thor spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S3401XA,"Concussion and edema of lumbar spinal cord, init encntr",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S3402XA,"Concussion and edema of sacral spinal cord, init encntr",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S34101A,"Unsp injury to L1 level of lumbar spinal cord, init encntr",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S34102A,"Unsp injury to L2 level of lumbar spinal cord, init encntr",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S34103A,"Unsp injury to L3 level of lumbar spinal cord, init encntr",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S34104A,"Unsp injury to L4 level of lumbar spinal cord, init encntr",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S34105A,"Unsp injury to L5 level of lumbar spinal cord, init encntr",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S34109A,"Unsp injury to unsp level of lumbar spinal cord, init encntr",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S34111A,"Complete lesion of L1 level of lumbar spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S34112A,"Complete lesion of L2 level of lumbar spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S34113A,"Complete lesion of L3 level of lumbar spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S34114A,"Complete lesion of L4 level of lumbar spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S34115A,"Complete lesion of L5 level of lumbar spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S34119A,"Complete lesion of unsp level of lumbar spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S34121A,"Incomplete lesion of L1 level of lumbar spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S34122A,"Incomplete lesion of L2 level of lumbar spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S34123A,"Incomplete lesion of L3 level of lumbar spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S34124A,"Incomplete lesion of L4 level of lumbar spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S34125A,"Incomplete lesion of L5 level of lumbar spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S34129A,"Incomplete lesion of unsp level of lumbar spinal cord, init",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S34131A,"Complete lesion of sacral spinal cord, initial encounter",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S34132A,"Incomplete lesion of sacral spinal cord, initial encounter",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S34139A,"Unspecified injury to sacral spinal cord, initial encounter",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S343XXA,"Injury of cauda equina, initial encounter",INJ009,"Spinal cord injury (SCI), initial encounter",Y,0 Not Applicable
+S140XXD,"Concussion and edema of cervical spinal cord, subs encntr",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14101D,"Unsp injury at C1 level of cervical spinal cord, subs encntr",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14102D,"Unsp injury at C2 level of cervical spinal cord, subs encntr",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14103D,"Unsp injury at C3 level of cervical spinal cord, subs encntr",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14104D,"Unsp injury at C4 level of cervical spinal cord, subs encntr",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14105D,"Unsp injury at C5 level of cervical spinal cord, subs encntr",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14106D,"Unsp injury at C6 level of cervical spinal cord, subs encntr",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14107D,"Unsp injury at C7 level of cervical spinal cord, subs encntr",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14108D,"Unsp injury at C8 level of cervical spinal cord, subs encntr",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14109D,"Unsp injury at unsp level of cervical spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14111D,"Complete lesion at C1 level of cervical spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14112D,"Complete lesion at C2 level of cervical spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14113D,"Complete lesion at C3 level of cervical spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14114D,"Complete lesion at C4 level of cervical spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14115D,"Complete lesion at C5 level of cervical spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14116D,"Complete lesion at C6 level of cervical spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14117D,"Complete lesion at C7 level of cervical spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14118D,"Complete lesion at C8 level of cervical spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14119D,"Complete lesion at unsp level of cervical spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14121D,"Central cord syndrome at C1, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14122D,"Central cord syndrome at C2, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14123D,"Central cord syndrome at C3, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14124D,"Central cord syndrome at C4, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14125D,"Central cord syndrome at C5, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14126D,"Central cord syndrome at C6, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14127D,"Central cord syndrome at C7, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14128D,"Central cord syndrome at C8, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14129D,"Central cord synd at unsp level of cerv spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14131D,"Anterior cord syndrome at C1, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14132D,"Anterior cord syndrome at C2, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14133D,"Anterior cord syndrome at C3, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14134D,"Anterior cord syndrome at C4, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14135D,"Anterior cord syndrome at C5, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14136D,"Anterior cord syndrome at C6, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14137D,"Anterior cord syndrome at C7, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14138D,"Anterior cord syndrome at C8, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14139D,"Ant cord syndrome at unsp level of cerv spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14141D,"Brown-Sequard syndrome at C1, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14142D,"Brown-Sequard syndrome at C2, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14143D,"Brown-Sequard syndrome at C3, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14144D,"Brown-Sequard syndrome at C4, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14145D,"Brown-Sequard syndrome at C5, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14146D,"Brown-Sequard syndrome at C6, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14147D,"Brown-Sequard syndrome at C7, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14148D,"Brown-Sequard syndrome at C8, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14149D,"Brown-Sequard synd at unsp level of cerv spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14151D,"Oth incomplete lesion at C1, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14152D,"Oth incomplete lesion at C2, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14153D,"Oth incomplete lesion at C3, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14154D,"Oth incomplete lesion at C4, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14155D,"Oth incomplete lesion at C5, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14156D,"Oth incomplete lesion at C6, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14157D,"Oth incomplete lesion at C7, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14158D,"Oth incomplete lesion at C8, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S14159D,"Oth incmpl lesion at unsp level of cerv spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S240XXD,"Concussion and edema of thoracic spinal cord, subs encntr",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S24101D,"Unsp injury at T1 level of thoracic spinal cord, subs encntr",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S24102D,"Unsp injury at T2-T6 level of thoracic spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S24103D,"Unsp injury at T7-T10 level of thoracic spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S24104D,"Unsp injury at T11-T12 level of thoracic spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S24109D,"Unsp injury at unsp level of thoracic spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S24111D,"Complete lesion at T1 level of thoracic spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S24112D,"Complete lesion at T2-T6 level of thoracic spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S24113D,"Complete lesion at T7-T10, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S24114D,"Complete lesion at T11-T12, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S24119D,"Complete lesion at unsp level of thoracic spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S24131D,"Anterior cord syndrome at T1, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S24132D,"Anterior cord syndrome at T2-T6, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S24133D,"Anterior cord syndrome at T7-T10, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S24134D,"Anterior cord syndrome at T11-T12, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S24139D,"Ant cord syndrome at unsp level of thor spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S24141D,"Brown-Sequard syndrome at T1, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S24142D,"Brown-Sequard syndrome at T2-T6, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S24143D,"Brown-Sequard syndrome at T7-T10, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S24144D,"Brown-Sequard syndrome at T11-T12, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S24149D,"Brown-Sequard synd at unsp level of thor spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S24151D,"Oth incomplete lesion at T1, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S24152D,"Oth incomplete lesion at T2-T6, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S24153D,"Oth incomplete lesion at T7-T10, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S24154D,"Oth incomplete lesion at T11-T12, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S24159D,"Oth incmpl lesion at unsp level of thor spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S3401XD,"Concussion and edema of lumbar spinal cord, subs encntr",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S3402XD,"Concussion and edema of sacral spinal cord, subs encntr",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S34101D,"Unsp injury to L1 level of lumbar spinal cord, subs encntr",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S34102D,"Unsp injury to L2 level of lumbar spinal cord, subs encntr",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S34103D,"Unsp injury to L3 level of lumbar spinal cord, subs encntr",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S34104D,"Unsp injury to L4 level of lumbar spinal cord, subs encntr",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S34105D,"Unsp injury to L5 level of lumbar spinal cord, subs encntr",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S34109D,"Unsp injury to unsp level of lumbar spinal cord, subs encntr",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S34111D,"Complete lesion of L1 level of lumbar spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S34112D,"Complete lesion of L2 level of lumbar spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S34113D,"Complete lesion of L3 level of lumbar spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S34114D,"Complete lesion of L4 level of lumbar spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S34115D,"Complete lesion of L5 level of lumbar spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S34119D,"Complete lesion of unsp level of lumbar spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S34121D,"Incomplete lesion of L1 level of lumbar spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S34122D,"Incomplete lesion of L2 level of lumbar spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S34123D,"Incomplete lesion of L3 level of lumbar spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S34124D,"Incomplete lesion of L4 level of lumbar spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S34125D,"Incomplete lesion of L5 level of lumbar spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S34129D,"Incomplete lesion of unsp level of lumbar spinal cord, subs",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S34131D,"Complete lesion of sacral spinal cord, subsequent encounter",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S34132D,"Incomplete lesion of sacral spinal cord, subs encntr",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S34139D,"Unspecified injury to sacral spinal cord, subs encntr",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S343XXD,"Injury of cauda equina, subsequent encounter",INJ046,"Spinal cord injury (SCI), subsequent encounter",Y,0 Not Applicable
+S060X0A,"Concussion without loss of consciousness, initial encounter",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S060X1A,"Concussion w LOC of 30 minutes or less, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S060X2A,Concussion with loss of consciousness of 31 minutes to 59 mi,INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S060X3A,Concussion with loss of consciousness of 1 hour to 5 hours 5,INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S060X4A,Concussion with loss of consciousness of 6 hours to 24 hours,INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S060X5A,Concussion with loss of consciousness greater than 24 hours,INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S060X6A,Concussion with loss of consciousness greater than 24 hours,INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S060X7A,Concussion with loss of consciousness of any duration with d,INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S060X8A,Concussion with loss of consciousness of any duration with d,INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S060X9A,"Concussion w loss of consciousness of unsp duration, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S061X0A,"Traumatic cerebral edema w/o loss of consciousness, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S061X1A,"Traumatic cerebral edema w LOC of 30 minutes or less, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S061X2A,"Traumatic cerebral edema w LOC of 31-59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S061X3A,"Traumatic cerebral edema w LOC of 1-5 hrs 59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S061X4A,"Traumatic cerebral edema w LOC of 6 hours to 24 hours, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S061X5A,"Traumatic cerebral edema w LOC >24 hr w ret consc lev, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S061X6A,"Traum cerebral edema w LOC >24 hr w/o ret consc w surv, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S061X7A,"Traum cereb edema w LOC w death d/t brain inj bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S061X8A,"Traum cereb edema w LOC w death d/t oth cause bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S061X9A,"Traumatic cerebral edema w LOC of unsp duration, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S062X0A,"Diffuse TBI w/o loss of consciousness, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S062X1A,"Diffuse TBI w LOC of 30 minutes or less, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S062X2A,"Diffuse TBI w loss of consciousness of 31-59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S062X3A,"Diffuse TBI w loss of consciousness of 1-5 hrs 59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S062X4A,"Diffuse TBI w LOC of 6 hours to 24 hours, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S062X5A,"Diffuse TBI w LOC >24 hr w return to conscious levels, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S062X6A,"Diffuse TBI w LOC >24 hr w/o ret consc w surv, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S062X7A,"Diffuse TBI w LOC w death due to brain injury bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S062X8A,"Diffuse TBI w LOC w death due to oth cause bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S062X9A,"Diffuse TBI w loss of consciousness of unsp duration, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06300A,"Unsp focal TBI w/o loss of consciousness, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06301A,"Unsp focal TBI w LOC of 30 minutes or less, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06302A,"Unsp focal TBI w loss of consciousness of 31-59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06303A,"Unsp focal TBI w LOC of 1-5 hrs 59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06304A,"Unsp focal TBI w LOC of 6 hours to 24 hours, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06305A,"Unsp focal TBI w LOC >24 hr w ret consc lev, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06306A,"Unsp focal TBI w LOC >24 hr w/o ret consc w surv, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06307A,"Unsp focal TBI w LOC w death d/t brain injury bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06308A,"Unsp focal TBI w LOC w death due to oth cause bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06309A,"Unsp focal TBI w LOC of unsp duration, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06310A,"Contus/lac right cerebrum w/o loss of consciousness, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06311A,"Contus/lac right cerebrum w LOC of 30 minutes or less, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06312A,"Contus/lac right cerebrum w LOC of 31-59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06313A,"Contus/lac right cerebrum w LOC of 1-5 hrs 59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06314A,"Contus/lac right cerebrum w LOC of 6 hours to 24 hours, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06315A,"Contus/lac right cerebrum w LOC >24 hr w ret consc lev, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06316A,"Contus/lac r cereb w LOC >24 hr w/o ret consc w surv, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06317A,"Contus/lac r cereb w LOC w dth d/t brain inj bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06318A,"Contus/lac r cereb w LOC w dth d/t oth cause bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06319A,"Contus/lac right cerebrum w LOC of unsp duration, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06320A,"Contus/lac left cerebrum w/o loss of consciousness, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06321A,"Contus/lac left cerebrum w LOC of 30 minutes or less, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06322A,"Contus/lac left cerebrum w LOC of 31-59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06323A,"Contus/lac left cerebrum w LOC of 1-5 hrs 59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06324A,"Contus/lac left cerebrum w LOC of 6 hours to 24 hours, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06325A,"Contus/lac left cerebrum w LOC >24 hr w ret consc lev, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06326A,"Contus/lac l cereb w LOC >24 hr w/o ret consc w surv, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06327A,"Contus/lac l cereb w LOC w dth d/t brain inj bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06328A,"Contus/lac l cereb w LOC w dth d/t oth cause bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06329A,"Contus/lac left cerebrum w LOC of unsp duration, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06330A,"Contus/lac cereb, w/o loss of consciousness, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06331A,"Contus/lac cereb, w LOC of 30 minutes or less, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06332A,"Contus/lac cereb, w loss of consciousness of 31-59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06333A,"Contus/lac cereb, w LOC of 1-5 hrs 59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06334A,"Contus/lac cereb, w LOC of 6 hours to 24 hours, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06335A,"Contus/lac cereb, w LOC >24 hr w ret consc lev, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06336A,"Contus/lac cereb, w LOC >24 hr w/o ret consc w surv, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06337A,"Contus/lac cereb, w LOC w death d/t brain inj bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06338A,"Contus/lac cereb, w LOC w death d/t oth cause bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06339A,"Contus/lac cereb, w LOC of unsp duration, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06340A,"Traum hemor right cerebrum w/o loss of consciousness, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06341A,"Traum hemor right cerebrum w LOC of 30 minutes or less, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06342A,"Traum hemor right cerebrum w LOC of 31-59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06343A,"Traum hemor right cerebrum w LOC of 1-5 hrs 59 minutes, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06344A,"Traum hemor right cerebrum w LOC of 6-24 hrs, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06345A,"Traum hemor r cereb w LOC >24 hr w ret consc lev, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06346A,"Traum hemor r cereb w LOC >24 hr w/o ret consc w surv, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06347A,"Traum hemor r cereb w LOC w dth d/t brain inj bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06348A,"Traum hemor r cereb w LOC w dth d/t oth cause bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06349A,"Traum hemor right cerebrum w LOC of unsp duration, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06350A,"Traum hemor left cerebrum w/o loss of consciousness, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06351A,"Traum hemor left cerebrum w LOC of 30 minutes or less, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06352A,"Traum hemor left cerebrum w LOC of 31-59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06353A,"Traum hemor left cerebrum w LOC of 1-5 hrs 59 minutes, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06354A,"Traum hemor left cerebrum w LOC of 6 hours to 24 hours, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06355A,"Traum hemor left cerebrum w LOC >24 hr w ret consc lev, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06356A,"Traum hemor l cereb w LOC >24 hr w/o ret consc w surv, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06357A,"Traum hemor l cereb w LOC w dth d/t brain inj bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06358A,"Traum hemor l cereb w LOC w dth d/t oth cause bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06359A,"Traum hemor left cerebrum w LOC of unsp duration, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06360A,"Traum hemor cereb, w/o loss of consciousness, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06361A,"Traum hemor cereb, w LOC of 30 minutes or less, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06362A,"Traum hemor cereb, w LOC of 31-59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06363A,"Traum hemor cereb, w LOC of 1-5 hrs 59 minutes, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06364A,"Traum hemor cereb, w LOC of 6 hours to 24 hours, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06365A,"Traum hemor cereb, w LOC >24 hr w ret consc lev, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06366A,"Traum hemor cereb, w LOC >24 hr w/o ret consc w surv, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06367A,"Traum hemor cereb, w LOC w dth d/t brain inj bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06368A,"Traum hemor cereb, w LOC w dth d/t oth cause bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06369A,"Traum hemor cereb, w LOC of unsp duration, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06370A,"Contus/lac/hem crblm w/o loss of consciousness, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06371A,"Contus/lac/hem crblm w LOC of 30 minutes or less, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06372A,"Contus/lac/hem crblm w LOC of 31-59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06373A,"Contus/lac/hem crblm w LOC of 1-5 hrs 59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06374A,"Contus/lac/hem crblm w LOC of 6 hours to 24 hours, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06375A,"Contus/lac/hem crblm w LOC >24 hr w ret consc lev, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06376A,"Contus/lac/hem crblm w LOC >24 hr w/o ret consc w surv, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06377A,"Contus/lac/hem crblm w LOC w dth d/t brain inj bf consc,init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06378A,"Contus/lac/hem crblm w LOC w dth d/t oth cause bf consc,init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06379A,"Contus/lac/hem crblm w LOC of unsp duration, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06380A,"Contus/lac/hem brainstem w/o loss of consciousness, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06381A,"Contus/lac/hem brainstem w LOC of 30 minutes or less, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06382A,"Contus/lac/hem brainstem w LOC of 31-59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06383A,"Contus/lac/hem brainstem w LOC of 1-5 hrs 59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06384A,"Contus/lac/hem brainstem w LOC of 6 hours to 24 hours, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06385A,"Contus/lac/hem brainstem w LOC >24 hr w ret consc lev, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06386A,"Contus/lac/hem brnst w LOC >24 hr w/o ret consc w surv, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06387A,"Contus/lac/hem brnst w LOC w dth d/t brain inj bf consc,init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06388A,"Contus/lac/hem brnst w LOC w dth d/t oth cause bf consc,init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06389A,"Contus/lac/hem brainstem w LOC of unsp duration, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S064X0A,"Epidural hemorrhage w/o loss of consciousness, init encntr",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S064X1A,"Epidural hemorrhage w LOC of 30 minutes or less, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S064X2A,"Epidural hemorrhage w LOC of 31-59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S064X3A,"Epidural hemorrhage w LOC of 1-5 hrs 59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S064X4A,"Epidural hemorrhage w LOC of 6 hours to 24 hours, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S064X5A,"Epidural hemorrhage w LOC >24 hr w ret consc lev, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S064X6A,"Epidural hemorrhage w LOC >24 hr w/o ret consc w surv, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S064X7A,"Epidur hemor w LOC w death d/t brain injury bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S064X8A,"Epidur hemor w LOC w death due to oth causes bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S064X9A,"Epidural hemorrhage w LOC of unsp duration, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S065X0A,"Traum subdr hem w/o loss of consciousness, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S065X1A,"Traum subdr hem w LOC of 30 minutes or less, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S065X2A,"Traum subdr hem w loss of consciousness of 31-59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S065X3A,"Traum subdr hem w LOC of 1-5 hrs 59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S065X4A,"Traum subdr hem w LOC of 6 hours to 24 hours, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S065X5A,"Traum subdr hem w LOC >24 hr w ret consc lev, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S065X6A,"Traum subdr hem w LOC >24 hr w/o ret consc w surv, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S065X7A,"Traum subdr hem w LOC w dth d/t brain inj bef reg consc,init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S065X8A,"Traum subdr hem w LOC w dth d/t oth cause bef reg consc,init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S065X9A,"Traum subdr hem w LOC of unsp duration, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S066X0A,"Traum subrac hem w/o loss of consciousness, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S066X1A,"Traum subrac hem w LOC of 30 minutes or less, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S066X2A,"Traum subrac hem w loss of consciousness of 31-59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S066X3A,"Traum subrac hem w LOC of 1-5 hrs 59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S066X4A,"Traum subrac hem w LOC of 6 hours to 24 hours, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S066X5A,"Traum subrac hem w LOC >24 hr w ret consc lev, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S066X6A,"Traum subrac hem w LOC >24 hr w/o ret consc w surv, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S066X7A,"Traum subrac hem w LOC w death d/t brain inj bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S066X8A,"Traum subrac hem w LOC w death d/t oth cause bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S066X9A,"Traum subrac hem w LOC of unsp duration, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06810A,"Injury of r int carotid, intcr w/o LOC, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06811A,"Inj r int carotid, intcr w LOC of 30 minutes or less, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06812A,"Injury of r int carotid, intcr w LOC of 31-59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06813A,"Injury of r int carotid, intcr w LOC of 1-5 hrs 59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06814A,"Injury of r int carotid, intcr w LOC of 6-24 hrs, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06815A,"Inj r int carotid, intcr w LOC >24 hr w ret consc lev, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06816A,"Inj r int crtd,intcr w LOC >24 hr w/o ret consc w surv, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06817A,"Inj r int crtd,intcr w LOC w dth d/t brain inj bf consc,init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06818A,"Inj r int crtd,intcr w LOC w dth d/t oth cause bf consc,init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06819A,"Injury of r int carotid, intcr w LOC of unsp duration, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06820A,"Injury of l int carotid, intcr w/o LOC, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06821A,"Inj l int carotid, intcr w LOC of 30 minutes or less, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06822A,"Injury of l int carotid, intcr w LOC of 31-59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06823A,"Injury of l int carotid, intcr w LOC of 1-5 hrs 59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06824A,"Injury of l int carotid, intcr w LOC of 6-24 hrs, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06825A,"Inj l int carotid, intcr w LOC >24 hr w ret consc lev, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06826A,"Inj l int crtd,intcr w LOC >24 hr w/o ret consc w surv, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06827A,"Inj l int crtd,intcr w LOC w dth d/t brain inj bf consc,init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06828A,"Inj l int crtd,intcr w LOC w dth d/t oth cause bf consc,init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06829A,"Injury of l int carotid, intcr w LOC of unsp duration, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06890A,"Intcran inj w/o loss of consciousness, init encntr",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06891A,"Intcran inj w LOC of 30 minutes or less, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06892A,"Intcran inj w loss of consciousness of 31-59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06893A,"Intcran inj w loss of consciousness of 1-5 hrs 59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06894A,"Intcran inj w LOC of 6 hours to 24 hours, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06895A,"Intcran inj w LOC >24 hr w ret consc lev, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06896A,"Intcran inj w LOC >24 hr w/o ret consc w surv, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06897A,"Intcran inj w LOC w death due to brain injury bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06898A,"Intcran inj w LOC w death due to oth cause bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S06899A,"Intcran inj w loss of consciousness of unsp duration, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S069X0A,"Unsp intracranial injury w/o loss of consciousness, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S069X1A,"Unsp intracranial injury w LOC of 30 minutes or less, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S069X2A,"Unsp intracranial injury w LOC of 31-59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S069X3A,"Unsp intracranial injury w LOC of 1-5 hrs 59 min, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S069X4A,"Unsp intracranial injury w LOC of 6 hours to 24 hours, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S069X5A,"Unsp intracranial injury w LOC >24 hr w ret consc lev, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S069X6A,"Unsp intcrn injury w LOC >24 hr w/o ret consc w surv, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S069X7A,"Unsp intcrn inj w LOC w death d/t brain inj bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S069X8A,"Unsp intcrn inj w LOC w death d/t oth cause bf consc, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S069X9A,"Unsp intracranial injury w LOC of unsp duration, init",INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",Y,0 Not Applicable
+S060X0D,"Concussion without loss of consciousness, subs encntr",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S060X1D,"Concussion w LOC of 30 minutes or less, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S060X2D,Concussion with loss of consciousness of 31 minutes to 59 mi,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S060X3D,Concussion with loss of consciousness of 1 hour to 5 hours 5,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S060X4D,Concussion with loss of consciousness of 6 hours to 24 hours,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S060X5D,Concussion with loss of consciousness greater than 24 hours,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S060X6D,Concussion with loss of consciousness greater than 24 hours,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S060X7D,Concussion with loss of consciousness of any duration with d,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S060X8D,Concussion with loss of consciousness of any duration with d,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S060X9D,"Concussion w loss of consciousness of unsp duration, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S061X0D,"Traumatic cerebral edema w/o loss of consciousness, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S061X1D,"Traumatic cerebral edema w LOC of 30 minutes or less, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S061X2D,"Traumatic cerebral edema w LOC of 31-59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S061X3D,"Traumatic cerebral edema w LOC of 1-5 hrs 59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S061X4D,"Traumatic cerebral edema w LOC of 6 hours to 24 hours, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S061X5D,"Traumatic cerebral edema w LOC >24 hr w ret consc lev, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S061X6D,"Traum cerebral edema w LOC >24 hr w/o ret consc w surv, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S061X7D,Traumatic cerebral edema with loss of consciousness of any d,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S061X8D,Traumatic cerebral edema with loss of consciousness of any d,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S061X9D,"Traumatic cerebral edema w LOC of unsp duration, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S062X0D,"Diffuse TBI w/o loss of consciousness, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S062X1D,"Diffuse TBI w LOC of 30 minutes or less, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S062X2D,"Diffuse TBI w loss of consciousness of 31-59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S062X3D,"Diffuse TBI w loss of consciousness of 1-5 hrs 59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S062X4D,"Diffuse TBI w LOC of 6 hours to 24 hours, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S062X5D,"Diffuse TBI w LOC >24 hr w return to conscious levels, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S062X6D,"Diffuse TBI w LOC >24 hr w/o ret consc w surv, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S062X7D,Diffuse traumatic brain injury with loss of consciousness of,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S062X8D,Diffuse traumatic brain injury with loss of consciousness of,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S062X9D,"Diffuse TBI w loss of consciousness of unsp duration, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06300D,"Unsp focal TBI w/o loss of consciousness, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06301D,"Unsp focal TBI w LOC of 30 minutes or less, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06302D,"Unsp focal TBI w loss of consciousness of 31-59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06303D,"Unsp focal TBI w LOC of 1-5 hrs 59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06304D,"Unsp focal TBI w LOC of 6 hours to 24 hours, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06305D,"Unsp focal TBI w LOC >24 hr w ret consc lev, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06306D,"Unsp focal TBI w LOC >24 hr w/o ret consc w surv, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06307D,Unspecified focal traumatic brain injury with loss of consci,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06308D,Unspecified focal traumatic brain injury with loss of consci,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06309D,"Unsp focal TBI w LOC of unsp duration, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06310D,"Contus/lac right cerebrum w/o loss of consciousness, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06311D,"Contus/lac right cerebrum w LOC of 30 minutes or less, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06312D,"Contus/lac right cerebrum w LOC of 31-59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06313D,"Contus/lac right cerebrum w LOC of 1-5 hrs 59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06314D,"Contus/lac right cerebrum w LOC of 6 hours to 24 hours, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06315D,"Contus/lac right cerebrum w LOC >24 hr w ret consc lev, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06316D,"Contus/lac r cereb w LOC >24 hr w/o ret consc w surv, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06317D,Contusion and laceration of right cerebrum with loss of cons,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06318D,Contusion and laceration of right cerebrum with loss of cons,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06319D,"Contus/lac right cerebrum w LOC of unsp duration, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06320D,"Contus/lac left cerebrum w/o loss of consciousness, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06321D,"Contus/lac left cerebrum w LOC of 30 minutes or less, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06322D,"Contus/lac left cerebrum w LOC of 31-59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06323D,"Contus/lac left cerebrum w LOC of 1-5 hrs 59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06324D,"Contus/lac left cerebrum w LOC of 6 hours to 24 hours, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06325D,"Contus/lac left cerebrum w LOC >24 hr w ret consc lev, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06326D,"Contus/lac l cereb w LOC >24 hr w/o ret consc w surv, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06327D,Contusion and laceration of left cerebrum with loss of consc,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06328D,Contusion and laceration of left cerebrum with loss of consc,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06329D,"Contus/lac left cerebrum w LOC of unsp duration, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06330D,"Contus/lac cereb, w/o loss of consciousness, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06331D,"Contus/lac cereb, w LOC of 30 minutes or less, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06332D,"Contus/lac cereb, w loss of consciousness of 31-59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06333D,"Contus/lac cereb, w LOC of 1-5 hrs 59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06334D,"Contus/lac cereb, w LOC of 6 hours to 24 hours, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06335D,"Contus/lac cereb, w LOC >24 hr w ret consc lev, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06336D,"Contus/lac cereb, w LOC >24 hr w/o ret consc w surv, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06337D,Contusion and laceration of cerebrum unspecified with loss o,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06338D,Contusion and laceration of cerebrum unspecified with loss o,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06339D,"Contus/lac cereb, w LOC of unsp duration, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06340D,"Traum hemor right cerebrum w/o loss of consciousness, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06341D,"Traum hemor right cerebrum w LOC of 30 minutes or less, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06342D,"Traum hemor right cerebrum w LOC of 31-59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06343D,"Traum hemor right cerebrum w LOC of 1-5 hrs 59 minutes, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06344D,"Traum hemor right cerebrum w LOC of 6-24 hrs, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06345D,"Traum hemor r cereb w LOC >24 hr w ret consc lev, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06346D,"Traum hemor r cereb w LOC >24 hr w/o ret consc w surv, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06347D,Traumatic hemorrhage of right cerebrum with loss of consciou,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06348D,Traumatic hemorrhage of right cerebrum with loss of consciou,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06349D,"Traum hemor right cerebrum w LOC of unsp duration, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06350D,"Traum hemor left cerebrum w/o loss of consciousness, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06351D,"Traum hemor left cerebrum w LOC of 30 minutes or less, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06352D,"Traum hemor left cerebrum w LOC of 31-59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06353D,"Traum hemor left cerebrum w LOC of 1-5 hrs 59 minutes, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06354D,"Traum hemor left cerebrum w LOC of 6 hours to 24 hours, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06355D,"Traum hemor left cerebrum w LOC >24 hr w ret consc lev, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06356D,"Traum hemor l cereb w LOC >24 hr w/o ret consc w surv, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06357D,Traumatic hemorrhage of left cerebrum with loss of conscious,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06358D,Traumatic hemorrhage of left cerebrum with loss of conscious,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06359D,"Traum hemor left cerebrum w LOC of unsp duration, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06360D,"Traum hemor cereb, w/o loss of consciousness, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06361D,"Traum hemor cereb, w LOC of 30 minutes or less, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06362D,"Traum hemor cereb, w LOC of 31-59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06363D,"Traum hemor cereb, w LOC of 1-5 hrs 59 minutes, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06364D,"Traum hemor cereb, w LOC of 6 hours to 24 hours, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06365D,"Traum hemor cereb, w LOC >24 hr w ret consc lev, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06366D,"Traum hemor cereb, w LOC >24 hr w/o ret consc w surv, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06367D,Traumatic hemorrhage of cerebrum unspecified with loss of co,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06368D,Traumatic hemorrhage of cerebrum unspecified with loss of co,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06369D,"Traum hemor cereb, w LOC of unsp duration, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06370D,"Contus/lac/hem crblm w/o loss of consciousness, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06371D,"Contus/lac/hem crblm w LOC of 30 minutes or less, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06372D,"Contus/lac/hem crblm w LOC of 31-59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06373D,"Contus/lac/hem crblm w LOC of 1-5 hrs 59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06374D,"Contus/lac/hem crblm w LOC of 6 hours to 24 hours, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06375D,"Contus/lac/hem crblm w LOC >24 hr w ret consc lev, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06376D,"Contus/lac/hem crblm w LOC >24 hr w/o ret consc w surv, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06377D,Contusion laceration and hemorrhage of cerebellum with loss,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06378D,Contusion laceration and hemorrhage of cerebellum with loss,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06379D,"Contus/lac/hem crblm w LOC of unsp duration, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06380D,"Contus/lac/hem brainstem w/o loss of consciousness, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06381D,"Contus/lac/hem brainstem w LOC of 30 minutes or less, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06382D,"Contus/lac/hem brainstem w LOC of 31-59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06383D,"Contus/lac/hem brainstem w LOC of 1-5 hrs 59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06384D,"Contus/lac/hem brainstem w LOC of 6 hours to 24 hours, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06385D,"Contus/lac/hem brainstem w LOC >24 hr w ret consc lev, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06386D,"Contus/lac/hem brnst w LOC >24 hr w/o ret consc w surv, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06387D,Contusion laceration and hemorrhage of brainstem with loss o,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06388D,Contusion laceration and hemorrhage of brainstem with loss o,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06389D,"Contus/lac/hem brainstem w LOC of unsp duration, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S064X0D,"Epidural hemorrhage w/o loss of consciousness, subs encntr",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S064X1D,"Epidural hemorrhage w LOC of 30 minutes or less, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S064X2D,"Epidural hemorrhage w LOC of 31-59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S064X3D,"Epidural hemorrhage w LOC of 1-5 hrs 59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S064X4D,"Epidural hemorrhage w LOC of 6 hours to 24 hours, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S064X5D,"Epidural hemorrhage w LOC >24 hr w ret consc lev, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S064X6D,"Epidural hemorrhage w LOC >24 hr w/o ret consc w surv, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S064X7D,Epidural hemorrhage with loss of consciousness of any durati,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S064X8D,Epidural hemorrhage with loss of consciousness of any durati,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S064X9D,"Epidural hemorrhage w LOC of unsp duration, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S065X0D,"Traum subdr hem w/o loss of consciousness, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S065X1D,"Traum subdr hem w LOC of 30 minutes or less, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S065X2D,"Traum subdr hem w loss of consciousness of 31-59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S065X3D,"Traum subdr hem w LOC of 1-5 hrs 59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S065X4D,"Traum subdr hem w LOC of 6 hours to 24 hours, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S065X5D,"Traum subdr hem w LOC >24 hr w ret consc lev, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S065X6D,"Traum subdr hem w LOC >24 hr w/o ret consc w surv, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S065X7D,Traumatic subdural hemorrhage with loss of consciousness of,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S065X8D,Traumatic subdural hemorrhage with loss of consciousness of,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S065X9D,"Traum subdr hem w LOC of unsp duration, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S066X0D,"Traum subrac hem w/o loss of consciousness, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S066X1D,"Traum subrac hem w LOC of 30 minutes or less, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S066X2D,"Traum subrac hem w loss of consciousness of 31-59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S066X3D,"Traum subrac hem w LOC of 1-5 hrs 59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S066X4D,"Traum subrac hem w LOC of 6 hours to 24 hours, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S066X5D,"Traum subrac hem w LOC >24 hr w ret consc lev, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S066X6D,"Traum subrac hem w LOC >24 hr w/o ret consc w surv, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S066X7D,Traumatic subarachnoid hemorrhage with loss of consciousness,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S066X8D,Traumatic subarachnoid hemorrhage with loss of consciousness,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S066X9D,"Traum subrac hem w LOC of unsp duration, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06810D,"Injury of r int carotid, intcr w/o LOC, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06811D,"Inj r int carotid, intcr w LOC of 30 minutes or less, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06812D,"Injury of r int carotid, intcr w LOC of 31-59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06813D,"Injury of r int carotid, intcr w LOC of 1-5 hrs 59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06814D,"Injury of r int carotid, intcr w LOC of 6-24 hrs, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06815D,"Inj r int carotid, intcr w LOC >24 hr w ret consc lev, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06816D,"Inj r int crtd,intcr w LOC >24 hr w/o ret consc w surv, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06817D,Injury of right internal carotid artery intracranial portion,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06818D,Injury of right internal carotid artery intracranial portion,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06819D,"Injury of r int carotid, intcr w LOC of unsp duration, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06820D,"Injury of l int carotid, intcr w/o LOC, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06821D,"Inj l int carotid, intcr w LOC of 30 minutes or less, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06822D,"Injury of l int carotid, intcr w LOC of 31-59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06823D,"Injury of l int carotid, intcr w LOC of 1-5 hrs 59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06824D,"Injury of l int carotid, intcr w LOC of 6-24 hrs, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06825D,"Inj l int carotid, intcr w LOC >24 hr w ret consc lev, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06826D,"Inj l int crtd,intcr w LOC >24 hr w/o ret consc w surv, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06827D,Injury of left internal carotid artery intracranial portion,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06828D,Injury of left internal carotid artery intracranial portion,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06829D,"Injury of l int carotid, intcr w LOC of unsp duration, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06890D,"Intcran inj w/o loss of consciousness, subs encntr",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06891D,"Intcran inj w LOC of 30 minutes or less, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06892D,"Intcran inj w loss of consciousness of 31-59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06893D,"Intcran inj w loss of consciousness of 1-5 hrs 59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06894D,"Intcran inj w LOC of 6 hours to 24 hours, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06895D,"Intcran inj w LOC >24 hr w ret consc lev, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06896D,"Intcran inj w LOC >24 hr w/o ret consc w surv, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06897D,Other specified intracranial injury with loss of consciousne,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06898D,Other specified intracranial injury with loss of consciousne,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S06899D,"Intcran inj w loss of consciousness of unsp duration, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S069X0D,"Unsp intracranial injury w/o loss of consciousness, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S069X1D,"Unsp intracranial injury w LOC of 30 minutes or less, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S069X2D,"Unsp intracranial injury w LOC of 31-59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S069X3D,"Unsp intracranial injury w LOC of 1-5 hrs 59 min, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S069X4D,"Unsp intracranial injury w LOC of 6 hours to 24 hours, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S069X5D,"Unsp intracranial injury w LOC >24 hr w ret consc lev, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S069X6D,"Unsp intcrn injury w LOC >24 hr w/o ret consc w surv, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S069X7D,Unspecified intracranial injury with loss of consciousness o,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S069X8D,Unspecified intracranial injury with loss of consciousness o,INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable
+S069X9D,"Unsp intracranial injury w LOC of unsp duration, subs",INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",Y,0 Not Applicable

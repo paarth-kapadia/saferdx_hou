@@ -1,0 +1,527 @@
+﻿ICD-10-CM Code,ICD-10-CM Code Description,CCSR Category,CCSR Category Description,Default CCSR (Y/N/X),Rationale
+S2600XA,"Unsp injury of heart with hemopericardium, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S2601XA,"Contusion of heart with hemopericardium, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S26020A,"Mild laceration of heart with hemopericardium, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S26021A,"Moderate laceration of heart w hemopericardium, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S26022A,"Major laceration of heart with hemopericardium, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S2609XA,"Other injury of heart with hemopericardium, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S2610XA,"Unsp injury of heart without hemopericardium, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S2611XA,"Contusion of heart without hemopericardium, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S2612XA,"Laceration of heart without hemopericardium, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S2619XA,"Other injury of heart without hemopericardium, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S2690XA,"Unsp injury of heart, unsp w or w/o hemopericardium, init",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S2691XA,"Contusion of heart, unsp w or w/o hemopericardium, init",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S2692XA,"Laceration of heart, unsp w or w/o hemopericardium, init",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S2699XA,"Inj heart, unsp w or w/o hemopericardium, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S270XXA,"Traumatic pneumothorax, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S271XXA,"Traumatic hemothorax, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S272XXA,"Traumatic hemopneumothorax, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27301A,"Unspecified injury of lung, unilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27302A,"Unspecified injury of lung, bilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27309A,"Unspecified injury of lung, unspecified, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27311A,"Primary blast injury of lung, unilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27312A,"Primary blast injury of lung, bilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27319A,"Primary blast injury of lung, unspecified, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27321A,"Contusion of lung, unilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27322A,"Contusion of lung, bilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27329A,"Contusion of lung, unspecified, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27331A,"Laceration of lung, unilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27332A,"Laceration of lung, bilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27339A,"Laceration of lung, unspecified, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27391A,"Other injuries of lung, unilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27392A,"Other injuries of lung, bilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27399A,"Other injuries of lung, unspecified, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27401A,"Unspecified injury of bronchus, unilateral, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27402A,"Unspecified injury of bronchus, bilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27409A,"Unspecified injury of bronchus, unspecified, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27411A,"Primary blast injury of bronchus, unilateral, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27412A,"Primary blast injury of bronchus, bilateral, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27419A,"Primary blast injury of bronchus, unspecified, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27421A,"Contusion of bronchus, unilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27422A,"Contusion of bronchus, bilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27429A,"Contusion of bronchus, unspecified, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27431A,"Laceration of bronchus, unilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27432A,"Laceration of bronchus, bilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27439A,"Laceration of bronchus, unspecified, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27491A,"Other injury of bronchus, unilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27492A,"Other injury of bronchus, bilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27499A,"Other injury of bronchus, unspecified, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S2750XA,"Unspecified injury of thoracic trachea, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S2751XA,"Primary blast injury of thoracic trachea, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S2752XA,"Contusion of thoracic trachea, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S2753XA,"Laceration of thoracic trachea, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S2759XA,"Other injury of thoracic trachea, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S2760XA,"Unspecified injury of pleura, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S2763XA,"Laceration of pleura, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S2769XA,"Other injury of pleura, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27802A,"Contusion of diaphragm, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27803A,"Laceration of diaphragm, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27808A,"Other injury of diaphragm, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27809A,"Unspecified injury of diaphragm, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27812A,"Contusion of esophagus (thoracic part), initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27813A,"Laceration of esophagus (thoracic part), initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27818A,"Other injury of esophagus (thoracic part), initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27819A,"Unspecified injury of esophagus (thoracic part), init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27892A,"Contusion of oth intrathoracic organs, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27893A,"Laceration of oth intrathoracic organs, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27898A,"Other injury of oth intrathoracic organs, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S27899A,"Unspecified injury of oth intrathoracic organs, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S279XXA,"Injury of unspecified intrathoracic organ, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3600XA,"Unspecified injury of spleen, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36020A,"Minor contusion of spleen, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36021A,"Major contusion of spleen, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36029A,"Unspecified contusion of spleen, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36030A,"Superficial (capsular) laceration of spleen, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36031A,"Moderate laceration of spleen, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36032A,"Major laceration of spleen, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36039A,"Unspecified laceration of spleen, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3609XA,"Other injury of spleen, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36112A,"Contusion of liver, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36113A,"Laceration of liver, unspecified degree, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36114A,"Minor laceration of liver, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36115A,"Moderate laceration of liver, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36116A,"Major laceration of liver, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36118A,"Other injury of liver, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36119A,"Unspecified injury of liver, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36122A,"Contusion of gallbladder, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36123A,"Laceration of gallbladder, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36128A,"Other injury of gallbladder, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36129A,"Unspecified injury of gallbladder, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3613XA,"Injury of bile duct, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36200A,"Unspecified injury of head of pancreas, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36201A,"Unspecified injury of body of pancreas, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36202A,"Unspecified injury of tail of pancreas, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36209A,"Unsp injury of unspecified part of pancreas, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36220A,"Contusion of head of pancreas, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36221A,"Contusion of body of pancreas, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36222A,"Contusion of tail of pancreas, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36229A,"Contusion of unspecified part of pancreas, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36230A,"Laceration of head of pancreas, unsp degree, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36231A,"Laceration of body of pancreas, unsp degree, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36232A,"Laceration of tail of pancreas, unsp degree, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36239A,"Laceration of unsp part of pancreas, unsp degree, init",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36240A,"Minor laceration of head of pancreas, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36241A,"Minor laceration of body of pancreas, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36242A,"Minor laceration of tail of pancreas, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36249A,"Minor laceration of unsp part of pancreas, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36250A,"Moderate laceration of head of pancreas, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36251A,"Moderate laceration of body of pancreas, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36252A,"Moderate laceration of tail of pancreas, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36259A,"Moderate laceration of unsp part of pancreas, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36260A,"Major laceration of head of pancreas, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36261A,"Major laceration of body of pancreas, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36262A,"Major laceration of tail of pancreas, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36269A,"Major laceration of unsp part of pancreas, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36290A,"Other injury of head of pancreas, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36291A,"Other injury of body of pancreas, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36292A,"Other injury of tail of pancreas, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36299A,"Other injury of unspecified part of pancreas, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3630XA,"Unspecified injury of stomach, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3632XA,"Contusion of stomach, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3633XA,"Laceration of stomach, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3639XA,"Other injury of stomach, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36400A,"Unspecified injury of duodenum, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36408A,"Unsp injury of other part of small intestine, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36409A,"Unsp injury of unsp part of small intestine, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36410A,"Primary blast injury of duodenum, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36418A,"Primary blast injury oth prt small intestine, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36419A,"Primary blast injury of unsp part of small intestine, init",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36420A,"Contusion of duodenum, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36428A,"Contusion of other part of small intestine, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36429A,"Contusion of unsp part of small intestine, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36430A,"Laceration of duodenum, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36438A,"Laceration of other part of small intestine, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36439A,"Laceration of unsp part of small intestine, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36490A,"Other injury of duodenum, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36498A,"Other injury of other part of small intestine, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36499A,"Other injury of unsp part of small intestine, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36500A,"Unspecified injury of ascending colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36501A,"Unspecified injury of transverse colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36502A,"Unspecified injury of descending colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36503A,"Unspecified injury of sigmoid colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36508A,"Unspecified injury of other part of colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36509A,"Unspecified injury of unspecified part of colon, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36510A,"Primary blast injury of ascending colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36511A,"Primary blast injury of transverse colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36512A,"Primary blast injury of descending colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36513A,"Primary blast injury of sigmoid colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36518A,"Primary blast injury of other part of colon, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36519A,"Primary blast injury of unsp part of colon, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36520A,"Contusion of ascending [right] colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36521A,"Contusion of transverse colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36522A,"Contusion of descending [left] colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36523A,"Contusion of sigmoid colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36528A,"Contusion of other part of colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36529A,"Contusion of unspecified part of colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36530A,"Laceration of ascending [right] colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36531A,"Laceration of transverse colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36532A,"Laceration of descending [left] colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36533A,"Laceration of sigmoid colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36538A,"Laceration of other part of colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36539A,"Laceration of unspecified part of colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36590A,"Other injury of ascending [right] colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36591A,"Other injury of transverse colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36592A,"Other injury of descending [left] colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36593A,"Other injury of sigmoid colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36598A,"Other injury of other part of colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36599A,"Other injury of unspecified part of colon, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3660XA,"Unspecified injury of rectum, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3661XA,"Primary blast injury of rectum, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3662XA,"Contusion of rectum, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3663XA,"Laceration of rectum, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3669XA,"Other injury of rectum, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3681XA,"Injury of peritoneum, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36892A,"Contusion of other intra-abdominal organs, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36893A,"Laceration of other intra-abdominal organs, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36898A,"Other injury of other intra-abdominal organs, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S36899A,"Unsp injury of other intra-abdominal organs, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3690XA,"Unsp injury of unsp intra-abdominal organ, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3692XA,"Contusion of unspecified intra-abdominal organ, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3693XA,"Laceration of unspecified intra-abdominal organ, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3699XA,"Other injury of unsp intra-abdominal organ, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37001A,"Unspecified injury of right kidney, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37002A,"Unspecified injury of left kidney, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37009A,"Unspecified injury of unspecified kidney, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37011A,"Minor contusion of right kidney, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37012A,"Minor contusion of left kidney, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37019A,"Minor contusion of unspecified kidney, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37021A,"Major contusion of right kidney, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37022A,"Major contusion of left kidney, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37029A,"Major contusion of unspecified kidney, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37031A,"Laceration of right kidney, unspecified degree, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37032A,"Laceration of left kidney, unspecified degree, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37039A,"Laceration of unsp kidney, unspecified degree, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37041A,"Minor laceration of right kidney, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37042A,"Minor laceration of left kidney, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37049A,"Minor laceration of unspecified kidney, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37051A,"Moderate laceration of right kidney, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37052A,"Moderate laceration of left kidney, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37059A,"Moderate laceration of unspecified kidney, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37061A,"Major laceration of right kidney, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37062A,"Major laceration of left kidney, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37069A,"Major laceration of unspecified kidney, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37091A,"Other injury of right kidney, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37092A,"Other injury of left kidney, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37099A,"Other injury of unspecified kidney, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3710XA,"Unspecified injury of ureter, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3712XA,"Contusion of ureter, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3713XA,"Laceration of ureter, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3719XA,"Other injury of ureter, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3720XA,"Unspecified injury of bladder, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3722XA,"Contusion of bladder, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3723XA,"Laceration of bladder, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3729XA,"Other injury of bladder, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3730XA,"Unspecified injury of urethra, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3732XA,"Contusion of urethra, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3733XA,"Laceration of urethra, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3739XA,"Other injury of urethra, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37401A,"Unspecified injury of ovary, unilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37402A,"Unspecified injury of ovary, bilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37409A,"Unspecified injury of ovary, unspecified, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37421A,"Contusion of ovary, unilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37422A,"Contusion of ovary, bilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37429A,"Contusion of ovary, unspecified, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37431A,"Laceration of ovary, unilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37432A,"Laceration of ovary, bilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37439A,"Laceration of ovary, unspecified, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37491A,"Other injury of ovary, unilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37492A,"Other injury of ovary, bilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37499A,"Other injury of ovary, unspecified, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37501A,"Unsp injury of fallopian tube, unilateral, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37502A,"Unspecified injury of fallopian tube, bilateral, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37509A,"Unsp injury of fallopian tube, unspecified, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37511A,"Primary blast injury of fallopian tube, unilateral, init",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37512A,"Primary blast injury of fallopian tube, bilateral, init",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37519A,"Primary blast injury of fallopian tube, unsp, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37521A,"Contusion of fallopian tube, unilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37522A,"Contusion of fallopian tube, bilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37529A,"Contusion of fallopian tube, unspecified, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37531A,"Laceration of fallopian tube, unilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37532A,"Laceration of fallopian tube, bilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37539A,"Laceration of fallopian tube, unspecified, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37591A,"Other injury of fallopian tube, unilateral, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37592A,"Other injury of fallopian tube, bilateral, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37599A,"Other injury of fallopian tube, unspecified, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3760XA,"Unspecified injury of uterus, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3762XA,"Contusion of uterus, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3763XA,"Laceration of uterus, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3769XA,"Other injury of uterus, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37812A,"Contusion of adrenal gland, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37813A,"Laceration of adrenal gland, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37818A,"Other injury of adrenal gland, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37819A,"Unspecified injury of adrenal gland, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37822A,"Contusion of prostate, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37823A,"Laceration of prostate, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37828A,"Other injury of prostate, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37829A,"Unspecified injury of prostate, initial encounter",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37892A,"Contusion of other urinary and pelvic organ, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37893A,"Laceration of other urinary and pelvic organ, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37898A,"Other injury of other urinary and pelvic organ, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S37899A,"Unsp injury of other urinary and pelvic organ, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3790XA,"Unsp injury of unsp urinary and pelvic organ, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3792XA,"Contusion of unsp urinary and pelvic organ, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3793XA,"Laceration of unsp urinary and pelvic organ, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S3799XA,"Other injury of unsp urinary and pelvic organ, init encntr",INJ010,"Internal organ injury, initial encounter",Y,0 Not Applicable
+S2600XD,"Unsp injury of heart with hemopericardium, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S2601XD,"Contusion of heart with hemopericardium, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S26020D,"Mild laceration of heart with hemopericardium, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S26021D,"Moderate laceration of heart w hemopericardium, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S26022D,"Major laceration of heart with hemopericardium, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S2609XD,"Other injury of heart with hemopericardium, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S2610XD,"Unsp injury of heart without hemopericardium, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S2611XD,"Contusion of heart without hemopericardium, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S2612XD,"Laceration of heart without hemopericardium, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S2619XD,"Other injury of heart without hemopericardium, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S2690XD,"Unsp injury of heart, unsp w or w/o hemopericardium, subs",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S2691XD,"Contusion of heart, unsp w or w/o hemopericardium, subs",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S2692XD,"Laceration of heart, unsp w or w/o hemopericardium, subs",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S2699XD,"Inj heart, unsp w or w/o hemopericardium, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S270XXD,"Traumatic pneumothorax, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S271XXD,"Traumatic hemothorax, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S272XXD,"Traumatic hemopneumothorax, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27301D,"Unspecified injury of lung, unilateral, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27302D,"Unspecified injury of lung, bilateral, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27309D,"Unspecified injury of lung, unspecified, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27311D,"Primary blast injury of lung, unilateral, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27312D,"Primary blast injury of lung, bilateral, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27319D,"Primary blast injury of lung, unspecified, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27321D,"Contusion of lung, unilateral, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27322D,"Contusion of lung, bilateral, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27329D,"Contusion of lung, unspecified, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27331D,"Laceration of lung, unilateral, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27332D,"Laceration of lung, bilateral, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27339D,"Laceration of lung, unspecified, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27391D,"Other injuries of lung, unilateral, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27392D,"Other injuries of lung, bilateral, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27399D,"Other injuries of lung, unspecified, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27401D,"Unspecified injury of bronchus, unilateral, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27402D,"Unspecified injury of bronchus, bilateral, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27409D,"Unspecified injury of bronchus, unspecified, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27411D,"Primary blast injury of bronchus, unilateral, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27412D,"Primary blast injury of bronchus, bilateral, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27419D,"Primary blast injury of bronchus, unspecified, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27421D,"Contusion of bronchus, unilateral, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27422D,"Contusion of bronchus, bilateral, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27429D,"Contusion of bronchus, unspecified, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27431D,"Laceration of bronchus, unilateral, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27432D,"Laceration of bronchus, bilateral, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27439D,"Laceration of bronchus, unspecified, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27491D,"Other injury of bronchus, unilateral, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27492D,"Other injury of bronchus, bilateral, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27499D,"Other injury of bronchus, unspecified, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S2750XD,"Unspecified injury of thoracic trachea, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S2751XD,"Primary blast injury of thoracic trachea, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S2752XD,"Contusion of thoracic trachea, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S2753XD,"Laceration of thoracic trachea, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S2759XD,"Other injury of thoracic trachea, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S2760XD,"Unspecified injury of pleura, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S2763XD,"Laceration of pleura, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S2769XD,"Other injury of pleura, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27802D,"Contusion of diaphragm, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27803D,"Laceration of diaphragm, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27808D,"Other injury of diaphragm, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27809D,"Unspecified injury of diaphragm, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27812D,"Contusion of esophagus (thoracic part), subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27813D,"Laceration of esophagus (thoracic part), subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27818D,"Other injury of esophagus (thoracic part), subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27819D,"Unspecified injury of esophagus (thoracic part), subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27892D,"Contusion of oth intrathoracic organs, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27893D,"Laceration of oth intrathoracic organs, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27898D,"Other injury of oth intrathoracic organs, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S27899D,"Unspecified injury of oth intrathoracic organs, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S279XXD,"Injury of unspecified intrathoracic organ, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3600XD,"Unspecified injury of spleen, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36020D,"Minor contusion of spleen, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36021D,"Major contusion of spleen, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36029D,"Unspecified contusion of spleen, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36030D,"Superficial (capsular) laceration of spleen, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36031D,"Moderate laceration of spleen, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36032D,"Major laceration of spleen, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36039D,"Unspecified laceration of spleen, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3609XD,"Other injury of spleen, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36112D,"Contusion of liver, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36113D,"Laceration of liver, unspecified degree, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36114D,"Minor laceration of liver, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36115D,"Moderate laceration of liver, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36116D,"Major laceration of liver, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36118D,"Other injury of liver, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36119D,"Unspecified injury of liver, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36122D,"Contusion of gallbladder, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36123D,"Laceration of gallbladder, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36128D,"Other injury of gallbladder, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36129D,"Unspecified injury of gallbladder, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3613XD,"Injury of bile duct, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36200D,"Unspecified injury of head of pancreas, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36201D,"Unspecified injury of body of pancreas, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36202D,"Unspecified injury of tail of pancreas, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36209D,"Unsp injury of unspecified part of pancreas, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36220D,"Contusion of head of pancreas, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36221D,"Contusion of body of pancreas, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36222D,"Contusion of tail of pancreas, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36229D,"Contusion of unspecified part of pancreas, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36230D,"Laceration of head of pancreas, unsp degree, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36231D,"Laceration of body of pancreas, unsp degree, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36232D,"Laceration of tail of pancreas, unsp degree, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36239D,"Laceration of unsp part of pancreas, unsp degree, subs",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36240D,"Minor laceration of head of pancreas, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36241D,"Minor laceration of body of pancreas, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36242D,"Minor laceration of tail of pancreas, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36249D,"Minor laceration of unsp part of pancreas, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36250D,"Moderate laceration of head of pancreas, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36251D,"Moderate laceration of body of pancreas, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36252D,"Moderate laceration of tail of pancreas, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36259D,"Moderate laceration of unsp part of pancreas, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36260D,"Major laceration of head of pancreas, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36261D,"Major laceration of body of pancreas, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36262D,"Major laceration of tail of pancreas, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36269D,"Major laceration of unsp part of pancreas, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36290D,"Other injury of head of pancreas, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36291D,"Other injury of body of pancreas, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36292D,"Other injury of tail of pancreas, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36299D,"Other injury of unspecified part of pancreas, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3630XD,"Unspecified injury of stomach, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3632XD,"Contusion of stomach, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3633XD,"Laceration of stomach, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3639XD,"Other injury of stomach, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36400D,"Unspecified injury of duodenum, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36408D,"Unsp injury of other part of small intestine, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36409D,"Unsp injury of unsp part of small intestine, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36410D,"Primary blast injury of duodenum, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36418D,"Primary blast injury oth prt small intestine, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36419D,"Primary blast injury of unsp part of small intestine, subs",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36420D,"Contusion of duodenum, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36428D,"Contusion of other part of small intestine, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36429D,"Contusion of unsp part of small intestine, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36430D,"Laceration of duodenum, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36438D,"Laceration of other part of small intestine, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36439D,"Laceration of unsp part of small intestine, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36490D,"Other injury of duodenum, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36498D,"Other injury of other part of small intestine, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36499D,"Other injury of unsp part of small intestine, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36500D,"Unspecified injury of ascending colon, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36501D,"Unspecified injury of transverse colon, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36502D,"Unspecified injury of descending colon, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36503D,"Unspecified injury of sigmoid colon, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36508D,"Unspecified injury of other part of colon, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36509D,"Unspecified injury of unspecified part of colon, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36510D,"Primary blast injury of ascending colon, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36511D,"Primary blast injury of transverse colon, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36512D,"Primary blast injury of descending colon, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36513D,"Primary blast injury of sigmoid colon, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36518D,"Primary blast injury of other part of colon, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36519D,"Primary blast injury of unsp part of colon, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36520D,"Contusion of ascending [right] colon, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36521D,"Contusion of transverse colon, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36522D,"Contusion of descending [left] colon, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36523D,"Contusion of sigmoid colon, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36528D,"Contusion of other part of colon, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36529D,"Contusion of unspecified part of colon, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36530D,"Laceration of ascending [right] colon, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36531D,"Laceration of transverse colon, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36532D,"Laceration of descending [left] colon, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36533D,"Laceration of sigmoid colon, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36538D,"Laceration of other part of colon, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36539D,"Laceration of unspecified part of colon, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36590D,"Other injury of ascending colon, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36591D,"Other injury of transverse colon, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36592D,"Other injury of descending colon, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36593D,"Other injury of sigmoid colon, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36598D,"Other injury of other part of colon, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36599D,"Other injury of unspecified part of colon, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3660XD,"Unspecified injury of rectum, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3661XD,"Primary blast injury of rectum, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3662XD,"Contusion of rectum, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3663XD,"Laceration of rectum, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3669XD,"Other injury of rectum, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3681XD,"Injury of peritoneum, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36892D,"Contusion of other intra-abdominal organs, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36893D,"Laceration of other intra-abdominal organs, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36898D,"Other injury of other intra-abdominal organs, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S36899D,"Unsp injury of other intra-abdominal organs, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3690XD,"Unsp injury of unsp intra-abdominal organ, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3692XD,"Contusion of unspecified intra-abdominal organ, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3693XD,"Laceration of unspecified intra-abdominal organ, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3699XD,"Other injury of unsp intra-abdominal organ, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37001D,"Unspecified injury of right kidney, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37002D,"Unspecified injury of left kidney, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37009D,"Unspecified injury of unspecified kidney, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37011D,"Minor contusion of right kidney, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37012D,"Minor contusion of left kidney, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37019D,"Minor contusion of unspecified kidney, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37021D,"Major contusion of right kidney, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37022D,"Major contusion of left kidney, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37029D,"Major contusion of unspecified kidney, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37031D,"Laceration of right kidney, unspecified degree, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37032D,"Laceration of left kidney, unspecified degree, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37039D,"Laceration of unsp kidney, unspecified degree, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37041D,"Minor laceration of right kidney, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37042D,"Minor laceration of left kidney, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37049D,"Minor laceration of unspecified kidney, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37051D,"Moderate laceration of right kidney, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37052D,"Moderate laceration of left kidney, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37059D,"Moderate laceration of unspecified kidney, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37061D,"Major laceration of right kidney, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37062D,"Major laceration of left kidney, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37069D,"Major laceration of unspecified kidney, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37091D,"Other injury of right kidney, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37092D,"Other injury of left kidney, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37099D,"Other injury of unspecified kidney, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3710XD,"Unspecified injury of ureter, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3712XD,"Contusion of ureter, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3713XD,"Laceration of ureter, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3719XD,"Other injury of ureter, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3720XD,"Unspecified injury of bladder, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3722XD,"Contusion of bladder, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3723XD,"Laceration of bladder, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3729XD,"Other injury of bladder, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3730XD,"Unspecified injury of urethra, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3732XD,"Contusion of urethra, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3733XD,"Laceration of urethra, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3739XD,"Other injury of urethra, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37401D,"Unspecified injury of ovary, unilateral, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37402D,"Unspecified injury of ovary, bilateral, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37409D,"Unspecified injury of ovary, unspecified, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37421D,"Contusion of ovary, unilateral, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37422D,"Contusion of ovary, bilateral, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37429D,"Contusion of ovary, unspecified, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37431D,"Laceration of ovary, unilateral, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37432D,"Laceration of ovary, bilateral, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37439D,"Laceration of ovary, unspecified, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37491D,"Other injury of ovary, unilateral, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37492D,"Other injury of ovary, bilateral, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37499D,"Other injury of ovary, unspecified, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37501D,"Unsp injury of fallopian tube, unilateral, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37502D,"Unspecified injury of fallopian tube, bilateral, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37509D,"Unsp injury of fallopian tube, unspecified, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37511D,"Primary blast injury of fallopian tube, unilateral, subs",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37512D,"Primary blast injury of fallopian tube, bilateral, subs",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37519D,"Primary blast injury of fallopian tube, unsp, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37521D,"Contusion of fallopian tube, unilateral, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37522D,"Contusion of fallopian tube, bilateral, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37529D,"Contusion of fallopian tube, unspecified, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37531D,"Laceration of fallopian tube, unilateral, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37532D,"Laceration of fallopian tube, bilateral, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37539D,"Laceration of fallopian tube, unspecified, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37591D,"Other injury of fallopian tube, unilateral, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37592D,"Other injury of fallopian tube, bilateral, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37599D,"Other injury of fallopian tube, unspecified, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3760XD,"Unspecified injury of uterus, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3762XD,"Contusion of uterus, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3763XD,"Laceration of uterus, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3769XD,"Other injury of uterus, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37812D,"Contusion of adrenal gland, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37813D,"Laceration of adrenal gland, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37818D,"Other injury of adrenal gland, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37819D,"Unspecified injury of adrenal gland, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37822D,"Contusion of prostate, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37823D,"Laceration of prostate, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37828D,"Other injury of prostate, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37829D,"Unspecified injury of prostate, subsequent encounter",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37892D,"Contusion of other urinary and pelvic organ, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37893D,"Laceration of other urinary and pelvic organ, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37898D,"Other injury of other urinary and pelvic organ, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S37899D,"Unsp injury of other urinary and pelvic organ, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3790XD,"Unsp injury of unsp urinary and pelvic organ, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3792XD,"Contusion of unsp urinary and pelvic organ, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3793XD,"Laceration of unsp urinary and pelvic organ, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable
+S3799XD,"Other injury of unsp urinary and pelvic organ, subs encntr",INJ047,"Internal organ injury, subsequent encounter",Y,0 Not Applicable

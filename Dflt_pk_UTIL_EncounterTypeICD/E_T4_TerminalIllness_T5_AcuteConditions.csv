@@ -1,0 +1,1222 @@
+﻿ICD-10-CM Code,ICD-10-CM Code Description,CCSR Category,CCSR Category Description,Default CCSR (Y/N/X),Rationale,Condition,Unnamed: 7
+I2101,STEMI involving left main coronary artery,CIR009,Acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I2102,STEMI involving left anterior descending coronary artery,CIR009,Acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I2109,STEMI involving oth coronary artery of anterior wall,CIR009,Acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I2111,STEMI involving right coronary artery,CIR009,Acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I2119,STEMI involving oth coronary artery of inferior wall,CIR009,Acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I2121,STEMI involving left circumflex coronary artery,CIR009,Acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I2129,STEMI involving oth sites,CIR009,Acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I213,ST elevation (STEMI) myocardial infarction of unsp site,CIR009,Acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I214,Non-ST elevation (NSTEMI) myocardial infarction,CIR009,Acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I219,"Acute myocardial infarction, unspecified",CIR009,Acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I21A1,Myocardial infarction type 2,CIR009,Acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I21A9,Other myocardial infarction type,CIR009,Acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I220,Subsequent STEMI of anterior wall,CIR009,Acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I221,Subsequent STEMI of inferior wall,CIR009,Acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I222,Subsequent non-ST elevation (NSTEMI) myocardial infarction,CIR009,Acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I228,Subsequent STEMI of sites,CIR009,Acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I229,Subsequent STEMI of unsp site,CIR009,Acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I230,Hemopericardium as current complication following AMI,CIR010,Complications of acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I231,Atrial septal defect as current complication following AMI,CIR010,Complications of acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I232,Ventricular septal defect as current comp following AMI,CIR010,Complications of acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I233,Rupture of card wall w/o hemoperic as current comp fol AMI,CIR010,Complications of acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I234,Rupture of chord tendne as current comp following AMI,CIR010,Complications of acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I235,Rupture of papillary muscle as current comp following AMI,CIR010,Complications of acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I236,Thombos of atrium/auric append/ventr as current comp fol AMI,CIR010,Complications of acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I237,Postinfarction angina,CIR010,Complications of acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I238,Oth current complications following AMI,CIR010,Complications of acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I241,Dresslers syndrome,CIR010,Complications of acute myocardial infarction,Y,0 Not Applicable,Acute myocardial infarction,NULL
+I330,Acute and subacute infective endocarditis,CIR004,Endocarditis and endocardial disease,Y,0 Not Applicable," infective endocarditis",NULL
+I339,"Acute and subacute endocarditis, unspecified",CIR004,Endocarditis and endocardial disease,Y,0 Not Applicable," infective endocarditis",NULL
+I6000,Ntrm subarach hemorrhage from unsp carotid siphon and bifurc,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I6001,Ntrm subarach hemor from right carotid siphon and bifurc,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I6002,Ntrm subarach hemorrhage from left carotid siphon and bifurc,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I6010,Ntrm subarach hemorrhage from unsp middle cerebral artery,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I6011,Ntrm subarach hemorrhage from right middle cerebral artery,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I6012,Ntrm subarach hemorrhage from left middle cerebral artery,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I602,Ntrm subarach hemorrhage from anterior communicating artery,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I6020,Nontraumatic subarachnoid hemorrhage from unspecified anteri,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I6021,Nontraumatic subarachnoid hemorrhage from right anterior com,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I6022,Nontraumatic subarachnoid hemorrhage from left anterior comm,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I6030,Ntrm subarach hemor from unsp posterior communicating artery,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I6031,Ntrm subarach hemor from right post communicating artery,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I6032,Ntrm subarach hemor from left posterior communicating artery,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I604,Nontraumatic subarachnoid hemorrhage from basilar artery,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I6050,Nontraumatic subarachnoid hemorrhage from unsp verteb art,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I6051,Nontraumatic subarachnoid hemorrhage from r verteb art,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I6052,Nontraumatic subarachnoid hemorrhage from l verteb art,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I606,Nontraumatic subarachnoid hemorrhage from oth intracran art,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I607,Nontraumatic subarachnoid hemorrhage from unsp intracran art,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I608,Other nontraumatic subarachnoid hemorrhage,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I609,"Nontraumatic subarachnoid hemorrhage, unspecified",CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I610,"Nontraumatic intcrbl hemorrhage in hemisphere, subcortical",CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I611,"Nontraumatic intcrbl hemorrhage in hemisphere, cortical",CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I612,"Nontraumatic intracerebral hemorrhage in hemisphere, unsp",CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I613,Nontraumatic intracerebral hemorrhage in brain stem,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I614,Nontraumatic intracerebral hemorrhage in cerebellum,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I615,"Nontraumatic intracerebral hemorrhage, intraventricular",CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I616,"Nontraumatic intracerebral hemorrhage, multiple localized",CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I618,Other nontraumatic intracerebral hemorrhage,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I619,"Nontraumatic intracerebral hemorrhage, unspecified",CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I6200,"Nontraumatic subdural hemorrhage, unspecified",CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I6201,Nontraumatic acute subdural hemorrhage,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I6202,Nontraumatic subacute subdural hemorrhage,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I6203,Nontraumatic chronic subdural hemorrhage,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I621,Nontraumatic extradural hemorrhage,CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I629,"Nontraumatic intracranial hemorrhage, unspecified",CIR021,Acute hemorrhagic cerebrovascular disease,Y,0 Not Applicable,Cerebral infarction,NULL
+I2601,Septic pulmonary embolism with acute cor pulmonale,CIR013,Acute pulmonary embolism,Y,0 Not Applicable,embolism,NULL
+I2602,Saddle embolus of pulmonary artery with acute cor pulmonale,CIR013,Acute pulmonary embolism,Y,0 Not Applicable,embolism,NULL
+I2609,Other pulmonary embolism with acute cor pulmonale,CIR013,Acute pulmonary embolism,Y,0 Not Applicable,embolism,NULL
+I2690,Septic pulmonary embolism without acute cor pulmonale,CIR013,Acute pulmonary embolism,Y,0 Not Applicable,embolism,NULL
+I2692,Saddle embolus of pulmonary artery w/o acute cor pulmonale,CIR013,Acute pulmonary embolism,Y,0 Not Applicable,embolism,NULL
+I2693,Single subsegmental pulmonary embolism without acute cor pulmonale,CIR013,Acute pulmonary embolism,Y,0 Not Applicable,embolism,NULL
+I2694,Multiple subsegmental pulmonary emboli without acute cor pulmonale,CIR013,Acute pulmonary embolism,Y,0 Not Applicable,embolism,NULL
+I2699,Other pulmonary embolism without acute cor pulmonale,CIR013,Acute pulmonary embolism,Y,0 Not Applicable,embolism,NULL
+I7401,Saddle embolus of abdominal aorta,CIR030,Aortic and peripheral arterial embolism or thrombosis,Y,0 Not Applicable,embolism,NULL
+I7409,Other arterial embolism and thrombosis of abdominal aorta,CIR030,Aortic and peripheral arterial embolism or thrombosis,Y,0 Not Applicable,embolism,NULL
+I7410,Embolism and thrombosis of unspecified parts of aorta,CIR030,Aortic and peripheral arterial embolism or thrombosis,Y,0 Not Applicable,embolism,NULL
+I7411,Embolism and thrombosis of thoracic aorta,CIR030,Aortic and peripheral arterial embolism or thrombosis,Y,0 Not Applicable,embolism,NULL
+I7419,Embolism and thrombosis of other parts of aorta,CIR030,Aortic and peripheral arterial embolism or thrombosis,Y,0 Not Applicable,embolism,NULL
+I742,Embolism and thrombosis of arteries of the upper extremities,CIR030,Aortic and peripheral arterial embolism or thrombosis,Y,0 Not Applicable,embolism,NULL
+I743,Embolism and thrombosis of arteries of the lower extremities,CIR030,Aortic and peripheral arterial embolism or thrombosis,Y,0 Not Applicable,embolism,NULL
+I744,"Embolism and thrombosis of arteries of extremities, unsp",CIR030,Aortic and peripheral arterial embolism or thrombosis,Y,0 Not Applicable,embolism,NULL
+I745,Embolism and thrombosis of iliac artery,CIR030,Aortic and peripheral arterial embolism or thrombosis,Y,0 Not Applicable,embolism,NULL
+I748,Embolism and thrombosis of other arteries,CIR030,Aortic and peripheral arterial embolism or thrombosis,Y,0 Not Applicable,embolism,NULL
+I749,Embolism and thrombosis of unspecified artery,CIR030,Aortic and peripheral arterial embolism or thrombosis,Y,0 Not Applicable,embolism,NULL
+I75011,Atheroembolism of right upper extremity,CIR030,Aortic and peripheral arterial embolism or thrombosis,Y,0 Not Applicable,embolism,NULL
+I75012,Atheroembolism of left upper extremity,CIR030,Aortic and peripheral arterial embolism or thrombosis,Y,0 Not Applicable,embolism,NULL
+I75013,Atheroembolism of bilateral upper extremities,CIR030,Aortic and peripheral arterial embolism or thrombosis,Y,0 Not Applicable,embolism,NULL
+I75019,Atheroembolism of unspecified upper extremity,CIR030,Aortic and peripheral arterial embolism or thrombosis,Y,0 Not Applicable,embolism,NULL
+I75021,Atheroembolism of right lower extremity,CIR030,Aortic and peripheral arterial embolism or thrombosis,Y,0 Not Applicable,embolism,NULL
+I75022,Atheroembolism of left lower extremity,CIR030,Aortic and peripheral arterial embolism or thrombosis,Y,0 Not Applicable,embolism,NULL
+I75023,Atheroembolism of bilateral lower extremities,CIR030,Aortic and peripheral arterial embolism or thrombosis,Y,0 Not Applicable,embolism,NULL
+I75029,Atheroembolism of unspecified lower extremity,CIR030,Aortic and peripheral arterial embolism or thrombosis,Y,0 Not Applicable,embolism,NULL
+I7581,Atheroembolism of kidney,CIR030,Aortic and peripheral arterial embolism or thrombosis,Y,0 Not Applicable,embolism,NULL
+I7589,Atheroembolism of other site,CIR030,Aortic and peripheral arterial embolism or thrombosis,Y,0 Not Applicable,embolism,NULL
+I76,Septic arterial embolism,CIR030,Aortic and peripheral arterial embolism or thrombosis,N,12 Exception to match the CCSR body system to the ICD-10-CM codebook chapter,embolism,NULL
+I711,"Thoracic aortic aneurysm, ruptured",CIR029,Aortic; peripheral; and visceral artery aneurysms,Y,0 Not Applicable,Arterial dissections,NULL
+I713,"Abdominal aortic aneurysm, ruptured",CIR029,Aortic; peripheral; and visceral artery aneurysms,Y,0 Not Applicable,Arterial dissections,NULL
+I715,"Thoracoabdominal aortic aneurysm, ruptured",CIR029,Aortic; peripheral; and visceral artery aneurysms,Y,0 Not Applicable,Arterial dissections,NULL
+I718,"Aortic aneurysm of unspecified site, ruptured",CIR029,Aortic; peripheral; and visceral artery aneurysms,Y,0 Not Applicable,Arterial dissections,NULL
+I2542,Coronary artery dissection,CIR027,Arterial dissections,Y,0 Not Applicable,Arterial dissections,NULL
+I670,"Dissection of cerebral arteries, nonruptured",CIR027,Arterial dissections,Y,0 Not Applicable,Arterial dissections,NULL
+I7100,Dissection of unspecified site of aorta,CIR027,Arterial dissections,Y,0 Not Applicable,Arterial dissections,NULL
+I7101,Dissection of thoracic aorta,CIR027,Arterial dissections,Y,0 Not Applicable,Arterial dissections,NULL
+I7102,Dissection of abdominal aorta,CIR027,Arterial dissections,Y,0 Not Applicable,Arterial dissections,NULL
+I7103,Dissection of thoracoabdominal aorta,CIR027,Arterial dissections,Y,0 Not Applicable,Arterial dissections,NULL
+I7770,Dissection of unspecified artery,CIR027,Arterial dissections,Y,0 Not Applicable,Arterial dissections,NULL
+I7771,Dissection of carotid artery,CIR027,Arterial dissections,Y,0 Not Applicable,Arterial dissections,NULL
+I7772,Dissection of iliac artery,CIR027,Arterial dissections,Y,0 Not Applicable,Arterial dissections,NULL
+I7773,Dissection of renal artery,CIR027,Arterial dissections,Y,0 Not Applicable,Arterial dissections,NULL
+I7774,Dissection of vertebral artery,CIR027,Arterial dissections,Y,0 Not Applicable,Arterial dissections,NULL
+I7775,Dissection of other precerebral arteries,CIR027,Arterial dissections,Y,0 Not Applicable,Arterial dissections,NULL
+I7776,Dissection of artery of upper extremity,CIR027,Arterial dissections,Y,0 Not Applicable,Arterial dissections,NULL
+I7777,Dissection of artery of lower extremity,CIR027,Arterial dissections,Y,0 Not Applicable,Arterial dissections,NULL
+I7779,Dissection of other specified artery,CIR027,Arterial dissections,Y,0 Not Applicable,Arterial dissections,NULL
+I462,Cardiac arrest due to underlying cardiac condition,CIR018,Cardiac arrest and ventricular fibrillation,Y,0 Not Applicable,"cardiac arrest ",NULL
+I468,Cardiac arrest due to other underlying condition,CIR018,Cardiac arrest and ventricular fibrillation,Y,0 Not Applicable,"cardiac arrest ",NULL
+I469,"Cardiac arrest, cause unspecified",CIR018,Cardiac arrest and ventricular fibrillation,Y,0 Not Applicable,"cardiac arrest ",NULL
+I4901,Ventricular fibrillation,CIR018,Cardiac arrest and ventricular fibrillation,Y,0 Not Applicable,Cardiac dysrhythmias,NULL
+I4902,Ventricular flutter,CIR018,Cardiac arrest and ventricular fibrillation,Y,0 Not Applicable,Cardiac dysrhythmias,NULL
+I97120,Postprocedural cardiac arrest following cardiac surgery,CIR018,Cardiac arrest and ventricular fibrillation,N,01 Postprocedural or postoperative complications,"cardiac arrest ",NULL
+I97121,Postprocedural cardiac arrest following other surgery,CIR018,Cardiac arrest and ventricular fibrillation,N,01 Postprocedural or postoperative complications,"cardiac arrest ",NULL
+I97710,Intraoperative cardiac arrest during cardiac surgery,CIR018,Cardiac arrest and ventricular fibrillation,N,01 Postprocedural or postoperative complications,"cardiac arrest ",NULL
+I97711,Intraoperative cardiac arrest during other surgery,CIR018,Cardiac arrest and ventricular fibrillation,N,01 Postprocedural or postoperative complications,"cardiac arrest ",NULL
+O0336,Cardiac arrest following incomplete spontaneous abortion,CIR018,Cardiac arrest and ventricular fibrillation,N,"03 Pregnancy, perinatal, and congenital malformation","cardiac arrest ",NULL
+O0386,Cardiac arrest following complete or unspecified spontaneous abortion,CIR018,Cardiac arrest and ventricular fibrillation,N,"03 Pregnancy, perinatal, and congenital malformation","cardiac arrest ",NULL
+O0486,Cardiac arrest following (induced) termination of pregnancy,CIR018,Cardiac arrest and ventricular fibrillation,N,"03 Pregnancy, perinatal, and congenital malformation","cardiac arrest ",NULL
+O0736,Cardiac arrest following failed attempted termination of pregnancy,CIR018,Cardiac arrest and ventricular fibrillation,N,"03 Pregnancy, perinatal, and congenital malformation","cardiac arrest ",NULL
+O0881,Cardiac arrest following an ectopic and molar pregnancy,CIR018,Cardiac arrest and ventricular fibrillation,N,"03 Pregnancy, perinatal, and congenital malformation","cardiac arrest ",NULL
+O29111,"Cardiac arrest due to anesthesia during pregnancy, first trimester",CIR018,Cardiac arrest and ventricular fibrillation,N,"03 Pregnancy, perinatal, and congenital malformation","cardiac arrest ",NULL
+O29112,"Cardiac arrest due to anesthesia during pregnancy, second trimester",CIR018,Cardiac arrest and ventricular fibrillation,N,"03 Pregnancy, perinatal, and congenital malformation","cardiac arrest ",NULL
+O29113,"Cardiac arrest due to anesthesia during pregnancy, third trimester",CIR018,Cardiac arrest and ventricular fibrillation,N,"03 Pregnancy, perinatal, and congenital malformation","cardiac arrest ",NULL
+O29119,"Cardiac arrest due to anesthesia during pregnancy, unspecified trimester",CIR018,Cardiac arrest and ventricular fibrillation,N,"03 Pregnancy, perinatal, and congenital malformation","cardiac arrest ",NULL
+I470,Re-entry ventricular arrhythmia,CIR017,Cardiac dysrhythmias,Y,0 Not Applicable,Cardiac dysrhythmias,NULL
+I471,Supraventricular tachycardia,CIR017,Cardiac dysrhythmias,Y,0 Not Applicable,Cardiac dysrhythmias,NULL
+I472,Ventricular tachycardia,CIR017,Cardiac dysrhythmias,Y,0 Not Applicable,Cardiac dysrhythmias,NULL
+I480,Paroxysmal atrial fibrillation,CIR017,Cardiac dysrhythmias,Y,0 Not Applicable,Cardiac dysrhythmias,NULL
+I481,Persistent atrial fibrillation,CIR017,Cardiac dysrhythmias,Y,0 Not Applicable,Cardiac dysrhythmias,NULL
+I483,Typical atrial flutter,CIR017,Cardiac dysrhythmias,Y,0 Not Applicable,Cardiac dysrhythmias,NULL
+I484,Atypical atrial flutter,CIR017,Cardiac dysrhythmias,Y,0 Not Applicable,Cardiac dysrhythmias,NULL
+I4891,Unspecified atrial fibrillation,CIR017,Cardiac dysrhythmias,Y,0 Not Applicable,Cardiac dysrhythmias,NULL
+I4892,Unspecified atrial flutter,CIR017,Cardiac dysrhythmias,Y,0 Not Applicable,Cardiac dysrhythmias,NULL
+I491,Atrial premature depolarization,CIR017,Cardiac dysrhythmias,Y,0 Not Applicable,Cardiac dysrhythmias,NULL
+I492,Junctional premature depolarization,CIR017,Cardiac dysrhythmias,Y,0 Not Applicable,Cardiac dysrhythmias,NULL
+I493,Ventricular premature depolarization,CIR017,Cardiac dysrhythmias,Y,0 Not Applicable,Cardiac dysrhythmias,NULL
+I4940,Unspecified premature depolarization,CIR017,Cardiac dysrhythmias,Y,0 Not Applicable,Cardiac dysrhythmias,NULL
+G43601,"Persistent migraine aura with cerebral infarction, not intractable, with status migrainosus",CIR020,Cerebral infarction,Y,05 Exception to condition AA with condition BB,Cerebral infarction,NULL
+G43609,"Persistent migraine aura with cerebral infarction, not intractable, without status migrainosus",CIR020,Cerebral infarction,Y,05 Exception to condition AA with condition BB,Cerebral infarction,NULL
+G43611,"Persistent migraine aura with cerebral infarction, intractable, with status migrainosus",CIR020,Cerebral infarction,Y,05 Exception to condition AA with condition BB,Cerebral infarction,NULL
+G43619,"Persistent migraine aura with cerebral infarction, intractable, without status migrainosus",CIR020,Cerebral infarction,Y,05 Exception to condition AA with condition BB,Cerebral infarction,NULL
+I6300,Cerebral infarction due to thombos unsp precerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63011,Cerebral infarction due to thrombosis of r verteb art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63012,Cerebral infarction due to thrombosis of l verteb art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63013,Cerebral infrc due to thrombosis of bilateral verteb art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63019,Cerebral infarction due to thombos unsp vertebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I6302,Cerebral infarction due to thrombosis of basilar artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63031,Cerebral infrc due to thrombosis of right carotid artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63032,Cerebral infarction due to thrombosis of left carotid artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63033,Cerebral infrc due to thombos of bilateral carotid arteries,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63039,Cerebral infarction due to thrombosis of unsp carotid artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I6309,Cerebral infarction due to thrombosis of precerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I6310,Cerebral infarction due to embolism of unsp precerb artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63111,Cerebral infarction due to embolism of r verteb art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63112,Cerebral infarction due to embolism of left vertebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63113,Cerebral infarction due to embolism of bilateral verteb art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63119,Cerebral infarction due to embolism of unsp vertebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I6312,Cerebral infarction due to embolism of basilar artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63131,Cerebral infarction due to embolism of right carotid artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63132,Cerebral infarction due to embolism of left carotid artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63133,Cerebral infrc due to embolism of bilateral carotid arteries,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63139,Cerebral infarction due to embolism of unsp carotid artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I6319,Cerebral infarction due to embolism of precerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I6320,Cereb infrc due to unsp occls or stenos of unsp precerb art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63211,Cerebral infrc due to unsp occls or stenosis of r verteb art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63212,Cerebral infrc due to unsp occls or stenosis of l verteb art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63213,Cereb infrc due to unsp occls or stenosis of bi verteb art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63219,Cereb infrc due to unsp occls or stenosis of unsp verteb art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I6322,Cereb infrc due to unsp occls or stenosis of basilar artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63231,Cereb infrc due to unsp occls or stenos of right carotid art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63232,Cereb infrc due to unsp occls or stenos of left carotid art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63233,Cereb infrc due to unsp occls or stenosis of bi carotid art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63239,Cereb infrc due to unsp occls or stenos of unsp carotid art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I6329,Cerebral infrc due to unsp occls or stenosis of precerb art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I6330,Cerebral infarction due to thombos unsp cerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63311,Cereb infrc due to thombos of right middle cerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63312,Cerebral infrc due to thombos of left middle cerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63313,Cerebral infrc due to thombos of bi middle cerebral arteries,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63319,Cerebral infrc due to thombos unsp middle cerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63321,Cerebral infrc due to thombos of right ant cerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63322,Cerebral infrc due to thombos of left ant cerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63323,Cerebral infrc due to thombos of bi ant cerebral arteries,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63329,Cerebral infrc due to thombos unsp anterior cerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63331,Cerebral infrc due to thombos of right post cerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63332,Cerebral infrc due to thombos of left post cerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63333,Cerebral infrc to thombos of bi posterior cerebral arteries,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63339,Cerebral infrc due to thombos unsp posterior cerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63341,Cerebral infrc due to thrombosis of right cereblr artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63342,Cerebral infarction due to thrombosis of left cereblr artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63343,Cerebral infrc to thrombosis of bilateral cereblr arteries,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63349,Cerebral infarction due to thombos unsp cerebellar artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I6339,Cerebral infarction due to thrombosis of oth cerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I6340,Cerebral infarction due to embolism of unsp cerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63411,Cereb infrc due to embolism of right middle cerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63412,Cereb infrc due to embolism of left middle cerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63413,Cerebral infrc due to embolism of bi middle cerebral art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63419,Cereb infrc due to embolism of unsp middle cerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63421,Cerebral infrc due to embolism of right ant cerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63422,Cerebral infrc due to embolism of left ant cerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63423,Cerebral infrc due to embolism of bi ant cerebral arteries,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63429,Cerebral infrc due to embolism of unsp ant cerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63431,Cerebral infrc due to embolism of right post cerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63432,Cerebral infrc due to embolism of left post cerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63433,Cerebral infrc due to embolism of bi post cerebral arteries,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63439,Cerebral infrc due to embolism of unsp post cerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63441,Cerebral infarction due to embolism of right cereblr artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63442,Cerebral infarction due to embolism of left cereblr artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63443,Cerebral infrc due to embolism of bilateral cereblr arteries,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63449,Cerebral infarction due to embolism of unsp cereblr artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I6349,Cerebral infarction due to embolism of other cerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I6350,Cereb infrc due to unsp occls or stenos of unsp cereb artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63511,Cereb infrc d/t unsp occls or stenos of right mid cereb art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63512,Cereb infrc d/t unsp occls or stenos of left mid cereb art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63513,Cereb infrc d/t unsp occls or stenos of bi middle cereb art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63519,Cereb infrc d/t unsp occls or stenos of unsp mid cereb art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63521,Cereb infrc d/t unsp occls or stenos of right ant cereb art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63522,Cereb infrc d/t unsp occls or stenos of left ant cereb art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63523,Cereb infrc due to unsp occls or stenos of bi ant cereb art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63529,Cereb infrc d/t unsp occls or stenos of unsp ant cereb art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63531,Cereb infrc d/t unsp occls or stenos of right post cereb art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63532,Cereb infrc d/t unsp occls or stenos of left post cereb art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63533,Cereb infrc due to unsp occls or stenos of bi post cereb art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63539,Cereb infrc d/t unsp occls or stenos of unsp post cereb art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63541,Cereb infrc due to unsp occls or stenos of right cereblr art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63542,Cereb infrc due to unsp occls or stenos of left cereblr art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63543,Cereb infrc due to unsp occls or stenosis of bi cereblr art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I63549,Cereb infrc due to unsp occls or stenos of unsp cereblr art,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I6359,Cereb infrc due to unsp occls or stenosis of cerebral artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I636,"Cerebral infrc due to cerebral venous thombos, nonpyogenic",CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I638,Other cerebral infarction,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I6381,Other cerebral infarction due to occlusion or stenosis of small artery,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I6389,Other cerebral infarction,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I639,"Cerebral infarction, unspecified",CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I97810,Intraoperative cerebrovascular infarction during cardiac surgery,CIR020,Cerebral infarction,N,01 Postprocedural or postoperative complications,Cerebral infarction,NULL
+I97811,Intraoperative cerebrovascular infarction during other surgery,CIR020,Cerebral infarction,N,01 Postprocedural or postoperative complications,Cerebral infarction,NULL
+I97820,Postprocedural cerebrovascular infarction following cardiac surgery,CIR020,Cerebral infarction,N,01 Postprocedural or postoperative complications,Cerebral infarction,NULL
+I97821,Postprocedural cerebrovascular infarction following other surgery,CIR020,Cerebral infarction,N,01 Postprocedural or postoperative complications,Cerebral infarction,NULL
+R29701,NIHSS score 1,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29702,NIHSS score 2,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29703,NIHSS score 3,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29704,NIHSS score 4,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29705,NIHSS score 5,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29706,NIHSS score 6,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29707,NIHSS score 7,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29708,NIHSS score 8,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29709,NIHSS score 9,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29710,NIHSS score 10,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29711,NIHSS score 11,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29712,NIHSS score 12,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29713,NIHSS score 13,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29714,NIHSS score 14,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29715,NIHSS score 15,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29716,NIHSS score 16,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29717,NIHSS score 17,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29718,NIHSS score 18,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29719,NIHSS score 19,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29720,NIHSS score 20,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29721,NIHSS score 21,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29722,NIHSS score 22,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29723,NIHSS score 23,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29724,NIHSS score 24,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29725,NIHSS score 25,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29726,NIHSS score 26,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29727,NIHSS score 27,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29728,NIHSS score 28,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29729,NIHSS score 29,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29730,NIHSS score 30,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29731,NIHSS score 31,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29732,NIHSS score 32,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29733,NIHSS score 33,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29734,NIHSS score 34,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29735,NIHSS score 35,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29736,NIHSS score 36,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29737,NIHSS score 37,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29738,NIHSS score 38,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29739,NIHSS score 39,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29740,NIHSS score 40,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29741,NIHSS score 41,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+R29742,NIHSS score 42,CIR020,Cerebral infarction,Y,0 Not Applicable,Cerebral infarction,NULL
+I200,Unstable angina,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I201,Angina pectoris with documented spasm,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I208,Other forms of angina pectoris,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I209,"Angina pectoris, unspecified",CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I240,Acute coronary thrombosis not resulting in myocardial infrc,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I249,"Acute ischemic heart disease, unspecified",CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I2510,Athscl heart disease of native coronary artery w/o ang pctrs,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25110,Athscl heart disease of native cor art w unstable ang pctrs,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25111,Athscl heart disease of native cor art w ang pctrs w spasm,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25118,Athscl heart disease of native cor art w oth ang pctrs,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25119,Athscl heart disease of native cor art w unsp ang pctrs,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I256,Silent myocardial ischemia,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25700,"Atherosclerosis of CABG, unsp, w unstable angina pectoris",CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25701,"Athscl CABG, unsp, w angina pectoris w documented spasm",CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25708,"Atherosclerosis of CABG, unsp, w oth angina pectoris",CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25709,"Atherosclerosis of CABG, unsp, w unsp angina pectoris",CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25710,Athscl autologous vein CABG w unstable angina pectoris,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25711,Athscl autologous vein CABG w ang pctrs w documented spasm,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25718,Athscl autologous vein CABG w oth angina pectoris,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25719,Athscl autologous vein CABG w unsp angina pectoris,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25720,Athscl autologous artery CABG w unstable angina pectoris,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25721,Athscl autologous artery CABG w ang pctrs w documented spasm,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25728,Athscl autologous artery CABG w oth angina pectoris,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25729,Athscl autologous artery CABG w unsp angina pectoris,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25730,Athscl nonautologous biological CABG w unstable ang pctrs,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25731,Athscl nonaut biological CABG w ang pctrs w documented spasm,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25738,Athscl nonautologous biological CABG w oth angina pectoris,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25739,Athscl nonautologous biological CABG w unsp angina pectoris,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25750,Athscl native cor art of txplt heart w unstable angina,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25751,Athscl native cor art of txplt heart w ang pctrs w spasm,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25758,Athscl native cor art of transplanted heart w oth ang pctrs,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25759,Athscl native cor art of transplanted heart w unsp ang pctrs,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25760,Athscl bypass of cor art of txplt heart w unstable angina,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25761,Athscl bypass of cor art of txplt heart w ang pctrs w spasm,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25768,Athscl bypass of cor art of txplt heart w oth ang pctrs,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25769,Athscl bypass of cor art of txplt heart w unsp ang pctrs,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25790,Atherosclerosis of CABG w unstable angina pectoris,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25791,Atherosclerosis of CABG w angina pectoris w documented spasm,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25798,Atherosclerosis of CABG w oth angina pectoris,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25799,Atherosclerosis of CABG w unsp angina pectoris,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+I25811,Athscl native cor art of transplanted heart w/o ang pctrs,CIR011,Coronary atherosclerosis and other heart disease,Y,0 Not Applicable,angina,NULL
+E0852,Diabetes mellitus due to underlying condition with diabetic peripheral angiopathy with gangrene,CIR028,Gangrene,N,02 Diabetes mellitus,gangrene,NULL
+E0952,Drug or chemical induced diabetes mellitus with diabetic peripheral angiopathy with gangrene,CIR028,Gangrene,N,02 Diabetes mellitus,gangrene,NULL
+E1052,Type 1 diabetes mellitus with diabetic peripheral angiopathy with gangrene,CIR028,Gangrene,N,02 Diabetes mellitus,gangrene,NULL
+E1152,Type 2 diabetes mellitus with diabetic peripheral angiopathy with gangrene,CIR028,Gangrene,N,02 Diabetes mellitus,gangrene,NULL
+E1352,Other specified diabetes mellitus with diabetic peripheral angiopathy with gangrene,CIR028,Gangrene,N,02 Diabetes mellitus,gangrene,NULL
+I70261,"Atherosclerosis of native arteries of extremities with gangrene, right leg",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70262,"Atherosclerosis of native arteries of extremities with gangrene, left leg",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70263,"Atherosclerosis of native arteries of extremities with gangrene, bilateral legs",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70268,"Atherosclerosis of native arteries of extremities with gangrene, other extremity",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70269,"Atherosclerosis of native arteries of extremities with gangrene, unspecified extremity",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70361,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, right leg",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70362,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, left leg",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70363,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, bilateral legs",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70368,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, other extremity",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70369,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, unspecified extremity",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70461,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, right leg",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70462,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, left leg",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70463,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, bilateral legs",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70468,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, other extremity",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70469,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, unspecified extremity",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70561,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, right leg",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70562,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, left leg",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70563,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, bilateral legs",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70568,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, other extremity",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70569,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, unspecified extremity",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70661,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, right leg",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70662,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, left leg",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70663,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, bilateral legs",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70668,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, other extremity",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70669,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, unspecified extremity",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70761,"Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, right leg",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70762,"Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, left leg",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70763,"Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, bilateral legs",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70768,"Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, other extremity",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I70769,"Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, unspecified extremity",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I7301,Raynauds syndrome with gangrene,CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+I96,"Gangrene, not elsewhere classified",CIR028,Gangrene,Y,0 Not Applicable,gangrene,NULL
+J850,Gangrene and necrosis of lung,CIR028,Gangrene,Y,0 Not Applicable,gangrene,NULL
+K4010,"Bilateral inguinal hernia, with gangrene, not specified as recurrent",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+K4011,"Bilateral inguinal hernia, with gangrene, recurrent",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+K4040,"Unilateral inguinal hernia, with gangrene, not specified as recurrent",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+K4041,"Unilateral inguinal hernia, with gangrene, recurrent",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+K4110,"Bilateral femoral hernia, with gangrene, not specified as recurrent",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+K4111,"Bilateral femoral hernia, with gangrene, recurrent",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+K4140,"Unilateral femoral hernia, with gangrene, not specified as recurrent",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+K4141,"Unilateral femoral hernia, with gangrene, recurrent",CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+K421,Umbilical hernia with gangrene,CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+K431,Incisional hernia with gangrene,CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+K434,Parastomal hernia with gangrene,CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+K437,Other and unspecified ventral hernia with gangrene,CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+K441,Diaphragmatic hernia with gangrene,CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+K451,Other specified abdominal hernia with gangrene,CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+K461,Unspecified abdominal hernia with gangrene,CIR028,Gangrene,N,05 Condition AA with condition BB,gangrene,NULL
+K82A1,Gangrene of gallbladder in cholecystitis,CIR028,Gangrene,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,gangrene,NULL
+N493,Fournier gangrene,CIR028,Gangrene,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,gangrene,NULL
+I160,Hypertensive urgency,CIR008,Hypertension with complications and secondary hypertension,Y,0 Not Applicable,Hypertensive emergency,NULL
+I161,Hypertensive emergency,CIR008,Hypertension with complications and secondary hypertension,Y,0 Not Applicable,Hypertensive emergency,NULL
+I169,"Hypertensive crisis, unspecified",CIR008,Hypertension with complications and secondary hypertension,Y,0 Not Applicable,Hypertensive emergency,NULL
+I674,Hypertensive encephalopathy,CIR008,Hypertension with complications and secondary hypertension,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Hypertensive emergency,NULL
+I314,Cardiac tamponade,CIR006,Pericarditis and pericardial disease,Y,0 Not Applicable,Cardiac tamponade,NULL
+I70261,"Atherosclerosis of native arteries of extremities with gangrene, right leg",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70262,"Atherosclerosis of native arteries of extremities with gangrene, left leg",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70263,"Atherosclerosis of native arteries of extremities with gangrene, bilateral legs",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70268,"Atherosclerosis of native arteries of extremities with gangrene, other extremity",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70269,"Atherosclerosis of native arteries of extremities with gangrene, unspecified extremity",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70361,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, right leg",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70362,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, left leg",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70363,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, bilateral legs",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70368,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, other extremity",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70369,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, unspecified extremity",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70461,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, right leg",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70462,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, left leg",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70463,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, bilateral legs",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70468,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, other extremity",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70469,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, unspecified extremity",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70561,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, right leg",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70562,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, left leg",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70563,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, bilateral legs",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70568,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, other extremity",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70569,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, unspecified extremity",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70661,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, right leg",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70662,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, left leg",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70663,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, bilateral legs",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70668,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, other extremity",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70669,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, unspecified extremity",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70761,"Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, right leg",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70762,"Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, left leg",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70763,"Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, bilateral legs",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70768,"Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, other extremity",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I70769,"Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, unspecified extremity",CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I7301,Raynauds syndrome with gangrene,CIR026,Peripheral and visceral vascular disease,Y,05 Condition AA with condition BB,gangrene,NULL
+I731,Thromboangiitis obliterans [Buergers disease],CIR026,Peripheral and visceral vascular disease,Y,0 Not Applicable,gangrene,NULL
+K31811,Angiodysplasia of stomach and duodenum with bleeding,CIR026,Peripheral and visceral vascular disease,N,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K31819,Angiodysplasia of stomach and duodenum without bleeding,CIR026,Peripheral and visceral vascular disease,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K550,Acute vascular disorders of intestine,CIR026,Peripheral and visceral vascular disease,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55011,Focal (segmental) acute (reversible) ischemia of small intestine,CIR026,Peripheral and visceral vascular disease,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55012,Diffuse acute (reversible) ischemia of small intestine,CIR026,Peripheral and visceral vascular disease,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55019,"Acute (reversible) ischemia of small intestine, extent unspecified",CIR026,Peripheral and visceral vascular disease,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55021,Focal (segmental) acute infarction of small intestine,CIR026,Peripheral and visceral vascular disease,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55022,Diffuse acute infarction of small intestine,CIR026,Peripheral and visceral vascular disease,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55029,"Acute infarction of small intestine, extent unspecified",CIR026,Peripheral and visceral vascular disease,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55031,Focal (segmental) acute (reversible) ischemia of large intestine,CIR026,Peripheral and visceral vascular disease,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55032,Diffuse acute (reversible) ischemia of large intestine,CIR026,Peripheral and visceral vascular disease,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55039,"Acute (reversible) ischemia of large intestine, extent unspecified",CIR026,Peripheral and visceral vascular disease,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55041,Focal (segmental) acute infarction of large intestine,CIR026,Peripheral and visceral vascular disease,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55042,Diffuse acute infarction of large intestine,CIR026,Peripheral and visceral vascular disease,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55049,"Acute infarction of large intestine, extent unspecified",CIR026,Peripheral and visceral vascular disease,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55051,"Focal (segmental) acute (reversible) ischemia of intestine, part unspecified",CIR026,Peripheral and visceral vascular disease,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55052,"Diffuse acute (reversible) ischemia of intestine, part unspecified",CIR026,Peripheral and visceral vascular disease,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55059,"Acute (reversible) ischemia of intestine, part and extent unspecified",CIR026,Peripheral and visceral vascular disease,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55061,"Focal (segmental) acute infarction of intestine, part unspecified",CIR026,Peripheral and visceral vascular disease,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55062,"Diffuse acute infarction of intestine, part unspecified",CIR026,Peripheral and visceral vascular disease,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55069,"Acute infarction of intestine, part and extent unspecified",CIR026,Peripheral and visceral vascular disease,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K5520,Angiodysplasia of colon without hemorrhage,CIR026,Peripheral and visceral vascular disease,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K5521,Angiodysplasia of colon with hemorrhage,CIR026,Peripheral and visceral vascular disease,N,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+I970,Postcardiotomy syndrome,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I97110,Postproc cardiac insufficiency following cardiac surgery,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I97111,Postprocedural cardiac insufficiency following other surgery,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I97120,Postprocedural cardiac arrest following cardiac surgery,CIR038,Postprocedural or postoperative circulatory system complication,Y,01 Postprocedural or postoperative complications,Postprocedural hemorrhage or severe complication,NULL
+I97121,Postprocedural cardiac arrest following other surgery,CIR038,Postprocedural or postoperative circulatory system complication,Y,01 Postprocedural or postoperative complications,Postprocedural hemorrhage or severe complication,NULL
+I97130,Postprocedural heart failure following cardiac surgery,CIR038,Postprocedural or postoperative circulatory system complication,Y,01 Postprocedural or postoperative complications,Postprocedural hemorrhage or severe complication,NULL
+I97131,Postprocedural heart failure following other surgery,CIR038,Postprocedural or postoperative circulatory system complication,Y,01 Postprocedural or postoperative complications,Postprocedural hemorrhage or severe complication,NULL
+I97190,Oth postproc cardiac functn disturb fol cardiac surgery,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I97191,Oth postproc cardiac functn disturb following oth surgery,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I972,Postmastectomy lymphedema syndrome,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I973,Postprocedural hypertension,CIR038,Postprocedural or postoperative circulatory system complication,Y,01 Postprocedural or postoperative complications,Postprocedural hemorrhage or severe complication,NULL
+I97410,Intraoperative hemor/hemtom of a circ sys org comp card cath,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I97411,Intraop hemor/hemtom of a circ sys org comp card bypass,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I97418,Intraop hemor/hemtom of circ sys org comp oth circ sys proc,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I9742,Intraop hemor/hemtom of a circ sys org comp oth procedure,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I9751,Acc pnctr & lac of a circ sys org during a circ sys proc,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I9752,Acc pnctr & lac of a circ sys org during oth procedure,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I97610,Postproc hemor of a circ sys org following a cardiac cath,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I97611,Postproc hemor of a circ sys org following cardiac bypass,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I97618,Postproc hemor of a circ sys org fol other circ sys proc,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I9762,Postprocedural hemorrhage and hematoma of a circulatory syst,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I97620,Postproc hemor of a circ sys org following other procedure,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I97621,Postproc hematoma of a circ sys org fol other procedure,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I97622,Postproc seroma of a circ sys org following other procedure,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I97630,Postproc hematoma of a circ sys org following a cardiac cath,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I97631,Postproc hematoma of a circ sys org following cardiac bypass,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I97638,Postproc hematoma of a circ sys org fol other circ sys proc,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I97640,Postproc seroma of a circ sys org following a cardiac cath,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I97641,Postproc seroma of a circ sys org following cardiac bypass,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I97648,Postproc seroma of a circ sys org fol other circ sys proc,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I97710,Intraoperative cardiac arrest during cardiac surgery,CIR038,Postprocedural or postoperative circulatory system complication,Y,01 Postprocedural or postoperative complications,Postprocedural hemorrhage or severe complication,NULL
+I97711,Intraoperative cardiac arrest during other surgery,CIR038,Postprocedural or postoperative circulatory system complication,Y,01 Postprocedural or postoperative complications,Postprocedural hemorrhage or severe complication,NULL
+I97790,Oth intraop cardiac functn disturb during cardiac surgery,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I97791,Oth intraop cardiac functional disturb during oth surgery,CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I97810,Intraoperative cerebrovascular infarction during cardiac surgery,CIR038,Postprocedural or postoperative circulatory system complication,Y,01 Postprocedural or postoperative complications,Postprocedural hemorrhage or severe complication,NULL
+I97811,Intraoperative cerebrovascular infarction during other surgery,CIR038,Postprocedural or postoperative circulatory system complication,Y,01 Postprocedural or postoperative complications,Postprocedural hemorrhage or severe complication,NULL
+I97820,Postprocedural cerebrovascular infarction following cardiac surgery,CIR038,Postprocedural or postoperative circulatory system complication,Y,01 Postprocedural or postoperative complications,Postprocedural hemorrhage or severe complication,NULL
+I97821,Postprocedural cerebrovascular infarction following other surgery,CIR038,Postprocedural or postoperative circulatory system complication,Y,01 Postprocedural or postoperative complications,Postprocedural hemorrhage or severe complication,NULL
+I9788,"Oth intraoperative complications of the circ sys, NEC",CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+I9789,"Oth postproc comp and disorders of the circ sys, NEC",CIR038,Postprocedural or postoperative circulatory system complication,Y,0 Not Applicable,Postprocedural hemorrhage or severe complication,NULL
+D62,Acute posthemorrhagic anemia,BLD004,Acute posthemorrhagic anemia,Y,0 Not Applicable,Acute posthemorrhagic anemia,NULL
+D65,Disseminated intravascular coagulation,BLD006,Coagulation and hemorrhagic disorders,Y,0 Not Applicable,Acute posthemorrhagic anemia,NULL
+D699,"Hemorrhagic condition, unspecified",BLD006,Coagulation and hemorrhagic disorders,Y,0 Not Applicable,Acute posthemorrhagic anemia,NULL
+D733,Abscess of spleen,BLD010,Other specified and unspecified hematologic conditions,Y,0 Not Applicable,Splenic hemorrhage of abscess,NULL
+D735,Infarction of spleen,BLD010,Other specified and unspecified hematologic conditions,Y,0 Not Applicable,Splenic hemorrhage of abscess,NULL
+D7801,Intraop hemor/hemtom of the spleen comp a proc on the spleen,BLD009,Postprocedural or postoperative complications of the spleen,Y,0 Not Applicable,Splenic hemorrhage of abscess,NULL
+D7802,Intraop hemor/hemtom of the spleen comp oth procedure,BLD009,Postprocedural or postoperative complications of the spleen,Y,0 Not Applicable,Splenic hemorrhage of abscess,NULL
+D7811,Accidental pnctr & lac of the spleen dur proc on the spleen,BLD009,Postprocedural or postoperative complications of the spleen,Y,0 Not Applicable,Splenic hemorrhage of abscess,NULL
+D7812,Accidental pnctr & lac of the spleen during oth procedure,BLD009,Postprocedural or postoperative complications of the spleen,Y,0 Not Applicable,Splenic hemorrhage of abscess,NULL
+D7821,Postprocedural hemorrhage of the spleen fol proc on spleen,BLD009,Postprocedural or postoperative complications of the spleen,Y,0 Not Applicable,Splenic hemorrhage of abscess,NULL
+D7822,Postproc hemorrhage of the spleen following other procedure,BLD009,Postprocedural or postoperative complications of the spleen,Y,0 Not Applicable,Splenic hemorrhage of abscess,NULL
+D7831,Postprocedural hematoma of the spleen fol proc on spleen,BLD009,Postprocedural or postoperative complications of the spleen,Y,0 Not Applicable,Splenic hemorrhage of abscess,NULL
+D7832,Postproc hematoma of the spleen following other procedure,BLD009,Postprocedural or postoperative complications of the spleen,Y,0 Not Applicable,Splenic hemorrhage of abscess,NULL
+D7833,Postprocedural seroma of the spleen fol proc on spleen,BLD009,Postprocedural or postoperative complications of the spleen,Y,0 Not Applicable,Splenic hemorrhage of abscess,NULL
+D7834,Postproc seroma of the spleen following other procedure,BLD009,Postprocedural or postoperative complications of the spleen,Y,0 Not Applicable,Splenic hemorrhage of abscess,NULL
+D7881,Other intraoperative complications of the spleen,BLD009,Postprocedural or postoperative complications of the spleen,Y,0 Not Applicable,Splenic hemorrhage of abscess,NULL
+D7889,Other postprocedural complications of the spleen,BLD009,Postprocedural or postoperative complications of the spleen,Y,0 Not Applicable,Splenic hemorrhage of abscess,NULL
+D5700,"Hb-SS disease with crisis, unspecified",BLD005,Sickle cell trait/anemia,Y,0 Not Applicable,Sickel cell crisis,NULL
+D5701,Hb-SS disease with acute chest syndrome,BLD005,Sickle cell trait/anemia,Y,0 Not Applicable,Sickel cell crisis,NULL
+D5702,Hb-SS disease with splenic sequestration,BLD005,Sickle cell trait/anemia,Y,0 Not Applicable,Sickel cell crisis,NULL
+D57211,Sickle-cell/Hb-C disease with acute chest syndrome,BLD005,Sickle cell trait/anemia,Y,0 Not Applicable,Sickel cell crisis,NULL
+D57212,Sickle-cell/Hb-C disease with splenic sequestration,BLD005,Sickle cell trait/anemia,Y,0 Not Applicable,Sickel cell crisis,NULL
+D57219,"Sickle-cell/Hb-C disease with crisis, unspecified",BLD005,Sickle cell trait/anemia,Y,0 Not Applicable,Sickel cell crisis,NULL
+D57411,Sickle-cell thalassemia with acute chest syndrome,BLD005,Sickle cell trait/anemia,Y,0 Not Applicable,Sickel cell crisis,NULL
+D57412,Sickle-cell thalassemia with splenic sequestration,BLD005,Sickle cell trait/anemia,Y,0 Not Applicable,Sickel cell crisis,NULL
+D57419,"Sickle-cell thalassemia with crisis, unspecified",BLD005,Sickle cell trait/anemia,Y,0 Not Applicable,Sickel cell crisis,NULL
+D57811,Other sickle-cell disorders with acute chest syndrome,BLD005,Sickle cell trait/anemia,Y,0 Not Applicable,Sickel cell crisis,NULL
+D57812,Other sickle-cell disorders with splenic sequestration,BLD005,Sickle cell trait/anemia,Y,0 Not Applicable,Sickel cell crisis,NULL
+D57819,"Other sickle-cell disorders with crisis, unspecified",BLD005,Sickle cell trait/anemia,Y,0 Not Applicable,Sickel cell crisis,NULL
+K222,Esophageal obstruction,DIG004,Esophageal disorders,Y,0 Not Applicable,Intestinal ischemia or hemorrhage,NULL
+K223,Perforation of esophagus,DIG004,Esophageal disorders,N,12 More than one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K223,Perforation of esophagus,DIG006,Gastrointestinal and biliary perforation,Y,12 More than one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K226,Gastro-esophageal laceration-hemorrhage syndrome,DIG004,Esophageal disorders,Y,0 Not Applicable,Intestinal ischemia or hemorrhage,NULL
+K250,Acute gastric ulcer with hemorrhage,DIG021,Gastrointestinal hemorrhage,Y,0 Not Applicable,Intestinal ischemia or hemorrhage,NULL
+K251,Acute gastric ulcer with perforation,DIG005,Gastroduodenal ulcer,Y,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K251,Acute gastric ulcer with perforation,DIG006,Gastrointestinal and biliary perforation,N,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K252,Acute gastric ulcer with both hemorrhage and perforation,DIG021,Gastrointestinal hemorrhage,Y,0 Not Applicable,Intestinal ischemia or hemorrhage,NULL
+K254,Chronic or unspecified gastric ulcer with hemorrhage,DIG021,Gastrointestinal hemorrhage,Y,0 Not Applicable,Intestinal ischemia or hemorrhage,NULL
+K255,Chronic or unspecified gastric ulcer with perforation,DIG005,Gastroduodenal ulcer,Y,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K255,Chronic or unspecified gastric ulcer with perforation,DIG006,Gastrointestinal and biliary perforation,N,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K256,Chronic or unsp gastric ulcer w both hemorrhage and perf,DIG021,Gastrointestinal hemorrhage,Y,0 Not Applicable,Intestinal ischemia or hemorrhage,NULL
+K260,Acute duodenal ulcer with hemorrhage,DIG021,Gastrointestinal hemorrhage,Y,0 Not Applicable,Intestinal ischemia or hemorrhage,NULL
+K261,Acute duodenal ulcer with perforation,DIG005,Gastroduodenal ulcer,Y,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K261,Acute duodenal ulcer with perforation,DIG006,Gastrointestinal and biliary perforation,N,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K262,Acute duodenal ulcer with both hemorrhage and perforation,DIG021,Gastrointestinal hemorrhage,Y,0 Not Applicable,Intestinal ischemia or hemorrhage,NULL
+K264,Chronic or unspecified duodenal ulcer with hemorrhage,DIG021,Gastrointestinal hemorrhage,Y,0 Not Applicable,Intestinal ischemia or hemorrhage,NULL
+K265,Chronic or unspecified duodenal ulcer with perforation,DIG005,Gastroduodenal ulcer,Y,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K265,Chronic or unspecified duodenal ulcer with perforation,DIG006,Gastrointestinal and biliary perforation,N,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K266,Chronic or unsp duodenal ulcer w both hemorrhage and perf,DIG021,Gastrointestinal hemorrhage,Y,0 Not Applicable,Intestinal ischemia or hemorrhage,NULL
+K270,"Acute peptic ulcer, site unspecified, with hemorrhage",DIG021,Gastrointestinal hemorrhage,Y,0 Not Applicable,Intestinal ischemia or hemorrhage,NULL
+K271,"Acute peptic ulcer, site unspecified, with perforation",DIG005,Gastroduodenal ulcer,Y,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K271,"Acute peptic ulcer, site unspecified, with perforation",DIG006,Gastrointestinal and biliary perforation,N,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K272,"Acute peptic ulcer, site unsp, w both hemorrhage and perf",DIG021,Gastrointestinal hemorrhage,Y,0 Not Applicable,Intestinal ischemia or hemorrhage,NULL
+K274,"Chronic or unsp peptic ulcer, site unsp, with hemorrhage",DIG021,Gastrointestinal hemorrhage,Y,0 Not Applicable,Intestinal ischemia or hemorrhage,NULL
+K275,"Chronic or unspecified peptic ulcer, site unspecified, with perforation",DIG005,Gastroduodenal ulcer,Y,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K275,"Chronic or unspecified peptic ulcer, site unspecified, with perforation",DIG006,Gastrointestinal and biliary perforation,N,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K276,"Chr or unsp peptic ulcer, site unsp, w both hemor and perf",DIG021,Gastrointestinal hemorrhage,Y,0 Not Applicable,Intestinal ischemia or hemorrhage,NULL
+K280,Acute gastrojejunal ulcer with hemorrhage,DIG021,Gastrointestinal hemorrhage,Y,0 Not Applicable,Intestinal ischemia or hemorrhage,NULL
+K281,Acute gastrojejunal ulcer with perforation,DIG005,Gastroduodenal ulcer,Y,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K281,Acute gastrojejunal ulcer with perforation,DIG006,Gastrointestinal and biliary perforation,N,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K282,Acute gastrojejunal ulcer w both hemorrhage and perforation,DIG021,Gastrointestinal hemorrhage,Y,0 Not Applicable,Intestinal ischemia or hemorrhage,NULL
+K284,Chronic or unspecified gastrojejunal ulcer with hemorrhage,DIG021,Gastrointestinal hemorrhage,Y,0 Not Applicable,Intestinal ischemia or hemorrhage,NULL
+K285,Chronic or unspecified gastrojejunal ulcer with perforation,DIG005,Gastroduodenal ulcer,Y,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K285,Chronic or unspecified gastrojejunal ulcer with perforation,DIG006,Gastrointestinal and biliary perforation,N,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K286,Chronic or unsp gastrojejunal ulcer w both hemor and perf,DIG021,Gastrointestinal hemorrhage,Y,0 Not Applicable,Intestinal ischemia or hemorrhage,NULL
+K2900,Acute gastritis without bleeding,DIG007,Gastritis and duodenitis,Y,0 Not Applicable,Intestinal ischemia or hemorrhage,NULL
+K2901,Acute gastritis with bleeding,DIG007,Gastritis and duodenitis,Y,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K2901,Acute gastritis with bleeding,DIG021,Gastrointestinal hemorrhage,N,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K2921,Alcoholic gastritis with bleeding,DIG007,Gastritis and duodenitis,Y,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K2921,Alcoholic gastritis with bleeding,DIG021,Gastrointestinal hemorrhage,N,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K2931,Chronic superficial gastritis with bleeding,DIG007,Gastritis and duodenitis,Y,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K2931,Chronic superficial gastritis with bleeding,DIG021,Gastrointestinal hemorrhage,N,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K2941,Chronic atrophic gastritis with bleeding,DIG007,Gastritis and duodenitis,Y,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K2941,Chronic atrophic gastritis with bleeding,DIG021,Gastrointestinal hemorrhage,N,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K2951,Unspecified chronic gastritis with bleeding,DIG007,Gastritis and duodenitis,Y,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K2951,Unspecified chronic gastritis with bleeding,DIG021,Gastrointestinal hemorrhage,N,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K2961,Other gastritis with bleeding,DIG007,Gastritis and duodenitis,Y,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K2961,Other gastritis with bleeding,DIG021,Gastrointestinal hemorrhage,N,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K2971,"Gastritis, unspecified, with bleeding",DIG007,Gastritis and duodenitis,Y,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K2971,"Gastritis, unspecified, with bleeding",DIG021,Gastrointestinal hemorrhage,N,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K2981,Duodenitis with bleeding,DIG007,Gastritis and duodenitis,Y,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K2981,Duodenitis with bleeding,DIG021,Gastrointestinal hemorrhage,N,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K2991,"Gastroduodenitis, unspecified, with bleeding",DIG007,Gastritis and duodenitis,Y,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K2991,"Gastroduodenitis, unspecified, with bleeding",DIG021,Gastrointestinal hemorrhage,N,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K315,Obstruction of duodenum,DIG012,Intestinal obstruction and ileus,Y,0 Not Applicable,Intestinal obstruction,NULL
+K31811,Angiodysplasia of stomach and duodenum with bleeding,DIG008,Other specified and unspecified disorders of stomach and duodenum,Y,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K31811,Angiodysplasia of stomach and duodenum with bleeding,DIG021,Gastrointestinal hemorrhage,N,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K3182,Dieulafoy lesion (hemorrhagic) of stomach and duodenum,DIG008,Other specified and unspecified disorders of stomach and duodenum,Y,0 Not Applicable,Intestinal ischemia or hemorrhage,NULL
+K352,Acute appendicitis with generalized peritonitis,DIG009,Appendicitis and other appendiceal conditions,Y,05 Condition AA with condition BB,Acute appendicitis,NULL
+K352,Acute appendicitis with generalized peritonitis,DIG016,Peritonitis and intra-abdominal abscess,N,05 Condition AA with condition BB,Acute appendicitis,NULL
+K3520,"Acute appendicitis with generalized peritonitis, without abscess",DIG009,Appendicitis and other appendiceal conditions,Y,05 Condition AA with condition BB,Acute appendicitis,NULL
+K3520,"Acute appendicitis with generalized peritonitis, without abscess",DIG016,Peritonitis and intra-abdominal abscess,N,05 Condition AA with condition BB,Acute appendicitis,NULL
+K3521,"Acute appendicitis with generalized peritonitis, with abscess",DIG009,Appendicitis and other appendiceal conditions,Y,05 Condition AA with condition BB,Acute appendicitis,NULL
+K3521,"Acute appendicitis with generalized peritonitis, with abscess",DIG016,Peritonitis and intra-abdominal abscess,N,05 Condition AA with condition BB,Acute appendicitis,NULL
+K353,Acute appendicitis with localized peritonitis,DIG009,Appendicitis and other appendiceal conditions,Y,05 Condition AA with condition BB,Acute appendicitis,NULL
+K353,Acute appendicitis with localized peritonitis,DIG016,Peritonitis and intra-abdominal abscess,N,05 Condition AA with condition BB,Acute appendicitis,NULL
+K3530,"Acute appendicitis with localized peritonitis, without perforation or gangrene",DIG009,Appendicitis and other appendiceal conditions,Y,05 Condition AA with condition BB,Acute appendicitis,NULL
+K3530,"Acute appendicitis with localized peritonitis, without perforation or gangrene",DIG016,Peritonitis and intra-abdominal abscess,N,05 Condition AA with condition BB,Acute appendicitis,NULL
+K3531,"Acute appendicitis with localized peritonitis and gangrene, without perforation",DIG009,Appendicitis and other appendiceal conditions,Y,05 Condition AA with condition BB,Acute appendicitis,NULL
+K3531,"Acute appendicitis with localized peritonitis and gangrene, without perforation",DIG016,Peritonitis and intra-abdominal abscess,N,05 Condition AA with condition BB,Acute appendicitis,NULL
+K3532,"Acute appendicitis with perforation and localized peritonitis, without abscess",DIG006,Gastrointestinal and biliary perforation,N,05 Condition AA with condition BB,Acute appendicitis,NULL
+K3532,"Acute appendicitis with perforation and localized peritonitis, without abscess",DIG009,Appendicitis and other appendiceal conditions,Y,05 Condition AA with condition BB,Acute appendicitis,NULL
+K3532,"Acute appendicitis with perforation and localized peritonitis, without abscess",DIG016,Peritonitis and intra-abdominal abscess,N,05 Condition AA with condition BB,Acute appendicitis,NULL
+K3533,"Acute appendicitis with perforation and localized peritonitis, with abscess",DIG006,Gastrointestinal and biliary perforation,N,05 Condition AA with condition BB,Acute appendicitis,NULL
+K3533,"Acute appendicitis with perforation and localized peritonitis, with abscess",DIG009,Appendicitis and other appendiceal conditions,Y,05 Condition AA with condition BB,Acute appendicitis,NULL
+K3533,"Acute appendicitis with perforation and localized peritonitis, with abscess",DIG016,Peritonitis and intra-abdominal abscess,N,05 Condition AA with condition BB,Acute appendicitis,NULL
+K3580,Unspecified acute appendicitis,DIG009,Appendicitis and other appendiceal conditions,Y,0 Not Applicable,Acute appendicitis,NULL
+K3589,Other acute appendicitis,DIG009,Appendicitis and other appendiceal conditions,Y,0 Not Applicable,Acute appendicitis,NULL
+K35890,Other acute appendicitis without perforation or gangrene,DIG009,Appendicitis and other appendiceal conditions,Y,0 Not Applicable,Acute appendicitis,NULL
+K35891,"Other acute appendicitis without perforation, with gangrene",DIG009,Appendicitis and other appendiceal conditions,Y,0 Not Applicable,Acute appendicitis,NULL
+K36,Other appendicitis,DIG009,Appendicitis and other appendiceal conditions,Y,0 Not Applicable,Acute appendicitis,NULL
+K37,Unspecified appendicitis,DIG009,Appendicitis and other appendiceal conditions,Y,0 Not Applicable,Acute appendicitis,NULL
+K380,Hyperplasia of appendix,DIG009,Appendicitis and other appendiceal conditions,Y,0 Not Applicable,Acute appendicitis,NULL
+K381,Appendicular concretions,DIG009,Appendicitis and other appendiceal conditions,Y,0 Not Applicable,Acute appendicitis,NULL
+K382,Diverticulum of appendix,DIG009,Appendicitis and other appendiceal conditions,Y,0 Not Applicable,Acute appendicitis,NULL
+K383,Fistula of appendix,DIG009,Appendicitis and other appendiceal conditions,Y,0 Not Applicable,Acute appendicitis,NULL
+K388,Other specified diseases of appendix,DIG009,Appendicitis and other appendiceal conditions,Y,0 Not Applicable,Acute appendicitis,NULL
+K389,"Disease of appendix, unspecified",DIG009,Appendicitis and other appendiceal conditions,Y,0 Not Applicable,Acute appendicitis,NULL
+K4000,"Bilateral inguinal hernia, with obstruction, without gangrene, not specified as recurrent",DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K4000,"Bilateral inguinal hernia, with obstruction, without gangrene, not specified as recurrent",DIG012,Intestinal obstruction and ileus,N,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K4001,"Bilateral inguinal hernia, with obstruction, without gangrene, recurrent",DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K4001,"Bilateral inguinal hernia, with obstruction, without gangrene, recurrent",DIG012,Intestinal obstruction and ileus,N,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K4010,"Bilateral inguinal hernia, with gangrene, not specified as recurrent",DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K4011,"Bilateral inguinal hernia, with gangrene, recurrent",DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K4030,"Unilateral inguinal hernia, with obstruction, without gangrene, not specified as recurrent",DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K4030,"Unilateral inguinal hernia, with obstruction, without gangrene, not specified as recurrent",DIG012,Intestinal obstruction and ileus,N,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K4031,"Unilateral inguinal hernia, with obstruction, without gangrene, recurrent",DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K4031,"Unilateral inguinal hernia, with obstruction, without gangrene, recurrent",DIG012,Intestinal obstruction and ileus,N,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K4040,"Unilateral inguinal hernia, with gangrene, not specified as recurrent",DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K4041,"Unilateral inguinal hernia, with gangrene, recurrent",DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K4100,"Bilateral femoral hernia, with obstruction, without gangrene, not specified as recurrent",DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K4100,"Bilateral femoral hernia, with obstruction, without gangrene, not specified as recurrent",DIG012,Intestinal obstruction and ileus,N,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K4101,"Bilateral femoral hernia, with obstruction, without gangrene, recurrent",DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K4101,"Bilateral femoral hernia, with obstruction, without gangrene, recurrent",DIG012,Intestinal obstruction and ileus,N,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K4110,"Bilateral femoral hernia, with gangrene, not specified as recurrent",DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K4111,"Bilateral femoral hernia, with gangrene, recurrent",DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K4130,"Unilateral femoral hernia, with obstruction, without gangrene, not specified as recurrent",DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K4130,"Unilateral femoral hernia, with obstruction, without gangrene, not specified as recurrent",DIG012,Intestinal obstruction and ileus,N,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K4131,"Unilateral femoral hernia, with obstruction, without gangrene, recurrent",DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K4131,"Unilateral femoral hernia, with obstruction, without gangrene, recurrent",DIG012,Intestinal obstruction and ileus,N,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K4140,"Unilateral femoral hernia, with gangrene, not specified as recurrent",DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K4141,"Unilateral femoral hernia, with gangrene, recurrent",DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K420,"Umbilical hernia with obstruction, without gangrene",DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K420,"Umbilical hernia with obstruction, without gangrene",DIG012,Intestinal obstruction and ileus,N,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K421,Umbilical hernia with gangrene,DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K430,"Incisional hernia with obstruction, without gangrene",DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K430,"Incisional hernia with obstruction, without gangrene",DIG012,Intestinal obstruction and ileus,N,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K431,Incisional hernia with gangrene,DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K433,"Parastomal hernia with obstruction, without gangrene",DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K433,"Parastomal hernia with obstruction, without gangrene",DIG012,Intestinal obstruction and ileus,N,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K434,Parastomal hernia with gangrene,DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K436,"Other and unspecified ventral hernia with obstruction, without gangrene",DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K437,Other and unspecified ventral hernia with gangrene,DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K440,"Diaphragmatic hernia with obstruction, without gangrene",DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K440,"Diaphragmatic hernia with obstruction, without gangrene",DIG012,Intestinal obstruction and ileus,N,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K441,Diaphragmatic hernia with gangrene,DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K450,"Other specified abdominal hernia with obstruction, without gangrene",DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K450,"Other specified abdominal hernia with obstruction, without gangrene",DIG012,Intestinal obstruction and ileus,N,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K451,Other specified abdominal hernia with gangrene,DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K460,"Unspecified abdominal hernia with obstruction, without gangrene",DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K460,"Unspecified abdominal hernia with obstruction, without gangrene",DIG012,Intestinal obstruction and ileus,N,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K461,Unspecified abdominal hernia with gangrene,DIG010,Abdominal hernia,Y,05 Condition AA with condition BB,hernia with obstraction or gangrene,NULL
+K50012,Crohns disease of small intestine with intestinal obstruction,DIG011,Regional enteritis and ulcerative colitis,Y,05 Condition AA with condition BB,Intestinal obstruction,NULL
+K50012,Crohns disease of small intestine with intestinal obstruction,DIG012,Intestinal obstruction and ileus,N,05 Condition AA with condition BB,Intestinal obstruction,NULL
+K50112,Crohns disease of large intestine with intestinal obstruction,DIG011,Regional enteritis and ulcerative colitis,Y,05 Condition AA with condition BB,Intestinal obstruction,NULL
+K50112,Crohns disease of large intestine with intestinal obstruction,DIG012,Intestinal obstruction and ileus,N,05 Condition AA with condition BB,Intestinal obstruction,NULL
+K50812,Crohns disease of both small and large intestine with intestinal obstruction,DIG011,Regional enteritis and ulcerative colitis,Y,05 Condition AA with condition BB,Intestinal obstruction,NULL
+K50812,Crohns disease of both small and large intestine with intestinal obstruction,DIG012,Intestinal obstruction and ileus,N,05 Condition AA with condition BB,Intestinal obstruction,NULL
+K50912,"Crohns disease, unspecified, with intestinal obstruction",DIG011,Regional enteritis and ulcerative colitis,Y,05 Condition AA with condition BB,Intestinal obstruction,NULL
+K50912,"Crohns disease, unspecified, with intestinal obstruction",DIG012,Intestinal obstruction and ileus,N,05 Condition AA with condition BB,Intestinal obstruction,NULL
+K51012,Ulcerative (chronic) pancolitis with intestinal obstruction,DIG011,Regional enteritis and ulcerative colitis,Y,05 Condition AA with condition BB,Intestinal obstruction,NULL
+K51012,Ulcerative (chronic) pancolitis with intestinal obstruction,DIG012,Intestinal obstruction and ileus,N,05 Condition AA with condition BB,Intestinal obstruction,NULL
+K51212,Ulcerative (chronic) proctitis with intestinal obstruction,DIG011,Regional enteritis and ulcerative colitis,Y,05 Condition AA with condition BB,Intestinal obstruction,NULL
+K51212,Ulcerative (chronic) proctitis with intestinal obstruction,DIG012,Intestinal obstruction and ileus,N,05 Condition AA with condition BB,Intestinal obstruction,NULL
+K51312,Ulcerative (chronic) rectosigmoiditis with intestinal obstruction,DIG011,Regional enteritis and ulcerative colitis,Y,05 Condition AA with condition BB,Intestinal obstruction,NULL
+K51312,Ulcerative (chronic) rectosigmoiditis with intestinal obstruction,DIG012,Intestinal obstruction and ileus,N,05 Condition AA with condition BB,Intestinal obstruction,NULL
+K51412,Inflammatory polyps of colon with intestinal obstruction,DIG011,Regional enteritis and ulcerative colitis,Y,05 Condition AA with condition BB,Intestinal obstruction,NULL
+K51412,Inflammatory polyps of colon with intestinal obstruction,DIG012,Intestinal obstruction and ileus,N,05 Condition AA with condition BB,Intestinal obstruction,NULL
+K51512,Left sided colitis with intestinal obstruction,DIG011,Regional enteritis and ulcerative colitis,Y,05 Condition AA with condition BB,Intestinal obstruction,NULL
+K51512,Left sided colitis with intestinal obstruction,DIG012,Intestinal obstruction and ileus,N,05 Condition AA with condition BB,Intestinal obstruction,NULL
+K51812,Other ulcerative colitis with intestinal obstruction,DIG011,Regional enteritis and ulcerative colitis,Y,05 Condition AA with condition BB,Intestinal obstruction,NULL
+K51812,Other ulcerative colitis with intestinal obstruction,DIG012,Intestinal obstruction and ileus,N,05 Condition AA with condition BB,Intestinal obstruction,NULL
+K51912,"Ulcerative colitis, unspecified with intestinal obstruction",DIG011,Regional enteritis and ulcerative colitis,Y,05 Condition AA with condition BB,Intestinal obstruction,NULL
+K51912,"Ulcerative colitis, unspecified with intestinal obstruction",DIG012,Intestinal obstruction and ileus,N,05 Condition AA with condition BB,Intestinal obstruction,NULL
+K521,Toxic gastroenteritis and colitis,DIG022,Noninfectious gastroenteritis,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K550,Acute vascular disorders of intestine,DIG025,Other specified and unspecified gastrointestinal disorders,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55011,Focal (segmental) acute (reversible) ischemia of small intestine,DIG025,Other specified and unspecified gastrointestinal disorders,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55012,Diffuse acute (reversible) ischemia of small intestine,DIG025,Other specified and unspecified gastrointestinal disorders,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55019,"Acute (reversible) ischemia of small intestine, extent unspecified",DIG025,Other specified and unspecified gastrointestinal disorders,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55021,Focal (segmental) acute infarction of small intestine,DIG025,Other specified and unspecified gastrointestinal disorders,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55022,Diffuse acute infarction of small intestine,DIG025,Other specified and unspecified gastrointestinal disorders,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55029,"Acute infarction of small intestine, extent unspecified",DIG025,Other specified and unspecified gastrointestinal disorders,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55031,Focal (segmental) acute (reversible) ischemia of large intestine,DIG025,Other specified and unspecified gastrointestinal disorders,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55032,Diffuse acute (reversible) ischemia of large intestine,DIG025,Other specified and unspecified gastrointestinal disorders,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55039,"Acute (reversible) ischemia of large intestine, extent unspecified",DIG025,Other specified and unspecified gastrointestinal disorders,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55041,Focal (segmental) acute infarction of large intestine,DIG025,Other specified and unspecified gastrointestinal disorders,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55042,Diffuse acute infarction of large intestine,DIG025,Other specified and unspecified gastrointestinal disorders,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55049,"Acute infarction of large intestine, extent unspecified",DIG025,Other specified and unspecified gastrointestinal disorders,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55051,"Focal (segmental) acute (reversible) ischemia of intestine, part unspecified",DIG025,Other specified and unspecified gastrointestinal disorders,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55052,"Diffuse acute (reversible) ischemia of intestine, part unspecified",DIG025,Other specified and unspecified gastrointestinal disorders,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55059,"Acute (reversible) ischemia of intestine, part and extent unspecified",DIG025,Other specified and unspecified gastrointestinal disorders,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55061,"Focal (segmental) acute infarction of intestine, part unspecified",DIG025,Other specified and unspecified gastrointestinal disorders,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55062,"Diffuse acute infarction of intestine, part unspecified",DIG025,Other specified and unspecified gastrointestinal disorders,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K55069,"Acute infarction of intestine, part and extent unspecified",DIG025,Other specified and unspecified gastrointestinal disorders,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Intestinal ischemia or hemorrhage,NULL
+K5521,Angiodysplasia of colon with hemorrhage,DIG021,Gastrointestinal hemorrhage,N,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K5521,Angiodysplasia of colon with hemorrhage,DIG025,Other specified and unspecified gastrointestinal disorders,Y,05 Condition AA with condition BB,Intestinal ischemia or hemorrhage,NULL
+K5530,"Necrotizing enterocolitis, unspecified",DIG025,Other specified and unspecified gastrointestinal disorders,Y,0 Not Applicable,Intestinal ischemia or hemorrhage,NULL
+K5531,Stage 1 necrotizing enterocolitis,DIG025,Other specified and unspecified gastrointestinal disorders,Y,0 Not Applicable,Intestinal ischemia or hemorrhage,NULL
+K5532,Stage 2 necrotizing enterocolitis,DIG025,Other specified and unspecified gastrointestinal disorders,Y,0 Not Applicable,Intestinal ischemia or hemorrhage,NULL
+K5533,Stage 3 necrotizing enterocolitis,DIG025,Other specified and unspecified gastrointestinal disorders,Y,0 Not Applicable,Intestinal ischemia or hemorrhage,NULL
+K560,Paralytic ileus,DIG012,Intestinal obstruction and ileus,Y,0 Not Applicable,Intestinal ischemia or hemorrhage,NULL
+K561,Intussusception,DIG012,Intestinal obstruction and ileus,Y,0 Not Applicable,Necrotizing enterocolitis,NULL
+K562,Volvulus,DIG012,Intestinal obstruction and ileus,Y,0 Not Applicable,Necrotizing enterocolitis,NULL
+K563,Gallstone ileus,DIG012,Intestinal obstruction and ileus,Y,12 More than one CCSR category matches the ICD-10-CM codebook chapter,Necrotizing enterocolitis,NULL
+K563,Gallstone ileus,DIG017,Biliary tract disease,N,12 More than one CCSR category matches the ICD-10-CM codebook chapter,Necrotizing enterocolitis,NULL
+K565,Intestinal adhesions [bands] with obstruction (postprocedura,DIG012,Intestinal obstruction and ileus,Y,0 Not Applicable,Necrotizing enterocolitis,NULL
+K5650,"Intestnl adhesions, unsp as to partial versus complete obst",DIG012,Intestinal obstruction and ileus,Y,0 Not Applicable,Intestinal obstruction and ileus,NULL
+K5651,"Intestinal adhesions [bands], with partial obstruction",DIG012,Intestinal obstruction and ileus,Y,0 Not Applicable,Intestinal obstruction and ileus,NULL
+K5652,Intestinal adhesions [bands] with complete obstruction,DIG012,Intestinal obstruction and ileus,Y,0 Not Applicable,Intestinal obstruction and ileus,NULL
+K5660,Unspecified intestinal obstruction,DIG012,Intestinal obstruction and ileus,Y,0 Not Applicable,Intestinal obstruction and ileus,NULL
+K56600,"Partial intestinal obstruction, unspecified as to cause",DIG012,Intestinal obstruction and ileus,Y,0 Not Applicable,Intestinal obstruction and ileus,NULL
+K56601,"Complete intestinal obstruction, unspecified as to cause",DIG012,Intestinal obstruction and ileus,Y,0 Not Applicable,Intestinal obstruction and ileus,NULL
+K56609,"Unsp intestnl obst, unsp as to partial versus complete obst",DIG012,Intestinal obstruction and ileus,Y,0 Not Applicable,Intestinal obstruction and ileus,NULL
+K5669,Other intestinal obstruction,DIG012,Intestinal obstruction and ileus,Y,0 Not Applicable,Intestinal obstruction and ileus,NULL
+K56690,Other partial intestinal obstruction,DIG012,Intestinal obstruction and ileus,Y,0 Not Applicable,Intestinal obstruction and ileus,NULL
+K56691,Other complete intestinal obstruction,DIG012,Intestinal obstruction and ileus,Y,0 Not Applicable,Intestinal obstruction and ileus,NULL
+K56699,Other intestnl obst unsp as to partial versus complete obst,DIG012,Intestinal obstruction and ileus,Y,0 Not Applicable,Intestinal obstruction and ileus,NULL
+K567,"Ileus, unspecified",DIG012,Intestinal obstruction and ileus,Y,0 Not Applicable,Intestinal obstruction and ileus,NULL
+K5700,Diverticulitis of small intestine with perforation and abscess without bleeding,DIG006,Gastrointestinal and biliary perforation,N,05 Condition AA with condition BB,Intestinal obstruction and ileus,NULL
+K5700,Diverticulitis of small intestine with perforation and abscess without bleeding,DIG013,Diverticulosis and diverticulitis,Y,05 Condition AA with condition BB,Intestinal obstruction and ileus,NULL
+K5700,Diverticulitis of small intestine with perforation and abscess without bleeding,DIG016,Peritonitis and intra-abdominal abscess,N,05 Condition AA with condition BB,Intestinal obstruction and ileus,NULL
+K5701,Diverticulitis of small intestine with perforation and abscess with bleeding,DIG006,Gastrointestinal and biliary perforation,N,05 Condition AA with condition BB,Intestinal obstruction and ileus,NULL
+K5701,Diverticulitis of small intestine with perforation and abscess with bleeding,DIG013,Diverticulosis and diverticulitis,Y,05 Condition AA with condition BB,Intestinal obstruction and ileus,NULL
+K5701,Diverticulitis of small intestine with perforation and abscess with bleeding,DIG021,Gastrointestinal hemorrhage,N,05 Condition AA with condition BB,Diverticulitis,NULL
+K5720,Diverticulitis of large intestine with perforation and abscess without bleeding,DIG006,Gastrointestinal and biliary perforation,N,05 Condition AA with condition BB,Diverticulitis,NULL
+K5720,Diverticulitis of large intestine with perforation and abscess without bleeding,DIG013,Diverticulosis and diverticulitis,Y,05 Condition AA with condition BB,Diverticulitis,NULL
+K5720,Diverticulitis of large intestine with perforation and abscess without bleeding,DIG016,Peritonitis and intra-abdominal abscess,N,05 Condition AA with condition BB,Diverticulitis,NULL
+K5721,Diverticulitis of large intestine with perforation and abscess with bleeding,DIG006,Gastrointestinal and biliary perforation,N,05 Condition AA with condition BB,Diverticulitis,NULL
+K5721,Diverticulitis of large intestine with perforation and abscess with bleeding,DIG013,Diverticulosis and diverticulitis,Y,05 Condition AA with condition BB,Diverticulitis,NULL
+K5721,Diverticulitis of large intestine with perforation and abscess with bleeding,DIG021,Gastrointestinal hemorrhage,N,05 Condition AA with condition BB,Diverticulitis,NULL
+K5740,Diverticulitis of both small and large intestine with perforation and abscess without bleeding,DIG006,Gastrointestinal and biliary perforation,N,05 Condition AA with condition BB,Diverticulitis,NULL
+K5740,Diverticulitis of both small and large intestine with perforation and abscess without bleeding,DIG013,Diverticulosis and diverticulitis,Y,05 Condition AA with condition BB,Diverticulitis,NULL
+K5740,Diverticulitis of both small and large intestine with perforation and abscess without bleeding,DIG016,Peritonitis and intra-abdominal abscess,N,05 Condition AA with condition BB,Diverticulitis,NULL
+K5741,Diverticulitis of both small and large intestine with perforation and abscess with bleeding,DIG006,Gastrointestinal and biliary perforation,N,05 Condition AA with condition BB,Diverticulitis,NULL
+K5741,Diverticulitis of both small and large intestine with perforation and abscess with bleeding,DIG013,Diverticulosis and diverticulitis,Y,05 Condition AA with condition BB,Diverticulitis,NULL
+K5741,Diverticulitis of both small and large intestine with perforation and abscess with bleeding,DIG021,Gastrointestinal hemorrhage,N,05 Condition AA with condition BB,Diverticulitis,NULL
+K5780,"Diverticulitis of intestine, part unspecified, with perforation and abscess without bleeding",DIG006,Gastrointestinal and biliary perforation,N,05 Condition AA with condition BB,Diverticulitis,NULL
+K5780,"Diverticulitis of intestine, part unspecified, with perforation and abscess without bleeding",DIG013,Diverticulosis and diverticulitis,Y,05 Condition AA with condition BB,Diverticulitis,NULL
+K5780,"Diverticulitis of intestine, part unspecified, with perforation and abscess without bleeding",DIG016,Peritonitis and intra-abdominal abscess,N,05 Condition AA with condition BB,Diverticulitis,NULL
+K5781,"Diverticulitis of intestine, part unspecified, with perforation and abscess with bleeding",DIG006,Gastrointestinal and biliary perforation,N,05 Condition AA with condition BB,Diverticulitis,NULL
+K5781,"Diverticulitis of intestine, part unspecified, with perforation and abscess with bleeding",DIG013,Diverticulosis and diverticulitis,Y,05 Condition AA with condition BB,Diverticulitis,NULL
+K5781,"Diverticulitis of intestine, part unspecified, with perforation and abscess with bleeding",DIG021,Gastrointestinal hemorrhage,N,05 Condition AA with condition BB,Diverticulitis,NULL
+K593,Megacolon not elsewhere classified,DIG025,Other specified and unspecified gastrointestinal disorders,Y,0 Not Applicable,Diverticulitis,NULL
+K5931,Toxic megacolon,DIG025,Other specified and unspecified gastrointestinal disorders,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Diverticulitis,NULL
+K5939,Other megacolon,DIG025,Other specified and unspecified gastrointestinal disorders,Y,0 Not Applicable,Diverticulitis,NULL
+K630,Abscess of intestine,DIG016,Peritonitis and intra-abdominal abscess,Y,0 Not Applicable,Diverticulitis,NULL
+K631,Perforation of intestine (nontraumatic),DIG006,Gastrointestinal and biliary perforation,Y,0 Not Applicable,Diverticulitis,NULL
+K650,Generalized (acute) peritonitis,DIG016,Peritonitis and intra-abdominal abscess,Y,0 Not Applicable,megacolon,NULL
+K651,Peritoneal abscess,DIG016,Peritonitis and intra-abdominal abscess,Y,0 Not Applicable,megacolon,NULL
+K652,Spontaneous bacterial peritonitis,DIG016,Peritonitis and intra-abdominal abscess,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,megacolon,NULL
+K653,Choleperitonitis,DIG016,Peritonitis and intra-abdominal abscess,Y,0 Not Applicable,peritonitis,NULL
+K654,Sclerosing mesenteritis,DIG016,Peritonitis and intra-abdominal abscess,Y,0 Not Applicable,peritonitis,NULL
+K658,Other peritonitis,DIG016,Peritonitis and intra-abdominal abscess,Y,0 Not Applicable,peritonitis,NULL
+K659,"Peritonitis, unspecified",DIG016,Peritonitis and intra-abdominal abscess,Y,0 Not Applicable,peritonitis,NULL
+K660,Peritoneal adhesions (postprocedural) (postinfection),DIG025,Other specified and unspecified gastrointestinal disorders,Y,0 Not Applicable,peritonitis,NULL
+K661,Hemoperitoneum,DIG025,Other specified and unspecified gastrointestinal disorders,Y,0 Not Applicable,peritonitis,NULL
+K67,Disorders of peritoneum in infectious diseases classd elswhr,DIG016,Peritonitis and intra-abdominal abscess,Y,0 Not Applicable,peritonitis,NULL
+K6811,Postprocedural retroperitoneal abscess,DIG016,Peritonitis and intra-abdominal abscess,Y,0 Not Applicable,peritonitis,NULL
+K6812,Psoas muscle abscess,DIG016,Peritonitis and intra-abdominal abscess,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,peritonitis,NULL
+K6819,Other retroperitoneal abscess,DIG016,Peritonitis and intra-abdominal abscess,Y,0 Not Applicable,peritonitis,NULL
+K7041,Alcoholic hepatic failure with coma,DIG018,Hepatic failure,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,peritonitis,NULL
+K710,Toxic liver disease with cholestasis,DIG019,Other specified and unspecified liver disease,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,peritonitis,NULL
+K7110,"Toxic liver disease with hepatic necrosis, without coma",DIG019,Other specified and unspecified liver disease,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,peritonitis,NULL
+K7111,"Toxic liver disease with hepatic necrosis, with coma",DIG019,Other specified and unspecified liver disease,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,peritonitis,NULL
+K712,Toxic liver disease with acute hepatitis,DIG023,Noninfectious hepatitis,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,peritonitis,NULL
+K713,Toxic liver disease with chronic persistent hepatitis,DIG023,Noninfectious hepatitis,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,hepatic failure or Toxic liver disease,NULL
+K714,Toxic liver disease with chronic lobular hepatitis,DIG023,Noninfectious hepatitis,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,hepatic failure or Toxic liver disease,NULL
+K7150,Toxic liver disease with chronic active hepatitis without ascites,DIG023,Noninfectious hepatitis,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,hepatic failure or Toxic liver disease,NULL
+K7151,Toxic liver disease with chronic active hepatitis with ascites,DIG023,Noninfectious hepatitis,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,hepatic failure or Toxic liver disease,NULL
+K716,"Toxic liver disease with hepatitis, not elsewhere classified",DIG023,Noninfectious hepatitis,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,hepatic failure or Toxic liver disease,NULL
+K717,Toxic liver disease with fibrosis and cirrhosis of liver,DIG019,Other specified and unspecified liver disease,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,hepatic failure or Toxic liver disease,NULL
+K718,Toxic liver disease with other disorders of liver,DIG019,Other specified and unspecified liver disease,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,hepatic failure or Toxic liver disease,NULL
+K719,"Toxic liver disease, unspecified",DIG019,Other specified and unspecified liver disease,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,hepatic failure or Toxic liver disease,NULL
+K7201,Acute and subacute hepatic failure with coma,DIG018,Hepatic failure,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,hepatic failure or Toxic liver disease,NULL
+K750,Abscess of liver,DIG016,Peritonitis and intra-abdominal abscess,Y,0 Not Applicable,hepatic failure or Toxic liver disease,NULL
+K762,Central hemorrhagic necrosis of liver,DIG019,Other specified and unspecified liver disease,Y,0 Not Applicable,hepatic failure or Toxic liver disease,NULL
+K763,Infarction of liver,DIG019,Other specified and unspecified liver disease,Y,0 Not Applicable,hepatic failure or Toxic liver disease,NULL
+K8000,Calculus of gallbladder w acute cholecyst w/o obstruction,DIG017,Biliary tract disease,Y,0 Not Applicable,hepatic failure or Toxic liver disease,NULL
+K8001,Calculus of gallbladder w acute cholecystitis w obstruction,DIG017,Biliary tract disease,Y,0 Not Applicable,hepatic failure or Toxic liver disease,NULL
+K8012,Calculus of GB w acute and chronic cholecyst w/o obstruction,DIG017,Biliary tract disease,Y,0 Not Applicable,Liver abscess,NULL
+K8013,Calculus of GB w acute and chronic cholecyst w obstruction,DIG017,Biliary tract disease,Y,0 Not Applicable,Infarction of liver,NULL
+K8018,Calculus of gallbladder w oth cholecystitis w/o obstruction,DIG017,Biliary tract disease,Y,0 Not Applicable,Infarction of liver,NULL
+K8019,Calculus of gallbladder w oth cholecystitis with obstruction,DIG017,Biliary tract disease,Y,0 Not Applicable,acute cholecystitis or cholangitis,NULL
+K8030,"Calculus of bile duct w cholangitis, unsp, w/o obstruction",DIG017,Biliary tract disease,Y,0 Not Applicable,acute cholecystitis or cholangitis,NULL
+K8031,"Calculus of bile duct w cholangitis, unsp, with obstruction",DIG017,Biliary tract disease,Y,0 Not Applicable,acute cholecystitis or cholangitis,NULL
+K8032,Calculus of bile duct with acute cholangitis w/o obstruction,DIG017,Biliary tract disease,Y,0 Not Applicable,acute cholecystitis or cholangitis,NULL
+K8033,Calculus of bile duct w acute cholangitis with obstruction,DIG017,Biliary tract disease,Y,0 Not Applicable,acute cholecystitis or cholangitis,NULL
+K8036,Calculus of bile duct w acute and chr cholangitis w/o obst,DIG017,Biliary tract disease,Y,0 Not Applicable,acute cholecystitis or cholangitis,NULL
+K8037,Calculus of bile duct w acute and chronic cholangitis w obst,DIG017,Biliary tract disease,Y,0 Not Applicable,acute cholecystitis or cholangitis,NULL
+K8040,"Calculus of bile duct w cholecystitis, unsp, w/o obstruction",DIG017,Biliary tract disease,Y,0 Not Applicable,acute cholecystitis or cholangitis,NULL
+K8041,"Calculus of bile duct w cholecystitis, unsp, w obstruction",DIG017,Biliary tract disease,Y,0 Not Applicable,acute cholecystitis or cholangitis,NULL
+K8042,Calculus of bile duct w acute cholecystitis w/o obstruction,DIG017,Biliary tract disease,Y,0 Not Applicable,acute cholecystitis or cholangitis,NULL
+K8043,Calculus of bile duct w acute cholecystitis with obstruction,DIG017,Biliary tract disease,Y,0 Not Applicable,acute cholecystitis or cholangitis,NULL
+K8045,Calculus of bile duct w chronic cholecystitis w obstruction,DIG017,Biliary tract disease,Y,0 Not Applicable,acute cholecystitis or cholangitis,NULL
+K8046,Calculus of bile duct w acute and chronic cholecyst w/o obst,DIG017,Biliary tract disease,Y,0 Not Applicable,acute cholecystitis or cholangitis,NULL
+K8047,Calculus of bile duct w acute and chronic cholecyst w obst,DIG017,Biliary tract disease,Y,0 Not Applicable,acute cholecystitis or cholangitis,NULL
+K8050,Calculus of bile duct w/o cholangitis or cholecyst w/o obst,DIG017,Biliary tract disease,Y,0 Not Applicable,acute cholecystitis or cholangitis,NULL
+K8051,Calculus of bile duct w/o cholangitis or cholecyst w obst,DIG017,Biliary tract disease,Y,0 Not Applicable,acute cholecystitis or cholangitis,NULL
+K810,Acute cholecystitis,DIG017,Biliary tract disease,Y,0 Not Applicable,acute cholecystitis or cholangitis,NULL
+K812,Acute cholecystitis with chronic cholecystitis,DIG017,Biliary tract disease,Y,0 Not Applicable,acute cholecystitis or cholangitis,NULL
+K820,Obstruction of gallbladder,DIG017,Biliary tract disease,Y,0 Not Applicable,acute cholecystitis or cholangitis,NULL
+K822,Perforation of gallbladder,DIG006,Gastrointestinal and biliary perforation,Y,12 More than one CCSR category matches the ICD-10-CM codebook chapter,acute cholecystitis or cholangitis,NULL
+K822,Perforation of gallbladder,DIG017,Biliary tract disease,N,12 More than one CCSR category matches the ICD-10-CM codebook chapter,acute cholecystitis or cholangitis,NULL
+K850,Idiopathic acute pancreatitis,DIG020,Pancreatic disorders (excluding diabetes),Y,0 Not Applicable,acute cholecystitis or cholangitis,NULL
+K8500,Idiopathic acute pancreatitis without necrosis or infection,DIG020,Pancreatic disorders (excluding diabetes),Y,0 Not Applicable,acute cholecystitis or cholangitis,NULL
+K8501,Idiopathic acute pancreatitis with uninfected necrosis,DIG020,Pancreatic disorders (excluding diabetes),Y,0 Not Applicable,Obstruction of gallbladder,NULL
+K8502,Idiopathic acute pancreatitis with infected necrosis,DIG020,Pancreatic disorders (excluding diabetes),Y,0 Not Applicable,Perforation of gallbladder,NULL
+K851,Biliary acute pancreatitis,DIG020,Pancreatic disorders (excluding diabetes),Y,0 Not Applicable,Perforation of gallbladder,NULL
+K8510,Biliary acute pancreatitis without necrosis or infection,DIG020,Pancreatic disorders (excluding diabetes),Y,0 Not Applicable,pancreatitis,NULL
+K8511,Biliary acute pancreatitis with uninfected necrosis,DIG020,Pancreatic disorders (excluding diabetes),Y,0 Not Applicable,pancreatitis,NULL
+K8512,Biliary acute pancreatitis with infected necrosis,DIG020,Pancreatic disorders (excluding diabetes),Y,0 Not Applicable,pancreatitis,NULL
+K852,Alcohol induced acute pancreatitis,DIG020,Pancreatic disorders (excluding diabetes),Y,0 Not Applicable,pancreatitis,NULL
+K8520,Alcohol induced acute pancreatitis without necrosis or infct,DIG020,Pancreatic disorders (excluding diabetes),Y,0 Not Applicable,pancreatitis,NULL
+K8521,Alcohol induced acute pancreatitis with uninfected necrosis,DIG020,Pancreatic disorders (excluding diabetes),Y,0 Not Applicable,pancreatitis,NULL
+K8522,Alcohol induced acute pancreatitis with infected necrosis,DIG020,Pancreatic disorders (excluding diabetes),Y,0 Not Applicable,pancreatitis,NULL
+K853,Drug induced acute pancreatitis,DIG020,Pancreatic disorders (excluding diabetes),N,11 Condition XX due to underlying cause YY,pancreatitis,NULL
+K8530,Drug induced acute pancreatitis without necrosis or infection,DIG020,Pancreatic disorders (excluding diabetes),N,11 Condition XX due to underlying cause YY,pancreatitis,NULL
+K8531,Drug induced acute pancreatitis with uninfected necrosis,DIG020,Pancreatic disorders (excluding diabetes),N,11 Condition XX due to underlying cause YY,pancreatitis,NULL
+K8532,Drug induced acute pancreatitis with infected necrosis,DIG020,Pancreatic disorders (excluding diabetes),N,11 Condition XX due to underlying cause YY,pancreatitis,NULL
+K858,Other acute pancreatitis,DIG020,Pancreatic disorders (excluding diabetes),Y,0 Not Applicable,pancreatitis,Endocrine
+K8580,Other acute pancreatitis without necrosis or infection,DIG020,Pancreatic disorders (excluding diabetes),Y,0 Not Applicable,pancreatitis,NULL
+K8581,Other acute pancreatitis with uninfected necrosis,DIG020,Pancreatic disorders (excluding diabetes),Y,0 Not Applicable,pancreatitis,NULL
+K8582,Other acute pancreatitis with infected necrosis,DIG020,Pancreatic disorders (excluding diabetes),Y,0 Not Applicable,pancreatitis,NULL
+K859,Acute pancreatitis unspecified,DIG020,Pancreatic disorders (excluding diabetes),Y,0 Not Applicable,pancreatitis,NULL
+K8590,"Acute pancreatitis without necrosis or infection, unsp",DIG020,Pancreatic disorders (excluding diabetes),Y,0 Not Applicable,pancreatitis,NULL
+K8591,"Acute pancreatitis with uninfected necrosis, unspecified",DIG020,Pancreatic disorders (excluding diabetes),Y,0 Not Applicable,pancreatitis,NULL
+K8592,"Acute pancreatitis with infected necrosis, unspecified",DIG020,Pancreatic disorders (excluding diabetes),Y,0 Not Applicable,pancreatitis,NULL
+K913,Postprocedural intestinal obstruction,DIG012,Intestinal obstruction and ileus,N,01 Postprocedural or postoperative complications,pancreatitis,NULL
+K913,Postprocedural intestinal obstruction,DIG024,Postprocedural or postoperative digestive system complication,Y,01 Postprocedural or postoperative complications,pancreatitis,GU
+K9130,"Postprocedural intestinal obstruction, unspecified as to partial versus complete",DIG012,Intestinal obstruction and ileus,N,01 Postprocedural or postoperative complications,pancreatitis,NULL
+K9130,"Postprocedural intestinal obstruction, unspecified as to partial versus complete",DIG024,Postprocedural or postoperative digestive system complication,Y,01 Postprocedural or postoperative complications,pancreatitis,NULL
+K9131,Postprocedural partial intestinal obstruction,DIG012,Intestinal obstruction and ileus,N,01 Postprocedural or postoperative complications,pancreatitis,NULL
+K9131,Postprocedural partial intestinal obstruction,DIG024,Postprocedural or postoperative digestive system complication,Y,01 Postprocedural or postoperative complications,intestinal obstruction,NULL
+K9132,Postprocedural complete intestinal obstruction,DIG012,Intestinal obstruction and ileus,N,01 Postprocedural or postoperative complications,intestinal obstruction,NULL
+K9132,Postprocedural complete intestinal obstruction,DIG024,Postprocedural or postoperative digestive system complication,Y,01 Postprocedural or postoperative complications,intestinal obstruction,NULL
+E0500,Thyrotoxicosis w diffuse goiter w/o thyrotoxic crisis,END001,Thyroid disorders,Y,0 Not Applicable,intestinal obstruction,NULL
+E0501,Thyrotoxicosis w diffuse goiter w thyrotoxic crisis or storm,END001,Thyroid disorders,Y,0 Not Applicable,intestinal obstruction,NULL
+E0511,Thyrotxcosis w toxic single thyroid nodule w thyrotxc crisis,END001,Thyroid disorders,Y,0 Not Applicable,intestinal obstruction,NULL
+E0521,Thyrotxcosis w toxic multinodular goiter w thyrotoxic crisis,END001,Thyroid disorders,Y,0 Not Applicable,intestinal obstruction,NULL
+E0531,Thyrotxcosis from ectopic thyroid tissue w thyrotoxic crisis,END001,Thyroid disorders,Y,0 Not Applicable,intestinal obstruction,NULL
+E0541,Thyrotoxicosis factitia with thyrotoxic crisis or storm,END001,Thyroid disorders,Y,0 Not Applicable,Thyrotoxicosis,NULL
+E0581,Other thyrotoxicosis with thyrotoxic crisis or storm,END001,Thyroid disorders,Y,0 Not Applicable,Thyrotoxicosis,NULL
+E0591,"Thyrotoxicosis, unspecified with thyrotoxic crisis or storm",END001,Thyroid disorders,Y,0 Not Applicable,Thyrotoxicosis,NULL
+N170,Acute kidney failure with tubular necrosis,GEN002,Acute and unspecified renal failure,Y,0 Not Applicable,Thyrotoxicosis,NULL
+N171,Acute kidney failure with acute cortical necrosis,GEN002,Acute and unspecified renal failure,Y,0 Not Applicable,Thyrotoxicosis,NULL
+N172,Acute kidney failure with medullary necrosis,GEN002,Acute and unspecified renal failure,Y,0 Not Applicable,Thyrotoxicosis,NULL
+N178,Other acute kidney failure,GEN002,Acute and unspecified renal failure,Y,0 Not Applicable,Thyrotoxicosis,NULL
+N179,"Acute kidney failure, unspecified",GEN002,Acute and unspecified renal failure,Y,0 Not Applicable,Thyrotoxicosis,NULL
+N19,Unspecified kidney failure,GEN002,Acute and unspecified renal failure,Y,0 Not Applicable,Acute kideny failure,NULL
+N990,Postprocedural (acute) (chronic) kidney failure,GEN002,Acute and unspecified renal failure,N,01 Postprocedural or postoperative complications,Acute kideny failure,NULL
+O904,Postpartum acute kidney failure,GEN002,Acute and unspecified renal failure,N,"03 Pregnancy, perinatal, and congenital malformation",Acute kideny failure,NULL
+N8351,Torsion of ovary and ovarian pedicle,GEN025,Other specified female genital disorders,Y,0 Not Applicable,Acute kideny failure,NULL
+N83511,Torsion of right ovary and ovarian pedicle,GEN025,Other specified female genital disorders,Y,0 Not Applicable,Acute kideny failure,NULL
+N83512,Torsion of left ovary and ovarian pedicle,GEN025,Other specified female genital disorders,Y,0 Not Applicable,Acute kideny failure,NULL
+N83519,"Torsion of ovary and ovarian pedicle, unspecified side",GEN025,Other specified female genital disorders,Y,0 Not Applicable,Acute kideny failure,NULL
+N8352,Torsion of fallopian tube,GEN025,Other specified female genital disorders,Y,0 Not Applicable,Acute kideny failure,NULL
+N83521,Torsion of right fallopian tube,GEN025,Other specified female genital disorders,Y,0 Not Applicable,Torsion of ovary,NULL
+N83522,Torsion of left fallopian tube,GEN025,Other specified female genital disorders,Y,0 Not Applicable,Torsion of ovary,NULL
+N83529,"Torsion of fallopian tube, unspecified side",GEN025,Other specified female genital disorders,Y,0 Not Applicable,Torsion of ovary,NULL
+N8353,"Torsion of ovary, ovarian pedicle and fallopian tube",GEN025,Other specified female genital disorders,Y,0 Not Applicable,Torsion of ovary,NULL
+N836,Hematosalpinx,GEN025,Other specified female genital disorders,Y,0 Not Applicable,Torsion of ovary,NULL
+N837,Hematoma of broad ligament,GEN025,Other specified female genital disorders,Y,0 Not Applicable,Torsion of ovary,NULL
+N4400,"Torsion of testis, unspecified",GEN016,Other specified male genital disorders,Y,0 Not Applicable,Torsion of ovary,NULL
+N4403,Torsion of appendix testis,GEN016,Other specified male genital disorders,Y,0 Not Applicable,Torsion of ovary,NULL
+N4404,Torsion of appendix epididymis,GEN016,Other specified male genital disorders,Y,0 Not Applicable,Torsion of ovary,NULL
+A021,Salmonella sepsis,INF002,Septicemia,Y,06 Infectious conditions,Torsion of ovary,NULL
+A021,Salmonella sepsis,INF003,Bacterial infections,N,06 Infectious conditions,Torsion of ovary,NULL
+A227,Anthrax sepsis,INF002,Septicemia,Y,06 Infectious conditions,Torsion of testis,NULL
+A227,Anthrax sepsis,INF003,Bacterial infections,N,06 Infectious conditions,Torsion of testis,NULL
+A267,Erysipelothrix sepsis,INF002,Septicemia,Y,06 Infectious conditions,Torsion of testis,NULL
+A267,Erysipelothrix sepsis,INF003,Bacterial infections,N,06 Infectious conditions,Sepsis,NULL
+A327,Listerial sepsis,INF002,Septicemia,Y,06 Infectious conditions,Sepsis,NULL
+A327,Listerial sepsis,INF003,Bacterial infections,N,06 Infectious conditions,Sepsis,NULL
+A400,"Sepsis due to streptococcus, group A",INF002,Septicemia,Y,06 Infectious conditions,Sepsis,NULL
+A400,"Sepsis due to streptococcus, group A",INF003,Bacterial infections,N,06 Infectious conditions,Sepsis,NULL
+A401,"Sepsis due to streptococcus, group B",INF002,Septicemia,Y,06 Infectious conditions,Sepsis,NULL
+A401,"Sepsis due to streptococcus, group B",INF003,Bacterial infections,N,06 Infectious conditions,Sepsis,NULL
+A403,Sepsis due to Streptococcus pneumoniae,INF002,Septicemia,Y,06 Infectious conditions,Sepsis,NULL
+A403,Sepsis due to Streptococcus pneumoniae,INF003,Bacterial infections,N,06 Infectious conditions,Sepsis,NULL
+A408,Other streptococcal sepsis,INF002,Septicemia,Y,06 Infectious conditions,Sepsis,NULL
+A408,Other streptococcal sepsis,INF003,Bacterial infections,N,06 Infectious conditions,Sepsis,NULL
+A409,"Streptococcal sepsis, unspecified",INF002,Septicemia,Y,06 Infectious conditions,Sepsis,NULL
+A409,"Streptococcal sepsis, unspecified",INF003,Bacterial infections,N,06 Infectious conditions,Sepsis,NULL
+A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus,INF002,Septicemia,Y,06 Infectious conditions,Sepsis,NULL
+A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus,INF003,Bacterial infections,N,06 Infectious conditions,Sepsis,NULL
+A4102,Sepsis due to Methicillin resistant Staphylococcus aureus,INF002,Septicemia,Y,06 Infectious conditions,Sepsis,NULL
+A4102,Sepsis due to Methicillin resistant Staphylococcus aureus,INF003,Bacterial infections,N,06 Infectious conditions,Sepsis,NULL
+A411,Sepsis due to other specified staphylococcus,INF002,Septicemia,Y,06 Infectious conditions,Sepsis,NULL
+A411,Sepsis due to other specified staphylococcus,INF003,Bacterial infections,N,06 Infectious conditions,Sepsis,NULL
+A412,Sepsis due to unspecified staphylococcus,INF002,Septicemia,Y,06 Infectious conditions,Sepsis,NULL
+A412,Sepsis due to unspecified staphylococcus,INF003,Bacterial infections,N,06 Infectious conditions,Sepsis,NULL
+A413,Sepsis due to Hemophilus influenzae,INF002,Septicemia,Y,06 Infectious conditions,Sepsis,NULL
+A413,Sepsis due to Hemophilus influenzae,INF003,Bacterial infections,N,06 Infectious conditions,Sepsis,NULL
+A414,Sepsis due to anaerobes,INF002,Septicemia,Y,06 Infectious conditions,Sepsis,NULL
+A414,Sepsis due to anaerobes,INF003,Bacterial infections,N,06 Infectious conditions,Sepsis,NULL
+A4150,"Gram-negative sepsis, unspecified",INF002,Septicemia,Y,06 Infectious conditions,Sepsis,NULL
+A4150,"Gram-negative sepsis, unspecified",INF003,Bacterial infections,N,06 Infectious conditions,Sepsis,NULL
+A4151,Sepsis due to Escherichia coli [E. coli],INF002,Septicemia,Y,06 Infectious conditions,Sepsis,NULL
+A4151,Sepsis due to Escherichia coli [E. coli],INF003,Bacterial infections,N,06 Infectious conditions,Sepsis,NULL
+A4152,Sepsis due to Pseudomonas,INF002,Septicemia,Y,06 Infectious conditions,Sepsis,NULL
+A4152,Sepsis due to Pseudomonas,INF003,Bacterial infections,N,06 Infectious conditions,Sepsis,NULL
+A4153,Sepsis due to Serratia,INF002,Septicemia,Y,06 Infectious conditions,Sepsis,NULL
+A4153,Sepsis due to Serratia,INF003,Bacterial infections,N,06 Infectious conditions,Sepsis,NULL
+A4159,Other Gram-negative sepsis,INF002,Septicemia,Y,06 Infectious conditions,Sepsis,NULL
+A4159,Other Gram-negative sepsis,INF003,Bacterial infections,N,06 Infectious conditions,Sepsis,NULL
+A4181,Sepsis due to Enterococcus,INF002,Septicemia,Y,06 Infectious conditions,Sepsis,NULL
+A4181,Sepsis due to Enterococcus,INF003,Bacterial infections,N,06 Infectious conditions,Sepsis,NULL
+A4189,Other specified sepsis,INF002,Septicemia,Y,06 Infectious conditions,Sepsis,NULL
+A4189,Other specified sepsis,INF003,Bacterial infections,N,06 Infectious conditions,Sepsis,NULL
+A419,"Sepsis, unspecified organism",INF002,Septicemia,Y,06 Infectious conditions,Sepsis,NULL
+A419,"Sepsis, unspecified organism",INF003,Bacterial infections,N,06 Infectious conditions,Sepsis,NULL
+A427,Actinomycotic sepsis,INF002,Septicemia,Y,06 Infectious conditions,Sepsis,NULL
+A427,Actinomycotic sepsis,INF003,Bacterial infections,N,06 Infectious conditions,Sepsis,NULL
+A5486,Gonococcal sepsis,INF002,Septicemia,Y,06 Infectious conditions,Sepsis,NULL
+A5486,Gonococcal sepsis,INF010,Sexually transmitted infections (excluding HIV and hepatitis),N,06 Infectious conditions,Sepsis,NULL
+B377,Candidal sepsis,INF002,Septicemia,Y,06 Infectious conditions,Sepsis,NULL
+B377,Candidal sepsis,INF004,Fungal infections,N,06 Infectious conditions,Sepsis,NULL
+O0337,Sepsis following incomplete spontaneous abortion,INF002,Septicemia,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+O0387,Sepsis following complete or unspecified spontaneous abortion,INF002,Septicemia,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+O0487,Sepsis following (induced) termination of pregnancy,INF002,Septicemia,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+O0737,Sepsis following failed attempted termination of pregnancy,INF002,Septicemia,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+O0882,Sepsis following ectopic and molar pregnancy,INF002,Septicemia,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+O85,Puerperal sepsis,INF002,Septicemia,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+O8604,Sepsis following an obstetrical procedure,INF002,Septicemia,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+P360,"Sepsis of newborn due to streptococcus, group B",INF002,Septicemia,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+P360,"Sepsis of newborn due to streptococcus, group B",INF003,Bacterial infections,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+P3610,Sepsis of newborn due to unspecified streptococci,INF002,Septicemia,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+P3610,Sepsis of newborn due to unspecified streptococci,INF003,Bacterial infections,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+P3619,Sepsis of newborn due to other streptococci,INF002,Septicemia,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+P3619,Sepsis of newborn due to other streptococci,INF003,Bacterial infections,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+P362,Sepsis of newborn due to Staphylococcus aureus,INF002,Septicemia,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+P362,Sepsis of newborn due to Staphylococcus aureus,INF003,Bacterial infections,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+P3630,Sepsis of newborn due to unspecified staphylococci,INF002,Septicemia,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+P3630,Sepsis of newborn due to unspecified staphylococci,INF003,Bacterial infections,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+P3639,Sepsis of newborn due to other staphylococci,INF002,Septicemia,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+P3639,Sepsis of newborn due to other staphylococci,INF003,Bacterial infections,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+P364,Sepsis of newborn due to Escherichia coli,INF002,Septicemia,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+P364,Sepsis of newborn due to Escherichia coli,INF003,Bacterial infections,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+P365,Sepsis of newborn due to anaerobes,INF002,Septicemia,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+P365,Sepsis of newborn due to anaerobes,INF003,Bacterial infections,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+P368,Other bacterial sepsis of newborn,INF002,Septicemia,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+P368,Other bacterial sepsis of newborn,INF003,Bacterial infections,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+P369,"Bacterial sepsis of newborn, unspecified",INF002,Septicemia,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+P369,"Bacterial sepsis of newborn, unspecified",INF003,Bacterial infections,N,"03 Pregnancy, perinatal, and congenital malformation",Sepsis,NULL
+R6520,Severe sepsis without septic shock,INF002,Septicemia,Y,0 Not Applicable,Sepsis,NULL
+R6521,Severe sepsis with septic shock,INF002,Septicemia,Y,07 Signs/symptoms and factors influencing health status,Sepsis,NULL
+T8144XA,"Sepsis following a procedure, initial encounter",INF002,Septicemia,N,01 Postprocedural or postoperative complications,Sepsis,NULL
+A480,Gas gangrene,INF003,Bacterial infections,Y,0 Not Applicable,Sepsis,NULL
+A483,Toxic shock syndrome,INF003,Bacterial infections,Y,0 Not Applicable,Sepsis,NULL
+A200,Bubonic plague,INF003,Bacterial infections,Y,0 Not Applicable,Sepsis,NULL
+A201,Cellulocutaneous plague,INF003,Bacterial infections,N,06 Infectious conditions,Sepsis,NULL
+A202,Pneumonic plague,INF003,Bacterial infections,N,06 Infectious conditions,Sepsis,NULL
+A203,Plague meningitis,INF003,Bacterial infections,N,06 Infectious conditions,gas gandrene,NULL
+A207,Septicemic plague,INF003,Bacterial infections,N,06 Infectious conditions,Toxic shock syndrome,NULL
+A208,Other forms of plague,INF003,Bacterial infections,Y,0 Not Applicable,plague,NULL
+A209,"Plague, unspecified",INF003,Bacterial infections,Y,0 Not Applicable,plague,NULL
+A390,Meningococcal meningitis,INF003,Bacterial infections,N,06 Infectious conditions,plague,NULL
+A3950,"Meningococcal carditis, unspecified",INF003,Bacterial infections,N,06 Infectious conditions,plague,NULL
+A3951,Meningococcal endocarditis,INF003,Bacterial infections,N,06 Infectious conditions,plague,NULL
+A3952,Meningococcal myocarditis,INF003,Bacterial infections,N,06 Infectious conditions,plague,NULL
+A3953,Meningococcal pericarditis,INF003,Bacterial infections,N,06 Infectious conditions,plague,NULL
+A3981,Meningococcal encephalitis,INF003,Bacterial infections,N,06 Infectious conditions,meningitis,NULL
+A4281,Actinomycotic meningitis,INF003,Bacterial infections,N,06 Infectious conditions,endocarditis,NULL
+A4282,Actinomycotic encephalitis,INF003,Bacterial infections,N,06 Infectious conditions,endocarditis,NULL
+G000,Hemophilus meningitis,INF003,Bacterial infections,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,endocarditis,NULL
+G001,Pneumococcal meningitis,INF003,Bacterial infections,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,endocarditis,NULL
+G002,Streptococcal meningitis,INF003,Bacterial infections,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,encephalitis,NULL
+G003,Staphylococcal meningitis,INF003,Bacterial infections,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,meningitis,NULL
+G008,Other bacterial meningitis,INF003,Bacterial infections,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,encephalitis,NULL
+G009,"Bacterial meningitis, unspecified",INF003,Bacterial infections,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,meningitis,NULL
+G01,Meningitis in bacterial diseases classified elsewhere,INF003,Bacterial infections,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,meningitis,NULL
+G042,"Bacterial meningoencephalitis and meningomyelitis, not elsewhere classified",INF003,Bacterial infections,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,meningitis,NULL
+A811,Subacute sclerosing panencephalitis,INF008,Viral infection,N,06 Infectious conditions,meningitis,NULL
+A830,Japanese encephalitis,INF008,Viral infection,N,06 Infectious conditions,meningitis,NULL
+A831,Western equine encephalitis,INF008,Viral infection,N,06 Infectious conditions,meningitis,NULL
+A832,Eastern equine encephalitis,INF008,Viral infection,N,06 Infectious conditions,meningitis,NULL
+A833,St Louis encephalitis,INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+A834,Australian encephalitis,INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+A835,California encephalitis,INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+A838,Other mosquito-borne viral encephalitis,INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+A839,"Mosquito-borne viral encephalitis, unspecified",INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+A840,Far Eastern tick-borne encephalitis [Russian spring-summer encephalitis],INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+A841,Central European tick-borne encephalitis,INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+A848,Other tick-borne viral encephalitis,INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+A849,"Tick-borne viral encephalitis, unspecified",INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+A850,Enteroviral encephalitis,INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+A851,Adenoviral encephalitis,INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+A852,"Arthropod-borne viral encephalitis, unspecified",INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+A858,Other specified viral encephalitis,INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+A86,Unspecified viral encephalitis,INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+A9231,West Nile virus infection with encephalitis,INF008,Viral infection,Y,05 Condition AA with condition BB,encephalitis,NULL
+B004,Herpesviral encephalitis,INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+B0111,Varicella encephalitis and encephalomyelitis,INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+B020,Zoster encephalitis,INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+B050,Measles complicated by encephalitis,INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+B0601,Rubella encephalitis,INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+B1001,Human herpesvirus 6 encephalitis,INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+B1009,Other human herpesvirus encephalitis,INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+B262,Mumps encephalitis,INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+A870,Enteroviral meningitis,INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+A871,Adenoviral meningitis,INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+A872,Lymphocytic choriomeningitis,INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+A878,Other viral meningitis,INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+A879,"Viral meningitis, unspecified",INF008,Viral infection,N,06 Infectious conditions,encephalitis,NULL
+B003,Herpesviral meningitis,INF008,Viral infection,N,06 Infectious conditions,meningitis,NULL
+B010,Varicella meningitis,INF008,Viral infection,N,06 Infectious conditions,meningitis,NULL
+B021,Zoster meningitis,INF008,Viral infection,N,06 Infectious conditions,meningitis,NULL
+B051,Measles complicated by meningitis,INF008,Viral infection,N,06 Infectious conditions,meningitis,NULL
+B0602,Rubella meningitis,INF008,Viral infection,N,06 Infectious conditions,meningitis,NULL
+B261,Mumps meningitis,INF008,Viral infection,N,06 Infectious conditions,meningitis,NULL
+B2702,Gammaherpesviral mononucleosis with meningitis,INF008,Viral infection,Y,05 Condition AA with condition BB,meningitis,NULL
+B2712,Cytomegaloviral mononucleosis with meningitis,INF008,Viral infection,Y,05 Condition AA with condition BB,meningitis,NULL
+B2782,Other infectious mononucleosis with meningitis,INF008,Viral infection,Y,05 Condition AA with condition BB,meningitis,NULL
+B2792,"Infectious mononucleosis, unspecified with meningitis",INF008,Viral infection,Y,05 Condition AA with condition BB,meningitis,NULL
+A066,Amebic brain abscess,NVS014,CNS abscess,Y,06 Infectious conditions,meningitis,NULL
+A1781,Tuberculoma of brain and spinal cord,NVS014,CNS abscess,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,meningitis,NULL
+A5482,Gonococcal brain abscess,NVS014,CNS abscess,N,06 Infectious conditions,meningitis,NULL
+B150,Hepatitis A with hepatic coma,NVS013,Coma; stupor; and brain damage,N,06 Infectious conditions,meningitis,NULL
+B160,Acute hepatitis B with delta-agent with hepatic coma,NVS013,Coma; stupor; and brain damage,N,06 Infectious conditions,meningitis,NULL
+B162,Acute hepatitis B without delta-agent with hepatic coma,NVS013,Coma; stupor; and brain damage,N,06 Infectious conditions,Brain abscess,NULL
+B1711,Acute hepatitis C with hepatic coma,NVS013,Coma; stupor; and brain damage,N,06 Infectious conditions,Brain abscess,NULL
+B190,Unspecified viral hepatitis with hepatic coma,NVS013,Coma; stupor; and brain damage,N,06 Infectious conditions,Brain abscess,NULL
+B1911,Unspecified viral hepatitis B with hepatic coma,NVS013,Coma; stupor; and brain damage,N,06 Infectious conditions,coma,NULL
+B1921,Unspecified viral hepatitis C with hepatic coma,NVS013,Coma; stupor; and brain damage,N,06 Infectious conditions,coma,NULL
+B431,Pheomycotic brain abscess,NVS014,CNS abscess,Y,06 Infectious conditions,coma,NULL
+E035,Myxedema coma,NVS013,Coma; stupor; and brain damage,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,coma,NULL
+E0801,Diabetes mellitus due to underlying condition with hyperosmolarity with coma,NVS013,Coma; stupor; and brain damage,N,02 Diabetes mellitus,coma,NULL
+E0811,Diabetes mellitus due to underlying condition with ketoacidosis with coma,NVS013,Coma; stupor; and brain damage,N,02 Diabetes mellitus,coma,NULL
+E08641,Diabetes mellitus due to underlying condition with hypoglycemia with coma,NVS013,Coma; stupor; and brain damage,N,02 Diabetes mellitus,coma,NULL
+E0901,Drug or chemical induced diabetes mellitus with hyperosmolarity with coma,NVS013,Coma; stupor; and brain damage,N,02 Diabetes mellitus,coma,NULL
+E0911,Drug or chemical induced diabetes mellitus with ketoacidosis with coma,NVS013,Coma; stupor; and brain damage,N,02 Diabetes mellitus,coma,NULL
+E09641,Drug or chemical induced diabetes mellitus with hypoglycemia with coma,NVS013,Coma; stupor; and brain damage,N,02 Diabetes mellitus,coma,NULL
+E1011,Type 1 diabetes mellitus with ketoacidosis with coma,NVS013,Coma; stupor; and brain damage,N,02 Diabetes mellitus,coma,NULL
+E10641,Type 1 diabetes mellitus with hypoglycemia with coma,NVS013,Coma; stupor; and brain damage,N,02 Diabetes mellitus,coma,NULL
+E1101,Type 2 diabetes mellitus with hyperosmolarity with coma,NVS013,Coma; stupor; and brain damage,N,02 Diabetes mellitus,coma,NULL
+E1111,Type 2 diabetes mellitus with ketoacidosis with coma,NVS013,Coma; stupor; and brain damage,N,02 Diabetes mellitus,coma,NULL
+E11641,Type 2 diabetes mellitus with hypoglycemia with coma,NVS013,Coma; stupor; and brain damage,N,02 Diabetes mellitus,coma,NULL
+E1301,Other specified diabetes mellitus with hyperosmolarity with coma,NVS013,Coma; stupor; and brain damage,N,02 Diabetes mellitus,coma,NULL
+E1311,Other specified diabetes mellitus with ketoacidosis with coma,NVS013,Coma; stupor; and brain damage,N,02 Diabetes mellitus,coma,NULL
+E13641,Other specified diabetes mellitus with hypoglycemia with coma,NVS013,Coma; stupor; and brain damage,N,02 Diabetes mellitus,coma,NULL
+E15,Nondiabetic hypoglycemic coma,NVS013,Coma; stupor; and brain damage,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,coma,NULL
+G060,Intracranial abscess and granuloma,NVS014,CNS abscess,Y,0 Not Applicable,coma,NULL
+G061,Intraspinal abscess and granuloma,NVS014,CNS abscess,Y,0 Not Applicable,coma,NULL
+G062,"Extradural and subdural abscess, unspecified",NVS014,CNS abscess,Y,0 Not Applicable,coma,NULL
+G07,Intcrn & intraspinal abscs & granuloma in dis classd elswhr,NVS014,CNS abscess,Y,0 Not Applicable,coma,NULL
+G931,"Anoxic brain damage, not elsewhere classified",NVS013,Coma; stupor; and brain damage,Y,0 Not Applicable,coma,NULL
+K7041,Alcoholic hepatic failure with coma,NVS013,Coma; stupor; and brain damage,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Brain abscess,NULL
+K7111,"Toxic liver disease with hepatic necrosis, with coma",NVS013,Coma; stupor; and brain damage,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Brain abscess,NULL
+K7201,Acute and subacute hepatic failure with coma,NVS013,Coma; stupor; and brain damage,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Brain abscess,NULL
+K7211,Chronic hepatic failure with coma,NVS013,Coma; stupor; and brain damage,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Brain abscess,NULL
+K7291,"Hepatic failure, unspecified with coma",NVS013,Coma; stupor; and brain damage,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Brain abscess,NULL
+R400,Somnolence,NVS013,Coma; stupor; and brain damage,Y,0 Not Applicable,coma,NULL
+R401,Stupor,NVS013,Coma; stupor; and brain damage,Y,0 Not Applicable,coma,NULL
+R4020,Unspecified coma,NVS013,Coma; stupor; and brain damage,Y,0 Not Applicable,coma,NULL
+R403,Persistent vegetative state,NVS013,Coma; stupor; and brain damage,Y,0 Not Applicable,coma,NULL
+A1782,Tuberculous meningoencephalitis,NVS002,Encephalitis,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,coma,NULL
+A3212,Listerial meningoencephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,coma,NULL
+A3981,Meningococcal encephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,coma,NULL
+A4282,Actinomycotic encephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,coma,NULL
+A5042,Late congenital syphilitic encephalitis,NVS002,Encephalitis,N,"03 Pregnancy, perinatal, and congenital malformation",coma,NULL
+A5214,Late syphilitic encephalitis,NVS002,Encephalitis,N,06 Infectious conditions,Encephalitis,NULL
+A811,Subacute sclerosing panencephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+A830,Japanese encephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+A831,Western equine encephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+A832,Eastern equine encephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+A833,St Louis encephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+A834,Australian encephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+A835,California encephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+A836,Rocio virus disease,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+A838,Other mosquito-borne viral encephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+A839,"Mosquito-borne viral encephalitis, unspecified",NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+A840,Far Eastern tick-borne encephalitis [Russian spring-summer encephalitis],NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+A841,Central European tick-borne encephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+A848,Other tick-borne viral encephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+A849,"Tick-borne viral encephalitis, unspecified",NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+A850,Enteroviral encephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+A851,Adenoviral encephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+A852,"Arthropod-borne viral encephalitis, unspecified",NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+A858,Other specified viral encephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+A86,Unspecified viral encephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+A922,Venezuelan equine fever,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+A9231,West Nile virus infection with encephalitis,NVS002,Encephalitis,N,05 Condition AA with condition BB,Encephalitis,NULL
+B004,Herpesviral encephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+B0111,Varicella encephalitis and encephalomyelitis,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+B020,Zoster encephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+B050,Measles complicated by encephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+B0601,Rubella encephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+B1001,Human herpesvirus 6 encephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+B1009,Other human herpesvirus encephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+B262,Mumps encephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+B4081,Blastomycotic meningoencephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+B5742,Meningoencephalitis in Chagas disease,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+B582,Toxoplasma meningoencephalitis,NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+B6011,Meningoencephalitis due to Acanthamoeba (culbertsoni),NVS002,Encephalitis,Y,06 Infectious conditions,Encephalitis,NULL
+G0400,"Acute disseminated encephalitis and encephalomyelitis, unsp",NVS002,Encephalitis,Y,0 Not Applicable,Encephalitis,NULL
+G0401,Postinfect acute dissem encephalitis and encephalomyelitis,NVS002,Encephalitis,Y,0 Not Applicable,Encephalitis,NULL
+G0402,"Postimmunization acute disseminated encephalitis, myelitis and encephalomyelitis",NVS002,Encephalitis,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Encephalitis,NULL
+G042,"Bacterial meningoencephalitis and meningomyelitis, not elsewhere classified",NVS002,Encephalitis,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Encephalitis,NULL
+G0430,"Acute necrotizing hemorrhagic encephalopathy, unspecified",NVS002,Encephalitis,Y,0 Not Applicable,Encephalitis,NULL
+G0431,Postinfectious acute necrotizing hemorrhagic encephalopathy,NVS002,Encephalitis,Y,0 Not Applicable,Encephalitis,NULL
+G0432,Postimmunization acute necrotizing hemorrhagic encephalopathy,NVS002,Encephalitis,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Encephalitis,NULL
+G0439,Other acute necrotizing hemorrhagic encephalopathy,NVS002,Encephalitis,Y,0 Not Applicable,Encephalitis,NULL
+G0481,Other encephalitis and encephalomyelitis,NVS002,Encephalitis,Y,0 Not Applicable,Encephalitis,NULL
+G0489,Other myelitis,NVS002,Encephalitis,Y,0 Not Applicable,Encephalitis,NULL
+G0490,"Encephalitis and encephalomyelitis, unspecified",NVS002,Encephalitis,Y,0 Not Applicable,Encephalitis,NULL
+G0491,"Myelitis, unspecified",NVS002,Encephalitis,Y,0 Not Applicable,Encephalitis,NULL
+G053,Encephalitis and encephalomyelitis in diseases classd elswhr,NVS002,Encephalitis,Y,0 Not Applicable,Encephalitis,NULL
+G054,Myelitis in diseases classified elsewhere,NVS002,Encephalitis,Y,0 Not Applicable,Encephalitis,NULL
+A0101,Typhoid meningitis,NVS001,Meningitis,Y,06 Infectious conditions,Encephalitis,NULL
+A0221,Salmonella meningitis,NVS001,Meningitis,Y,06 Infectious conditions,Encephalitis,NULL
+A170,Tuberculous meningitis,NVS001,Meningitis,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Encephalitis,NULL
+A171,Meningeal tuberculoma,NVS001,Meningitis,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,Encephalitis,NULL
+A203,Plague meningitis,NVS001,Meningitis,Y,06 Infectious conditions,Encephalitis,NULL
+A2781,Aseptic meningitis in leptospirosis,NVS001,Meningitis,Y,06 Infectious conditions,meningitis,NULL
+A3211,Listerial meningitis,NVS001,Meningitis,Y,06 Infectious conditions,meningitis,NULL
+A390,Meningococcal meningitis,NVS001,Meningitis,Y,06 Infectious conditions,meningitis,NULL
+A4281,Actinomycotic meningitis,NVS001,Meningitis,Y,06 Infectious conditions,meningitis,NULL
+A5041,Late congenital syphilitic meningitis,NVS001,Meningitis,N,"03 Pregnancy, perinatal, and congenital malformation",meningitis,NULL
+A5141,Secondary syphilitic meningitis,NVS001,Meningitis,N,06 Infectious conditions,meningitis,NULL
+A5213,Late syphilitic meningitis,NVS001,Meningitis,N,06 Infectious conditions,meningitis,NULL
+A5481,Gonococcal meningitis,NVS001,Meningitis,N,06 Infectious conditions,meningitis,NULL
+A6921,Meningitis due to Lyme disease,NVS001,Meningitis,Y,06 Infectious conditions,meningitis,NULL
+A870,Enteroviral meningitis,NVS001,Meningitis,Y,06 Infectious conditions,meningitis,NULL
+A871,Adenoviral meningitis,NVS001,Meningitis,Y,06 Infectious conditions,meningitis,NULL
+A872,Lymphocytic choriomeningitis,NVS001,Meningitis,Y,06 Infectious conditions,meningitis,NULL
+A878,Other viral meningitis,NVS001,Meningitis,Y,06 Infectious conditions,meningitis,NULL
+A879,"Viral meningitis, unspecified",NVS001,Meningitis,Y,06 Infectious conditions,meningitis,NULL
+B003,Herpesviral meningitis,NVS001,Meningitis,Y,06 Infectious conditions,meningitis,NULL
+B010,Varicella meningitis,NVS001,Meningitis,Y,06 Infectious conditions,meningitis,NULL
+B021,Zoster meningitis,NVS001,Meningitis,Y,06 Infectious conditions,meningitis,NULL
+B051,Measles complicated by meningitis,NVS001,Meningitis,Y,06 Infectious conditions,meningitis,NULL
+B0602,Rubella meningitis,NVS001,Meningitis,Y,06 Infectious conditions,meningitis,NULL
+B261,Mumps meningitis,NVS001,Meningitis,Y,06 Infectious conditions,meningitis,NULL
+B2702,Gammaherpesviral mononucleosis with meningitis,NVS001,Meningitis,N,05 Condition AA with condition BB,meningitis,NULL
+B2712,Cytomegaloviral mononucleosis with meningitis,NVS001,Meningitis,N,05 Condition AA with condition BB,meningitis,NULL
+B2782,Other infectious mononucleosis with meningitis,NVS001,Meningitis,N,05 Condition AA with condition BB,meningitis,NULL
+B2792,"Infectious mononucleosis, unspecified with meningitis",NVS001,Meningitis,N,05 Condition AA with condition BB,meningitis,NULL
+B375,Candidal meningitis,NVS001,Meningitis,Y,06 Infectious conditions,meningitis,NULL
+B384,Coccidioidomycosis meningitis,NVS001,Meningitis,Y,06 Infectious conditions,meningitis,NULL
+B4281,Cerebral sporotrichosis,NVS001,Meningitis,Y,06 Infectious conditions,meningitis,NULL
+B451,Cerebral cryptococcosis,NVS001,Meningitis,Y,06 Infectious conditions,meningitis,NULL
+B5741,Meningitis in Chagas disease,NVS001,Meningitis,Y,06 Infectious conditions,meningitis,NULL
+D8681,Sarcoid meningitis,NVS001,Meningitis,N,12 Only one CCSR category matches the ICD-10-CM codebook chapter,meningitis,NULL
+G000,Hemophilus meningitis,NVS001,Meningitis,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,meningitis,NULL
+G001,Pneumococcal meningitis,NVS001,Meningitis,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,meningitis,NULL
+G002,Streptococcal meningitis,NVS001,Meningitis,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,meningitis,NULL
+G003,Staphylococcal meningitis,NVS001,Meningitis,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,meningitis,NULL
+G008,Other bacterial meningitis,NVS001,Meningitis,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,meningitis,NULL
+G009,"Bacterial meningitis, unspecified",NVS001,Meningitis,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,meningitis,NULL
+G01,Meningitis in bacterial diseases classified elsewhere,NVS001,Meningitis,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,meningitis,NULL
+G02,Meningitis in other infectious and parasitic diseases classified elsewhere,NVS001,Meningitis,Y,12 Only one CCSR category matches the ICD-10-CM codebook chapter,meningitis,NULL
+G030,Nonpyogenic meningitis,NVS001,Meningitis,Y,0 Not Applicable,meningitis,NULL
+G031,Chronic meningitis,NVS001,Meningitis,Y,0 Not Applicable,meningitis,NULL
+G032,Benign recurrent meningitis [Mollaret],NVS001,Meningitis,Y,0 Not Applicable,meningitis,NULL
+G038,Meningitis due to other specified causes,NVS001,Meningitis,Y,0 Not Applicable,meningitis,NULL
+G039,"Meningitis, unspecified",NVS001,Meningitis,Y,0 Not Applicable,meningitis,NULL
+A5210,"Symptomatic neurosyphilis, unspecified",NVS003,Other specified CNS infection and poliomyelitis,N,06 Infectious conditions,meningitis,NULL
+A5211,Tabes dorsalis,NVS003,Other specified CNS infection and poliomyelitis,N,06 Infectious conditions,meningitis,NULL
+A5212,Other cerebrospinal syphilis,NVS003,Other specified CNS infection and poliomyelitis,N,06 Infectious conditions,meningitis,NULL
+A5217,General paresis,NVS003,Other specified CNS infection and poliomyelitis,N,06 Infectious conditions,meningitis,NULL
+A5219,Other symptomatic neurosyphilis,NVS003,Other specified CNS infection and poliomyelitis,N,06 Infectious conditions,meningitis,NULL
+A522,Asymptomatic neurosyphilis,NVS003,Other specified CNS infection and poliomyelitis,N,06 Infectious conditions,CNS infection,NULL
+A523,"Neurosyphilis, unspecified",NVS003,Other specified CNS infection and poliomyelitis,N,06 Infectious conditions,CNS infection,NULL
+A800,"Acute paralytic poliomyelitis, vaccine-associated",NVS003,Other specified CNS infection and poliomyelitis,Y,06 Infectious conditions,CNS infection,NULL
+A801,"Acute paralytic poliomyelitis, wild virus, imported",NVS003,Other specified CNS infection and poliomyelitis,Y,06 Infectious conditions,CNS infection,NULL
+A802,"Acute paralytic poliomyelitis, wild virus, indigenous",NVS003,Other specified CNS infection and poliomyelitis,Y,06 Infectious conditions,CNS infection,NULL
+A8030,"Acute paralytic poliomyelitis, unspecified",NVS003,Other specified CNS infection and poliomyelitis,Y,06 Infectious conditions,CNS infection,NULL
+A8039,Other acute paralytic poliomyelitis,NVS003,Other specified CNS infection and poliomyelitis,Y,06 Infectious conditions,CNS infection,NULL
+A804,Acute nonparalytic poliomyelitis,NVS003,Other specified CNS infection and poliomyelitis,Y,06 Infectious conditions,CNS infection,NULL
+A809,"Acute poliomyelitis, unspecified",NVS003,Other specified CNS infection and poliomyelitis,Y,06 Infectious conditions,CNS infection,NULL
+A8100,"Creutzfeldt-Jakob disease, unspecified",NVS003,Other specified CNS infection and poliomyelitis,Y,06 Infectious conditions,CNS infection,NULL
+A8101,Variant Creutzfeldt-Jakob disease,NVS003,Other specified CNS infection and poliomyelitis,Y,06 Infectious conditions,CNS infection,NULL
+A8109,Other Creutzfeldt-Jakob disease,NVS003,Other specified CNS infection and poliomyelitis,Y,06 Infectious conditions,CNS infection,NULL
+A812,Progressive multifocal leukoencephalopathy,NVS003,Other specified CNS infection and poliomyelitis,Y,06 Infectious conditions,CNS infection,NULL
+A8181,Kuru,NVS003,Other specified CNS infection and poliomyelitis,Y,06 Infectious conditions,CNS infection,NULL
+A8182,Gerstmann-Straussler-Scheinker syndrome,NVS003,Other specified CNS infection and poliomyelitis,Y,06 Infectious conditions,CNS infection,NULL
+A8183,Fatal familial insomnia,NVS003,Other specified CNS infection and poliomyelitis,Y,06 Infectious conditions,CNS infection,NULL
+A8189,Other atypical virus infections of central nervous system,NVS003,Other specified CNS infection and poliomyelitis,Y,06 Infectious conditions,CNS infection,NULL
+A819,"Atypical virus infection of central nervous system, unspecified",NVS003,Other specified CNS infection and poliomyelitis,Y,06 Infectious conditions,CNS infection,NULL
+A820,Sylvatic rabies,NVS003,Other specified CNS infection and poliomyelitis,Y,06 Infectious conditions,CNS infection,NULL
+A821,Urban rabies,NVS003,Other specified CNS infection and poliomyelitis,Y,06 Infectious conditions,CNS infection,NULL
+A829,"Rabies, unspecified",NVS003,Other specified CNS infection and poliomyelitis,Y,06 Infectious conditions,CNS infection,NULL
+A880,Enteroviral exanthematous fever [Boston exanthem],NVS003,Other specified CNS infection and poliomyelitis,Y,06 Infectious conditions,CNS infection,NULL
+A881,Epidemic vertigo,NVS003,Other specified CNS infection and poliomyelitis,Y,06 Infectious conditions,CNS infection,NULL
+A888,Other specified viral infections of central nervous system,NVS003,Other specified CNS infection and poliomyelitis,Y,06 Infectious conditions,CNS infection,NULL
+A89,Unspecified viral infection of central nervous system,NVS003,Other specified CNS infection and poliomyelitis,Y,06 Infectious conditions,CNS infection,NULL
+G14,Postpolio syndrome,NVS003,Other specified CNS infection and poliomyelitis,Y,0 Not Applicable,CNS infection,NULL
+J690,Pneumonitis due to inhalation of food and vomit,RSP010,Aspiration pneumonitis,Y,0 Not Applicable,CNS infection,NULL
+J691,Pneumonitis due to inhalation of oils and essences,RSP010,Aspiration pneumonitis,Y,12 More than one CCSR category matches the ICD-10-CM codebook chapter,CNS infection,NULL
+J698,Pneumonitis due to inhalation of other solids and liquids,RSP010,Aspiration pneumonitis,Y,12 More than one CCSR category matches the ICD-10-CM codebook chapter,CNS infection,NULL
+J954,Chemical pneumonitis due to anesthesia,RSP010,Aspiration pneumonitis,N,01 Postprocedural or postoperative complications,CNS infection,NULL
+O29011,"Aspiration pneumonitis due to anesthesia during pregnancy, first trimester",RSP010,Aspiration pneumonitis,N,"03 Pregnancy, perinatal, and congenital malformation",CNS infection,NULL
+O29012,"Aspiration pneumonitis due to anesthesia during pregnancy, second trimester",RSP010,Aspiration pneumonitis,N,"03 Pregnancy, perinatal, and congenital malformation",Aspiration pneumonitis,NULL
+O29013,"Aspiration pneumonitis due to anesthesia during pregnancy, third trimester",RSP010,Aspiration pneumonitis,N,"03 Pregnancy, perinatal, and congenital malformation",Aspiration pneumonitis,NULL
+O29019,"Aspiration pneumonitis due to anesthesia during pregnancy, unspecified trimester",RSP010,Aspiration pneumonitis,N,"03 Pregnancy, perinatal, and congenital malformation",Aspiration pneumonitis,NULL
+O740,Aspiration pneumonitis due to anesthesia during labor and delivery,RSP010,Aspiration pneumonitis,N,12 More than one CCSR category matches the ICD-10-CM codebook chapter,Aspiration pneumonitis,NULL
+O8901,Aspiration pneumonitis due to anesthesia during the puerperium,RSP010,Aspiration pneumonitis,N,"03 Pregnancy, perinatal, and congenital malformation",Aspiration pneumonitis,NULL
+J982,Interstitial emphysema,RSP011,"Pleurisy, pleural effusion and pulmonary collapse",Y,0 Not Applicable,Aspiration pneumonitis,NULL
+J930,Spontaneous tension pneumothorax,RSP014,Pneumothorax,Y,0 Not Applicable,Aspiration pneumonitis,NULL
+J9311,Primary spontaneous pneumothorax,RSP014,Pneumothorax,Y,0 Not Applicable,Aspiration pneumonitis,NULL
+J9312,Secondary spontaneous pneumothorax,RSP014,Pneumothorax,Y,0 Not Applicable,Aspiration pneumonitis,NULL
+J9381,Chronic pneumothorax,RSP014,Pneumothorax,Y,0 Not Applicable,Aspiration pneumonitis,NULL
+J9382,Other air leak,RSP014,Pneumothorax,Y,0 Not Applicable,Interstitial emphysema,NULL
+J9383,Other pneumothorax,RSP014,Pneumothorax,Y,0 Not Applicable,Pneumothorax,NULL
+J939,"Pneumothorax, unspecified",RSP014,Pneumothorax,Y,0 Not Applicable,Pneumothorax,NULL
+J95811,Postprocedural pneumothorax,RSP014,Pneumothorax,N,01 Postprocedural or postoperative complications,Pneumothorax,NULL
+J80,Acute respiratory distress syndrome,RSP012,Respiratory failure; insufficiency; arrest,Y,0 Not Applicable,Pneumothorax,NULL
+J95821,Acute postprocedural respiratory failure,RSP012,Respiratory failure; insufficiency; arrest,N,01 Postprocedural or postoperative complications,Pneumothorax,NULL
+J95822,Acute and chronic postprocedural respiratory failure,RSP012,Respiratory failure; insufficiency; arrest,N,01 Postprocedural or postoperative complications,Pneumothorax,NULL
+J9600,"Acute respiratory failure, unsp w hypoxia or hypercapnia",RSP012,Respiratory failure; insufficiency; arrest,Y,0 Not Applicable,Pneumothorax,NULL
+J9601,Acute respiratory failure with hypoxia,RSP012,Respiratory failure; insufficiency; arrest,Y,0 Not Applicable,Pneumothorax,NULL
+J9602,Acute respiratory failure with hypercapnia,RSP012,Respiratory failure; insufficiency; arrest,Y,0 Not Applicable,Respiratory failure,NULL
+J9610,"Chronic respiratory failure, unsp w hypoxia or hypercapnia",RSP012,Respiratory failure; insufficiency; arrest,Y,0 Not Applicable,Respiratory failure,NULL
+J9611,Chronic respiratory failure with hypoxia,RSP012,Respiratory failure; insufficiency; arrest,Y,0 Not Applicable,Respiratory failure,NULL
+J9612,Chronic respiratory failure with hypercapnia,RSP012,Respiratory failure; insufficiency; arrest,Y,0 Not Applicable,Respiratory failure,NULL
+J9620,"Acute and chr resp failure, unsp w hypoxia or hypercapnia",RSP012,Respiratory failure; insufficiency; arrest,Y,0 Not Applicable,Respiratory failure,NULL
+J9621,Acute and chronic respiratory failure with hypoxia,RSP012,Respiratory failure; insufficiency; arrest,Y,0 Not Applicable,Respiratory failure,NULL
+J9622,Acute and chronic respiratory failure with hypercapnia,RSP012,Respiratory failure; insufficiency; arrest,Y,0 Not Applicable,Respiratory failure,NULL
+J9690,"Respiratory failure, unsp, unsp w hypoxia or hypercapnia",RSP012,Respiratory failure; insufficiency; arrest,Y,0 Not Applicable,Respiratory failure,NULL
+J9691,"Respiratory failure, unspecified with hypoxia",RSP012,Respiratory failure; insufficiency; arrest,Y,0 Not Applicable,Respiratory failure,NULL
+J9692,"Respiratory failure, unspecified with hypercapnia",RSP012,Respiratory failure; insufficiency; arrest,Y,0 Not Applicable,Respiratory failure,NULL
+R0901,Asphyxia,RSP012,Respiratory failure; insufficiency; arrest,Y,0 Not Applicable,Respiratory failure,NULL
+R092,Respiratory arrest,RSP012,Respiratory failure; insufficiency; arrest,Y,0 Not Applicable,Respiratory failure,NULL
+NULL,NULL,NULL,NULL,NULL,NULL,Respiratory failure,NULL
+NULL,NULL,NULL,NULL,NULL,NULL,Respiratory failure,NULL
+NULL,NULL,NULL,NULL,NULL,NULL,Respiratory failure,NULL
+NULL,NULL,NULL,NULL,NULL,NULL,Respiratory failure,NULL
+NULL,NULL,NULL,NULL,NULL,NULL,Respiratory failure,NULL
