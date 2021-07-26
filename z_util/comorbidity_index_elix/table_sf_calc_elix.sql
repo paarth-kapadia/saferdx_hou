@@ -1,4 +1,4 @@
--- Create tables
+-- This section creates an input table to hold the patients for whom the Elixhauser score needs to be calculated
 IF (OBJECT_ID('Dflt._pksf_calc_elix__INPUT_patients') IS NOT NULL)
 	BEGIN
 		DROP TABLE Dflt._pksf_calc_elix__INPUT_patients
@@ -6,12 +6,12 @@ IF (OBJECT_ID('Dflt._pksf_calc_elix__INPUT_patients') IS NOT NULL)
 
 CREATE TABLE Dflt._pksf_calc_elix__INPUT_patients
 (
-	p_SSN VARCHAR(50) DEFAULT NULL
-	,tl_sttpnt DATETIME2 DEFAULT NULL
-	,tl_lookbp_months INT DEFAULT 0
+	p_SSN VARCHAR(50) DEFAULT NULL	-- Patient SSN or identifier
+	,tl_sttpnt DATETIME2 DEFAULT NULL	-- The admission date of the hospitalization for which you want to calculate the index (it will only calculate the score for comorbidities in the record prior to this date)
+	,tl_lookbp_months INT DEFAULT 0	-- The lookback period in months for how far the algorithm should go back to find the comorbidites with which to calculate the score
 )
 
--- Create tables
+-- This section creates an outut table that contains the score for each patient in the input table as well as the categories of comorbidities they had (per the Elixhauser classification)
 IF (OBJECT_ID('Dflt._pksf_calc_elix__OUTPUT_scores') IS NOT NULL)
 	BEGIN
 		DROP TABLE Dflt._pksf_calc_elix__OUTPUT_scores
