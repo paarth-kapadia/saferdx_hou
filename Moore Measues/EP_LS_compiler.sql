@@ -1,19 +1,3 @@
--- QUESTIONS FOR DR.ZIMOLZAK
-
--- Are these the histologies I need to exclude for lung?
--- HistologyIcdo3X like 'small%' 
--- HistologyIcdo3X  like 'carcinoid%' 
--- HistologyIcdo3X  like 'neuro%'
-
--- Are these the histologies I need to exclude for CRC?
--- Histologyicdo3X like '%carcinoid%' 
--- Histologyicdo3X like '%neuro%' 
--- Histologyicdo3X like '%adenoma%' 
--- Histologyicdo3X like '%lymph%' 
--- Histologyicdo3X like 'gastrointestinal strom%'
--- Histologyicdo3X like '%sarcoma%'
-
-
 -- Set Up
 USE ORD_Singh_202001030D
 SET NOCOUNT ON
